@@ -1,0 +1,12 @@
+{
+ "row": 261,
+ "name": "Anar Sabuhi Rzayev",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "anar@dag-epfl.ch",
+ "email_status": "verified",
+ "email_source": "his own academic site source: github.com/anar-rzayev/anar-rzayev.github.io _config.yml, 'first_name: Anar / middle_name: Sabuxi Oglu / last_name: Rzayev / email: anar@dag-epfl.ch'",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Identity anchor: the _config.yml of his personal academic site names him 'Anar Sabuxi Oglu Rzayev' (Azerbaijani patronymic form of 'Anar Sabuhi Rzayev') and his GitHub profile states 'Ex-Research student @ KAIST', 'Exchange in CS & Math @ EPFL', now ML at ISTA Vienna - matches the KAIST BLEnD contributor. Email is the real printed address from that config, not constructed. LinkedIn: not confirmable. Two site:linkedin.com/in searches returned only namesakes with contradicting headlines (CNH Industrial business development, Azerenerji electrical engineer, Azerbaijan Land Transport Agency, Centaur Construction CEO, Azerbaijani Bar attorney, etc.); his own site declares 'linkedin_username: anar~rzayev', but a targeted search for that slug surfaced no LinkedIn page and the slug is malformed, so left not_found rather than publish an unverified URL. ResearchGate: only Anar-Rzayev-3 (Vice Rector, International Economics) - clearly a different person; his own site leaves research_gate_profile empty, i.e. he has no RG profile."
+}

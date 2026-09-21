@@ -1,0 +1,12 @@
+{
+ "row": 259,
+ "name": "Eunsu Kim",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "kes0317@kaist.ac.kr",
+ "email_status": "verified",
+ "email_source": "arXiv:2510.19028 HTML author block ('Are they lovers or friends?', KAIST, Eunsu Kim first author with Alice Oh)",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Email: arXiv:2510.19028 prints author names and KAIST emails in matched order; the mapping is pinned by five self-evident pairs (Junyeong Park->junyeong.park, Seyoung Song->seyoung.song, A. Seza Dogruoz->as.dogruoz@ugent.be, Alice Oh->alice.oh@kaist.edu, Najoung Kim->najoung@bu.edu), which fixes position 1 Eunsu Kim -> kes0317@kaist.ac.kr; same-lab anchor (KAIST + Alice Oh, BLEnD senior author). LinkedIn: three searches (site:linkedin.com/in with KAIST/NLP, with Alice Oh, with CLIcK/BenchHub/Daejeon) surfaced only /in/euns0o-kim (headline 'Hyundai Motor Company'), /in/eunsu-kim-a437a6138 ('IT Service Operation Coordinator at Merck' / 'Planner - PTKOREA'), /in/eunsukim ('NEMESIS Co. Ltd.') and /in/eunsu-kim-84035b379 - no title or URL carries a KAIST/NLP anchor, so all rejected as namesakes of a very common Korean name. ResearchGate: only Eunsu-Kim-3 (University of Seoul, Philosophy), Eunsu-Kim (Jeju National University, Marine Life Science) and Eunsu-Kim-4 (Konkuk University, Animal Biotechnology) - all wrong field/org, rejected; no KAIST profile exists."
+}
