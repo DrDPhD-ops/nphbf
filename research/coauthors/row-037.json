@@ -1,0 +1,99 @@
+{
+  "row": 37,
+  "papers": [
+    {
+      "arxiv_id": "2510.01247",
+      "title": "Let's Play Across Cultures: A Large Multilingual, Multicultural Benchmark for Assessing Language Models' Understanding of Sports (CultSportQA, EMNLP 2025)"
+    }
+  ],
+  "coauthors": [
+    {
+      "name": "Punit Kumar Singh",
+      "affiliation": "Indian Institute of Technology Patna, India",
+      "email": "",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": true,
+      "relevance_evidence": "First author of CultSportQA, 'a benchmark designed to assess LMs' understanding of traditional sports across 60 countries and 6 continents, encompassing four distinct cultural categories'; also first author of arXiv 2606.19727 'NRITYAM: Language Models Meet Art and Heritage of Dance' - a second cultural-heritage LLM evaluation work."
+    },
+    {
+      "name": "Akash Ghosh",
+      "affiliation": "Indian Institute of Technology Patna, India",
+      "email": "akash2321cs19@iitp.ac.in",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": true,
+      "relevance_evidence": "Repeated author on cultural-knowledge LLM benchmarks: 'SANSKRITI: A Comprehensive Benchmark for Evaluating Language Models' Knowledge of Indian Culture', 'DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture' and 'VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning', in addition to CultSportQA. Email printed in arXiv HTML of 2509.19274 (DRISHTIKON)."
+    },
+    {
+      "name": "Sriparna Saha",
+      "affiliation": "Indian Institute of Technology Patna, India",
+      "email": "sriparna@iitp.ac.in",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": true,
+      "relevance_evidence": "Senior author of CultSportQA and of DRISHTIKON ('Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture') and SANSKRITI; leads the IIT Patna AI-NLP-ML group's line of work on evaluating cultural knowledge and cultural bias in LLMs/VLMs. Email printed in arXiv HTML of 2509.19274."
+    },
+    {
+      "name": "Haiqin Yang",
+      "affiliation": "Shenzhen Technology University, China",
+      "email": "yanghaiqin@sztu.edu.cn",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": true,
+      "relevance_evidence": "Corresponding author of CultSportQA (address printed in the arXiv HTML: 'Corresponding authors: yanghaiqin@sztu.edu.cn'), and co-author of arXiv 2606.19727 'NRITYAM: Language Models Meet Art and Heritage of Dance' - two separate works on evaluating LLMs against cultural traditions."
+    },
+    {
+      "name": "Jose G Moreno",
+      "affiliation": "Universite de Toulouse, France (IRIT)",
+      "email": "jose.moreno@irit.fr",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": false,
+      "relevance_evidence": "Corresponding author on CultSportQA, but an arXiv author search for his other work returns no further culture- or values-oriented LLM papers; his other IIT Patna collaboration (COSMMIC, 2506.15372) is multilingual Indian summarization with no cultural-values dimension. Rejected under the gate that co-authorship on the shared paper alone is not grounds."
+    },
+    {
+      "name": "Kitsuchart Pasupa",
+      "affiliation": "King Mongkut's Institute of Technology Ladkrabang, Thailand",
+      "email": "",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": false,
+      "relevance_evidence": "Besides CultSportQA his nearest works are 'When Meaning Isn't Literal: Exploring Idiomatic Meaning Across Languages and Modalities' and 'When Meaning Travels: A Granular Lens on Hybrid-MoE's Role in Idiomatic Understanding for Language Models' - cross-lingual idiomatic semantics, not culture, cultural values or value alignment. Rejected."
+    },
+    {
+      "name": "Syukron Abu Ishaq Alfarozi",
+      "affiliation": "Universitas Gadjah Mada, Indonesia",
+      "email": "",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": false,
+      "relevance_evidence": "arXiv author search returns no cultural- or values-related work other than the shared CultSportQA paper; co-authorship alone is not grounds."
+    },
+    {
+      "name": "Asres Temam Abagissa",
+      "affiliation": "Universitas Gadjah Mada, Indonesia / King Mongkut's Institute of Technology Ladkrabang, Thailand (joint affiliation block in the paper)",
+      "email": "",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": false,
+      "relevance_evidence": "No independent work on culture, cultural values or value alignment in LLMs found; only tie is the shared CultSportQA paper."
+    },
+    {
+      "name": "Kunal Pasad",
+      "affiliation": "Sardar Patel Institute of Technology, Mumbai, India",
+      "email": "",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": false,
+      "relevance_evidence": "Student co-author with no other culture- or values-related LLM publications found on arXiv; co-authorship alone is not grounds."
+    },
+    {
+      "name": "Khushi Soni",
+      "affiliation": "Sardar Patel Institute of Technology, Mumbai, India",
+      "email": "",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": false,
+      "relevance_evidence": "Student co-author with no other culture- or values-related LLM publications found on arXiv; co-authorship alone is not grounds."
+    },
+    {
+      "name": "Manisha Jaishwal",
+      "affiliation": "Indian Institute of Technology Patna, India",
+      "email": "",
+      "arxiv_id_seen_in": "2510.01247",
+      "relevant": false,
+      "relevance_evidence": "No independent work on culture, cultural values or value alignment in LLMs found; only tie is the shared CultSportQA paper."
+    }
+  ]
+}
