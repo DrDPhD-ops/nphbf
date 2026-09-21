@@ -1,0 +1,12 @@
+{
+  "row": 37,
+  "name": "Nishant Kumar",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "not found",
+  "email_status": "not_found",
+  "email_source": "",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "LinkedIn https://www.linkedin.com/in/nishant-kumar77/ confirmed via search snippet with headline 'GenAI & NLP Researcher | M.Tech (AI) @ IIT Patna | Multimodal, Multilingual & Cultural AI | Ex-GlobalLogic' - matches the IIT Patna + cultural AI anchors; independently corroborated by arXiv 2510.01247 (CultSportQA, EMNLP 2025) where Nishant Kumar is listed with affiliation 'Indian Institute of Technology Patna, India' alongside Sriparna Saha on a multilingual/multicultural LLM benchmark. No email is printed on any accessible page: the arXiv HTML of 2510.01247 prints only the corresponding authors' addresses (yanghaiqin@sztu.edu.cn, jose.moreno@irit.fr), the CultSportQA GitHub repo (M-Groot7/CultSportQA) has a 3-line README with no contact, and iitp.ac.in plus aclanthology.org are egress-blocked; the iitp address nishant2312res420@iitp.ac.in found in arXiv 2509.19274 belongs to a different person (Nishant Mishra) and was rejected. ResearchGate: the only IIT Patna 'Nishant Kumar' profile found (researchgate.net/profile/Nishant_Kumar144) is a PhD student in the Department of Mathematics working on algebraic coding theory and ZCZ sequence design - a namesake, rejected; no ResearchGate profile exists for the NLP/cultural-AI Nishant Kumar."
+}

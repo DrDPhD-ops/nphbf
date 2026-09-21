@@ -1,0 +1,26 @@
+{
+  "row": 90,
+  "papers": [
+    {
+      "arxiv_id": "",
+      "title": "Emergent Numeric Bias in Large Language Models: An Empirical Study on the Anomalous Recurrence of the Number 27 Across Independent Sessions (SSRN preprint, DOI 10.2139/ssrn.5404673; also Research Square rs-7128459/v1) - single author"
+    },
+    {
+      "arxiv_id": "",
+      "title": "Mirrors that Mutate: AI, Bias, and the Architecture of Human Echoes (SSRN preprint, DOI 10.2139/ssrn.5404659; also PhilArchive philarchive.org/rec/NATMTM-2) - single author"
+    },
+    {
+      "arxiv_id": "",
+      "title": "Simulated Souls: Investigating the Emotional Fallacy in Large Language Models (AI and Ethics, Springer, DOI 10.1007/s43681-026-01100-8; preprint DOI 10.2139/ssrn.5404666) - single author, confirmed via Semantic Scholar API"
+    },
+    {
+      "arxiv_id": "",
+      "title": "Counterfactual Divergence Singularity: A Theoretical Model of High-Similarity Instability and Micro-counterfactual Drift in Large Language Models (under review, Cognitive Systems Research; listed on author's personal page) - single author"
+    },
+    {
+      "arxiv_id": "",
+      "title": "Cognitive-Physiological Digital Twins: An AI Framework for Integrating Mental Health and Clinical Medicine (IEEE TechRxiv preprint; listed on author's personal page) - single author"
+    }
+  ],
+  "coauthors": []
+}

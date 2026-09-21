@@ -1,0 +1,898 @@
+[
+ {
+  "name": "Punit Kumar Singh",
+  "aff": "Indian Institute of Technology Patna, India",
+  "email": "",
+  "ev": [
+   "First author of CultSportQA, 'a benchmark designed to assess LMs' understanding of traditional sports across 60 countries and 6 continents, encompassing four distinct cultural categories'; also first author of arXiv 2606.19727 'NRITYAM: Language Models Meet Art and Heritage of Dance' - a second cultural-heritage LLM evaluation work."
+  ],
+  "src": [
+   "2510.01247"
+  ],
+  "row": 37
+ },
+ {
+  "name": "Akash Ghosh",
+  "aff": "Indian Institute of Technology Patna, India",
+  "email": "akash2321cs19@iitp.ac.in",
+  "ev": [
+   "Repeated author on cultural-knowledge LLM benchmarks: 'SANSKRITI: A Comprehensive Benchmark for Evaluating Language Models' Knowledge of Indian Culture', 'DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture' and 'VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning', in addition to CultSportQA. Email printed in arXiv HTML of 2509.19274 (DRISHTIKON)."
+  ],
+  "src": [
+   "2510.01247"
+  ],
+  "row": 37
+ },
+ {
+  "name": "Sriparna Saha",
+  "aff": "Indian Institute of Technology Patna, India",
+  "email": "sriparna@iitp.ac.in",
+  "ev": [
+   "Senior author of CultSportQA and of DRISHTIKON ('Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture') and SANSKRITI; leads the IIT Patna AI-NLP-ML group's line of work on evaluating cultural knowledge and cultural bias in LLMs/VLMs. Email printed in arXiv HTML of 2509.19274."
+  ],
+  "src": [
+   "2510.01247"
+  ],
+  "row": 37
+ },
+ {
+  "name": "Haiqin Yang",
+  "aff": "Shenzhen Technology University, China",
+  "email": "yanghaiqin@sztu.edu.cn",
+  "ev": [
+   "Corresponding author of CultSportQA (address printed in the arXiv HTML: 'Corresponding authors: yanghaiqin@sztu.edu.cn'), and co-author of arXiv 2606.19727 'NRITYAM: Language Models Meet Art and Heritage of Dance' - two separate works on evaluating LLMs against cultural traditions."
+  ],
+  "src": [
+   "2510.01247"
+  ],
+  "row": 37
+ },
+ {
+  "name": "Hatice Gunes",
+  "aff": "Department of Computer Science and Technology, University of Cambridge, United Kingdom",
+  "email": "hatice.gunes@cl.cam.ac.uk",
+  "ev": [
+   "Leads LLM work on aligning agent behaviour with human norms and preferences: 'GRACE: Generating Socially Appropriate Robot Actions Leveraging LLMs and Human Explanations' (arXiv:2409.16879) - 'robots need to handle complex tasks while both adhering to social norms and accommodating individual preferences... integrating common-sense knowledge with human preferences, often conveyed through human explanations'. This is norm/value alignment of LLM-driven agents, plus related work on socially appropriate actions (StARS, 'Mind the Context') and 'Multimodal Gender Fairness in Depression Prediction: Insights on Data from the USA & China' (cross-national data comparison). Caveat: her work is HRI/affective computing rather than LLM cultural-values benchmarking; no paper of hers is explicitly about cross-cultural differences in LLMs."
+  ],
+  "src": [
+   "2504.14882"
+  ],
+  "row": 42
+ },
+ {
+  "name": "Pak-Hang Wong",
+  "aff": "Hong Kong Baptist University, Kowloon Tong, Hong Kong",
+  "email": "",
+  "ev": [
+   "Philosopher of technology whose core work is literally on cultural values and AI: 'Cultural Differences as Excuses? Human Rights and Cultural Values in Global Ethics and Governance of AI' (Philosophy & Technology 33(4):705-715, 2020) argues that 'cultural differences pose a serious challenge to the ethics and governance of artificial intelligence from a global perspective... malignant actors [may] disregard the demand of important ethical values... by affirming the local culture lacks specific ethical values, e.g., privacy, or by asserting the local culture upholds conflicting values'. Directly about cross-cultural value conflict and value localization in AI."
+  ],
+  "src": [
+   "2609.13867"
+  ],
+  "row": 45
+ },
+ {
+  "name": "Tom Suhr",
+  "aff": "Technische Universitat Berlin, Germany",
+  "email": "tom.suehr@googlemail.com",
+  "ev": [
+   "First author of 'Challenging the Validity of Personality Tests for Large Language Models' (arXiv:2311.05297): 'it has become popular to attempt to evaluate personality traits of LLMs using questionnaires originally developed for humans... we provide evidence that LLMs' responses to personality tests systematically deviate from human responses, implying that the results of these tests cannot be interpreted in the same way.' This is exactly the construct-validity question underlying value-survey studies (Hofstede/WVS-style questionnaires) applied to LLMs."
+  ],
+  "src": [
+   "1905.13134"
+  ],
+  "row": 45
+ },
+ {
+  "name": "Fariba Karimi",
+  "aff": "Complexity Science Hub Vienna, Austria; Graz University of Technology, Austria",
+  "email": "karimi@tugraz.at",
+  "ev": [
+   "Co-author of 'Linguistic neighbourhoods: explaining cultural borders on Wikipedia through multilingual co-editing activity' (arXiv:1603.04225), which extracts 'significant cultural borders from editing activity of Wikipedia users' across language communities and shows 'how culture is reflected in the collective process of archiving knowledge'; explanatory factors are bilingualism, linguistic similarity and shared religion. Cross-cultural analysis over multilingual text corpora, and she now audits LLM outputs ('Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations')."
+  ],
+  "src": [
+   "2609.13867"
+  ],
+  "row": 45
+ },
+ {
+  "name": "Francesco Bonchi",
+  "aff": "ISI Foundation, Turin, Italy",
+  "email": "francesco.bonchi@isi.it",
+  "ev": [
+   "Co-author of 'Cultures in Community Question Answering' (arXiv:1508.05044): 'We investigate the influence of national culture on people's online questioning and answering behavior... We measure empirically a set of cultural metrics defined in Geert Hofstede's cultural dimensions and Robert Levine's Pace of Life and show that behavioral cultural differences exist in community question answering platforms' across 67 countries. Cross-cultural (Hofstede-dimension) analysis of a natural-language QA platform."
+  ],
+  "src": [
+   "1706.06368"
+  ],
+  "row": 45
+ },
+ {
+  "name": "Hadi Hosseini",
+  "aff": "Penn State University, University Park, USA",
+  "email": "hadi@psu.edu",
+  "ev": [
+   "PI of the Penn State FAIR Lab and senior author on Khanna's whole line of work on LLM moral values and value alignment. arXiv 2506.00079 'Who Gets the Kidney? Human-AI Alignment, Indecision, and Moral Values' asks about LLM 'alignment with human moral values' and shows LLMs 'exhibit stark deviations from human values'; arXiv 2502.00313 'Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values' examines 'whether LLM responses adhere to fundamental fairness concepts ... and investigate their alignment with human preferences', i.e. normative value alignment of LLMs rather than generic bias."
+  ],
+  "src": [
+   "2502.00313"
+  ],
+  "row": 48
+ },
+ {
+  "name": "Leona Pierce",
+  "aff": "Penn State University, University Park, USA",
+  "email": "ijp5139@psu.edu",
+  "ev": [
+   "Co-author on two LLM moral-values papers. arXiv 2608.05583 'The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions' (AIES 2026) states 'LLMs apply a systematically different moral framework than humans when responsibility and resource scarcity intersect'; also co-author of arXiv 2506.00079 on LLM alignment with human moral values in kidney allocation."
+  ],
+  "src": [
+   "2608.05583"
+  ],
+  "row": 48
+ },
+ {
+  "name": "John P. Dickerson",
+  "aff": "Mozilla AI, San Francisco, USA",
+  "email": "john@mozilla.ai",
+  "ev": [
+   "Co-author of arXiv 2506.00079 'Who Gets the Kidney? Human-AI Alignment, Indecision, and Moral Values', which 'systematically evaluate[s] the behavior of several prominent LLMs against human preferences in kidney allocation scenarios' and argues for 'explicit alignment strategies for LLMs in moral/ethical domains' — LLM value alignment with human moral preferences."
+  ],
+  "src": [
+   "2506.00079"
+  ],
+  "row": 48
+ },
+ {
+  "name": "Sonia Khetarpaul",
+  "aff": "Associate Professor, Department of Computer Science and Engineering, Shiv Nadar University, Dadri, India",
+  "email": "",
+  "ev": [
+   "Senior author on the shared paper and, separately, author of 'Investigating Cultural Bias: A Comparative Study of Large Language Models' (PReMI 2025, DOI 10.1007/978-3-032-18477-1_45, Semantic Scholar paper b84aa574f14a31324446070993779e95a0b29a18, DBLP conf/premi/SrivastavaSKS25) - a comparative study of cultural bias across large language models, i.e. cultural bias in LLMs directly, not generic fairness. She also works on cross-lingual LLM QA ('CLOR-QA: Cross-Lingual Open-Retrieval Question Answering Model with Dynamic Database Integration', DOI 10.1007/978-3-031-78090-5_2) and Indian-context LLM adaptation ('IndLaw-QA: Fine-Tuned LLMs with RAG for Indian Legal QA'), but the cultural-bias LLM study alone satisfies the gate."
+  ],
+  "src": [],
+  "row": 50
+ },
+ {
+  "name": "Qing Xiao",
+  "aff": "Human-Computer Interaction Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+  "email": "qingx@cs.cmu.edu",
+  "ev": [
+   "Co-lead of 'User-Driven Value Alignment' (2409.00862), which introduces 'the concept of user-driven value alignment, where users actively identify, challenge, and attempt to correct AI outputs they perceive as harmful, aiming to guide the AI to better align with their values' for LLM-based AI companions; also on Minion (2411.07042) on negotiating 'harmful value conflicts' with LLM companions. Directly about values/value alignment in LLMs."
+  ],
+  "src": [
+   "2409.00862"
+  ],
+  "row": 55
+ },
+ {
+  "name": "Xuhui Zhou",
+  "aff": "Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+  "email": "xuhuiz@cs.cmu.edu",
+  "ev": [
+   "NLP author on 'User-Driven Value Alignment' (2409.00862) and Minion (2411.07042): 'Large language model-based AI companions ... can generate biased, discriminatory, and harmful outputs' and users' 'seven user-driven alignment strategies'. Work is on social/value alignment of LLMs, not generic bias."
+  ],
+  "src": [
+   "2409.00862"
+  ],
+  "row": 55
+ },
+ {
+  "name": "Jiaxin Pei",
+  "aff": "Stanford University (email printed: pedropei@stanford.edu)",
+  "email": "pedropei@stanford.edu",
+  "ev": [
+   "Co-author of 'User-Driven Value Alignment' (2409.00862), an NLP/HCI study of 'six common types of discriminatory statements perceived by users' in LLM companions and strategies 'to guide the AI to better align with their values' - a values-in-LLMs paper, not generic fairness."
+  ],
+  "src": [
+   "2409.00862"
+  ],
+  "row": 55
+ },
+ {
+  "name": "Maarten Sap",
+  "aff": "Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+  "email": "msap2@cs.cmu.edu",
+  "ev": [
+   "Senior author on both value papers (2409.00862 'user-driven value alignment'; 2411.07042 'how users negotiate harmful value conflicts with AI companions ... discriminatory statements and controlling behavior') plus SoMi-ToM social reasoning; his line of work is social norms, moral/value alignment and social intelligence of LLMs."
+  ],
+  "src": [
+   "2409.00862"
+  ],
+  "row": 55
+ },
+ {
+  "name": "Hong Shen",
+  "aff": "Human-Computer Interaction Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+  "email": "hongs@cs.cmu.edu",
+  "ev": [
+   "Senior author on 2409.00862 and 2411.07042, whose related-work sections are 'Discrimination and Bias in LLMs' and 'Human-AI Value Alignment in the Age of LLMs'; the papers frame end users and 'their communities' as agents of value alignment for LLM systems."
+  ],
+  "src": [
+   "2409.00862"
+  ],
+  "row": 55
+ },
+ {
+  "name": "Zhicong Lu",
+  "aff": "Department of Computer Science, George Mason University, Fairfax, VA, USA (earlier City University of Hong Kong; both emails printed)",
+  "email": "zlu6@gmu.edu",
+  "ev": [
+   "Co-author of 'User-Driven Value Alignment' (2409.00862) and Minion (2411.07042) on value conflicts and re-alignment of LLM-based companions, studied with Chinese-platform user communities; that work is about values in LLMs rather than only his generic social-computing/platform-culture studies."
+  ],
+  "src": [
+   "2409.00862"
+  ],
+  "row": 55
+ },
+ {
+  "name": "Yuran Su",
+  "aff": "Tsinghua University, Beijing, China",
+  "email": "eransu11@outlook.com",
+  "ev": [
+   "Co-author of Minion (2411.07042), a probe for 'how users negotiate harmful value conflicts with AI companions', including 'where conflicts become non-negotiable due to companion personas or platform policies' - LLM value negotiation/alignment."
+  ],
+  "src": [
+   "2411.07042"
+  ],
+  "row": 55
+ },
+ {
+  "name": "Omer Nacar",
+  "aff": "Tuwaiq Academy; NAMAA Community",
+  "email": "o.najar@tuwaiq.edu.sa",
+  "ev": [
+   "Only email printed in the AraModernBERT PDF author block. Relevant: co-author of arXiv 2505.21979 'Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset' - the title itself commits to 'Culturally-Aware' Arabic instruction data - and of arXiv 2503.00151 'Palm: A Culturally Inclusive and Linguistically Diverse Dataset for Arabic LLMs', a community-built dataset explicitly framed as 'Culturally Inclusive' across Arab countries. Both go beyond building an Arabic model: they target cultural coverage/awareness of LLMs, which is the cultural-values dimension the list is about."
+  ],
+  "src": [
+   "2603.09982"
+  ],
+  "row": 56
+ },
+ {
+  "name": "Shaina Raza",
+  "aff": "Vector Institute for Artificial Intelligence, Toronto, ON, Canada (also listed as Toronto Metropolitan University on 2404.01399)",
+  "email": "shaina.raza@vectorinstitute.ai",
+  "ev": [
+   "Senior author on all four of Ghuge's papers and lead author of HumaniBench (arXiv 2505.11454), an explicit human-VALUES alignment benchmark for large multimodal models: 'their alignment with human centered (HC) principles such as fairness, ethics, inclusivity, empathy, and robustness is often overlooked... a unified framework for characterizing HC alignment across realistic, socially grounded visual contexts... All models show persistent gaps in fairness and multilingual inclusivity.' Also senior author of LinguaMark (arXiv 2507.07274), a cross-lingual fairness/bias benchmark over 11 languages and five social attributes, and of 'She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and Sustainable Language Models' (arXiv 2310.18333) whose stated aim is that 'LLM outputs uphold the ethical standards of society'. Passes the gate on value alignment plus cross-lingual evaluation, not merely generic bias mitigation."
+  ],
+  "src": [
+   "2312.03750, 2401.11033, 2310.00347 (shaina.raza@torontomu.ca printed on 2404.01399)"
+  ],
+  "row": 66
+ },
+ {
+  "name": "Veronica Chatrath",
+  "aff": "Vector Institute, Toronto, ON, M5G 1M1, Canada (printed in the author footnote of 2310.00347: 'O. Bamgbose, V. Chatrath, S. Ghuge, and Y. Sidyakin are with the Vector Institute')",
+  "email": "",
+  "ev": [
+   "First author of 'She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and Sustainable Language Models' (arXiv 2310.18333), squarely a value-alignment paper: 'Appropriate safeguards must be in place to ensure LLM outputs uphold the ethical standards of society... This motivates our research question: how do we ensure LLM alignment? In this work, we introduce a test suite of unique prompts to foster the development of aligned LLMs that are fair, safe, and robust.' BORDERLINE NOTE for audit: the values dimension is societal/ethical alignment of LLMs rather than explicitly cross-cultural; no cross-cultural comparison in her record."
+  ],
+  "src": [
+   "2310.00347"
+  ],
+  "row": 66
+ },
+ {
+  "name": "Oluwanifemi Bamgbose",
+  "aff": "AI Engineering, Vector Institute for Artificial Intelligence, Toronto, M5G 1M1, Ontario, Canada",
+  "email": "oluwanifemi.bamgbose@vectorinstitute.ai",
+  "ev": [
+   "Co-author of 'She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and Sustainable Language Models' (arXiv 2310.18333, with Chatrath and Raza), which asks 'how do we ensure LLM alignment?' and tests whether LLM outputs 'uphold the ethical standards of society'. Same BORDERLINE caveat as Chatrath: societal/ethical value alignment in LLMs, no explicit cross-cultural axis. Her other work (MBIAS, Unlocking Bias Detection) is generic bias mitigation and would not pass on its own."
+  ],
+  "src": [
+   "2404.01399"
+  ],
+  "row": 66
+ },
+ {
+  "name": "Deval Pandya",
+  "aff": "Vector Institute for Artificial Intelligence, Toronto, ON, Canada (VP AI Engineering)",
+  "email": "deval.pandya@vectorinstitute.ai",
+  "ev": [
+   "Senior/last author on HumaniBench (arXiv 2505.11454), the human-centric VALUES alignment benchmark: 'alignment with human centered (HC) principles such as fairness, ethics, inclusivity, empathy, and robustness'; findings report 'persistent gaps in fairness and multilingual inclusivity'. BORDERLINE NOTE for audit: he is an institutional senior author (VP of AI Engineering at Vector) rather than a topic specialist; his remaining record (MLHOps, FAIR Enough, soft-prompt bias evaluation) is generic responsible-AI and would not pass on its own."
+  ],
+  "src": [
+   "2401.11033"
+  ],
+  "row": 66
+ },
+ {
+  "name": "Deepak John Reji",
+  "aff": "Computer Science Department, University of Limerick, Castletroy, V94 T9PX, Limerick, Ireland",
+  "email": "deepakjohn1994@gmail.com",
+  "ev": [
+   "Author of 'LLM-Agent-based Social Simulation for Attitude Diffusion', which uses LLM agents to model social belief and value dynamics: 'simulate how public attitudes toward immigration change over time in response to salient events... this approach integrates multidimensional sociological belief structures and real-world event timelines... purpose-built as a social science research instrument specifically for studying attitude dynamics, polarisation, and belief evolution.' BORDERLINE NOTE for audit: this is social attitudes / sociological belief structures in LLM agents rather than 'cultural values' named as such; his other work (NBIAS, Dbias, accent speech synthesis) is generic bias/fairness and does not pass."
+  ],
+  "src": [
+   "2404.01399"
+  ],
+  "row": 66
+ },
+ {
+  "name": "Alice Oh",
+  "aff": "KAIST",
+  "email": "alice.oh@kaist.edu",
+  "ev": [
+   "Senior author on BLEnD, KoBBQ, CREHate and FINEST. BLEnD is 'a hand-crafted benchmark designed to evaluate LLMs' everyday knowledge across diverse cultures and languages'; she leads the KAIST group whose agenda is culture-specific evaluation of LLMs.",
+   "Advisor and senior author on 'KoBBQ: Korean Bias Benchmark for Question Answering' (arXiv:2307.16778), a culturally-adapted Korean bias benchmark built by re-localizing US-centric BBQ categories to Korean social context; also on 'BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages' and 'CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean'. Explicit cultural-localization-of-values work in LLM/NLP."
+  ],
+  "src": [
+   "2406.09948",
+   "2504.10886"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Junho Myung",
+  "aff": "KAIST",
+  "email": "junho00211@kaist.ac.kr",
+  "ev": [
+   "Co-first author of BLEnD, which shows 'LLMs perform better for cultures that are highly represented online, with a maximum 57.34% difference in GPT-4'; also co-author of CREHate on cross-cultural hate speech annotation."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Yi Zhou",
+  "aff": "Cardiff University",
+  "email": "zhouy131@cardiff.ac.uk",
+  "ev": [
+   "Co-first author of BLEnD, a benchmark for 'culture-specific knowledge of daily life, especially across diverse regions and non-English languages' in LLMs."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Jiho Jin",
+  "aff": "KAIST",
+  "email": "jinjh0123@kaist.ac.kr",
+  "ev": [
+   "First author of KoBBQ, which builds 'social biases reflecting Korean culture' into a bias benchmark; also co-author of BLEnD and CREHate.",
+   "First author of KoBBQ (arXiv:2307.16778); also authors 'Survey of Cultural Awareness in Language Models: Text and Beyond', 'CulTrace: Tracing Internal Cultural Reasoning in Large Language Models', 'JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors' and 'Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability'. Dedicated cultural-awareness-in-LLM researcher."
+  ],
+  "src": [
+   "2307.16778",
+   "2407.06004"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Hwaran Lee",
+  "aff": "NAVER AI Lab",
+  "email": "",
+  "ev": [
+   "Senior author of KoBBQ, a Korean-culture-specific bias benchmark that contrasts native Korean templates against 'machine-translated versions of BBQ', i.e. cultural localization of value/bias evaluation; also co-author of BLEnD.",
+   "Co-author of KoBBQ (arXiv:2307.16778) and author of 'KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge' - a benchmark measuring LLM alignment to a nation's social values; also 'BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages', 'BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models' and 'KoSBi: A Dataset for Mitigating Social Bias Risks'. Squarely national/cultural value alignment of LLMs."
+  ],
+  "src": [
+   "2307.16778",
+   "2307.16778"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Haneul Yoo",
+  "aff": "KAIST",
+  "email": "",
+  "ev": [
+   "KoBBQ co-author; KoBBQ is a culturally localized Korean bias benchmark rather than a translation of the English BBQ, addressing culture-specific stereotypes in LLMs.",
+   "KoBBQ co-author (arXiv:2307.16778); also 'CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean' and 'From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset' - construction of culture-specific evaluation resources for language models."
+  ],
+  "src": [
+   "2307.16778",
+   "2307.16778"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Chani Jung",
+  "aff": "KAIST",
+  "email": "1016chani@kaist.ac.kr",
+  "ev": [
+   "Co-first author of CREHate: 'Most hate speech datasets neglect the cultural diversity within a single language'; the paper finds 'only 59.4% of the samples achieving consensus among all countries', a direct cross-cultural values finding.",
+   "First author of 'Perceptions to Beliefs' (arXiv:2407.06004) and author of 'Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis', which studies how annotators' cultural background changes value-laden hate-speech judgments used to train/evaluate NLP models."
+  ],
+  "src": [
+   "2308.16705",
+   "2407.06004"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Juho Kim",
+  "aff": "KAIST",
+  "email": "juhokim@kaist.ac.kr",
+  "ev": [
+   "CREHate co-author; the paper's 'analysis highlights statistically significant differences based on nationality' in hate speech judgments - cross-cultural disagreement in annotation of offensive content."
+  ],
+  "src": [
+   "2308.16705"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Jose Camacho-Collados",
+  "aff": "Cardiff University",
+  "email": "camachocolladosj@cardiff.ac.uk",
+  "ev": [
+   "Co-author of both CREHate (cross-cultural English hate speech re-annotation across five countries) and BLEnD (everyday cultural knowledge in LLMs across 16 countries/regions)."
+  ],
+  "src": [
+   "2308.16705"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Rifki Afina Putri",
+  "aff": "KAIST",
+  "email": "",
+  "ev": [
+   "BLEnD co-author; BLEnD covers 'low-resource ones such as Amharic, Assamese, Azerbaijani, Hausa, and Sundanese' and measures LLM failures on underrepresented cultures' everyday knowledge."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Eunsu Kim",
+  "aff": "KAIST",
+  "email": "",
+  "ev": [
+   "BLEnD co-author on a benchmark whose premise is that LLMs are 'primarily trained on English data reflecting Western perspectives' and therefore misrepresent non-Western cultures."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Kiwoong Park",
+  "aff": "KAIST",
+  "email": "",
+  "ev": [
+   "BLEnD co-author/annotator on the cultural everyday-knowledge benchmark spanning 16 countries and 13 languages."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Anar Sabuhi Rzayev",
+  "aff": "KAIST",
+  "email": "",
+  "ev": [
+   "BLEnD is his only arXiv work, and it is squarely a cultural benchmark: 'LLMs often lack culture-specific knowledge of daily life, especially across diverse regions and non-English languages.'"
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Dimosthenis Antypas",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "BLEnD co-author; the benchmark quantifies cross-cultural performance gaps in LLMs (e.g. 'maximum 57.34% difference in GPT-4')."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Hsuvas Borkakoty",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "BLEnD co-author on the hand-crafted 52.6k-pair benchmark of culture-specific everyday knowledge for LLMs."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Carla Perez-Almendros",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "BLEnD co-author, and author of 'Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs' and 'SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures' - explicit cultural-bias work on LLMs."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Nina White",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "BLEnD is her only arXiv work; it evaluates 'LLMs' everyday knowledge across diverse cultures and languages' with human annotators from 16 countries/regions."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Nedjma Ousidhoum",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "BLEnD co-author; the paper argues culturally unaware LLM outputs 'can lead to hallucinations or stereotypical responses, potentially offending a large and diverse user base.'"
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Mohammad Taher Pilehvar",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "BLEnD co-author on the cross-cultural everyday-knowledge benchmark for LLMs covering 13 languages including low-resource ones."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Victor Gutierrez-Basulto",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "Qualifies via BLEnD only (his other arXiv work is description logics): BLEnD is 'a benchmark designed to evaluate LLMs' everyday knowledge across diverse cultures and languages.'"
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Yazmin Ibanez-Garcia",
+  "aff": "Cardiff University",
+  "email": "",
+  "ev": [
+   "Qualifies via BLEnD only (her other arXiv work is ontologies/query answering): BLEnD measures LLM cultural knowledge gaps across 16 countries/regions."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Abinew Ali Ayele",
+  "aff": "Universitat Hamburg / Bahir Dar University",
+  "email": "",
+  "ev": [
+   "BLEnD co-author responsible for underrepresented-culture coverage; the benchmark explicitly targets low-resource cultures such as Amharic-speaking Ethiopia."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Seid Muhie Yimam",
+  "aff": "Universitat Hamburg",
+  "email": "",
+  "ev": [
+   "BLEnD co-author; contributes to the benchmark's claim that 'for cultures represented by low-resource languages, LLMs perform better in English than the local languages.'"
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Shamsuddeen Hassan Muhammad",
+  "aff": "Imperial College London",
+  "email": "",
+  "ev": [
+   "BLEnD co-author covering Hausa; the paper documents LLMs' systematically worse everyday-cultural knowledge for underrepresented regions."
+  ],
+  "src": [
+   "2406.09948"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Juhyun Oh",
+  "aff": "KAIST",
+  "email": "",
+  "ev": [
+   "First author of FINEST, and author of 'Culture is Everywhere: A Call for Intentionally Cultural Evaluation' and 'JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors' - directly about cultural evaluation of LLMs."
+  ],
+  "src": [
+   "2603.04123"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Jiwoo Song",
+  "aff": "",
+  "email": "",
+  "ev": [
+   "Co-author of CORAL, which introduces retrieval that critiques 'evidence for relevance and cultural alignment' because fixed-space mRAG 'may be inadequate for culturally grounded queries' - value/culture localization in LLM pipelines."
+  ],
+  "src": [
+   "2604.25676"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Byeongcheol Kang",
+  "aff": "",
+  "email": "",
+  "ev": [
+   "Co-author of CORAL, an adaptive multilingual RAG method evaluated 'across two cultural QA benchmarks' and designed to produce 'culturally relevant answers'."
+  ],
+  "src": [
+   "2604.25676"
+  ],
+  "row": 68
+ },
+ {
+  "name": "Tanya Roosta",
+  "aff": "UC Berkeley; Amazon, Saratoga, CA, USA",
+  "email": "tanya.roosta@gmail.com",
+  "ev": [
+   "Co-author of arXiv 2406.14805 'How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions' (KDD 2025), which states: 'We prompt different LLMs with a series of advice requests based on 5 Hofstede Cultural Dimensions -- a quantifiable way of representing the values of a country... we incorporate personas representing 36 different countries' and presents 'recommendations for training value-aligned and culturally sensitive LLMs.' Directly cultural values in LLMs."
+  ],
+  "src": [
+   "2406.14805"
+  ],
+  "row": 73
+ },
+ {
+  "name": "Aman Chadha",
+  "aff": "Stanford University; Amazon GenAI, Palo Alto, CA, USA",
+  "email": "hi@aman.ai",
+  "ev": [
+   "Co-author of arXiv 2406.14805 on Hofstede cultural dimensions in LLMs: 'It is critical to understand whether LLMs showcase different values to the user based on the stereotypical values of a user's known country'; the paper ends with recommendations for 'training value-aligned and culturally sensitive LLMs' and mitigating 'culture and language alignment issues with LLMs.'"
+  ],
+  "src": [
+   "2406.14805"
+  ],
+  "row": 73
+ },
+ {
+  "name": "Chirag Shah",
+  "aff": "University of Washington, Seattle, WA, USA (Information School / Paul G. Allen School)",
+  "email": "chirags@uw.edu",
+  "ev": [
+   "Senior author of arXiv 2406.14805, the Hofstede-dimensions study of LLM cultural values across 36 national personas: 'the methodology and the framework developed here can help further understand and mitigate culture and language alignment issues with LLMs.' Cultural value representation and alignment in LLMs."
+  ],
+  "src": [
+   "2406.14805"
+  ],
+  "row": 73
+ },
+ {
+  "name": "Peerat Limkonchotiwat",
+  "aff": "Vidyasirimedhi Institute of Science and Technology (VISTEC) at the time of SEA-VQA; now AI Singapore",
+  "email": "",
+  "ev": [
+   "Co-author of SEA-VQA, a 'Southeast Asian Cultural Context Dataset For Visual Question Answering', and a listed author of SEA-VL (arXiv 2503.07920), 'Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia', whose stated motivation is that advances 'often disproportionately benefit certain languages and cultures ... leaving underrepresented cultures - particularly those of Southeast Asia (SEA) - largely overlooked' and that the resource gap 'risks cultural irrelevance or bias against SEA populations'. Independent, repeated work on cultural representation and cultural bias in LLM/VLM benchmarks, not just co-authorship with the target."
+  ],
+  "src": [
+   "2503.07920 (SEA-VL, listed author); co-author on SEA-VQA (2024.alvr-1.15)"
+  ],
+  "row": 81
+ },
+ {
+  "name": "Sarana Nutanong",
+  "aff": "Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand",
+  "email": "",
+  "ev": [
+   "Senior co-author of SEA-VQA (2024.alvr-1.15), described in WorldCuisines (arXiv 2410.12705) under 'Cultural VQA' related work as the dataset that 'specifically benchmarks the South East Asian region', built on UNESCO cultural-heritage imagery to test whether multimodal LLMs understand non-Western cultural context. He heads the VISTEC NLP group behind this line of Thai/SEA culture-specific LLM benchmarking, so the cultural-evaluation angle is a standing research direction rather than a one-off."
+  ],
+  "src": [
+   "none (SEA-VQA, ACL 2024.alvr-1.15)"
+  ],
+  "row": 81
+ },
+ {
+  "name": "Jea Kwon",
+  "aff": "Max Planck Institute for Security and Privacy (MPI-SP)",
+  "email": "jea.kwon@mpi-sp.org",
+  "ev": [
+   "Co-first author of 'Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment' (arXiv:2504.10886), which measures how LLM moral judgments shift with assigned personas; also authors 'Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment' and 'Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions' (arXiv:2604.21871). Core topic is value alignment of LLMs on moral dilemmas."
+  ],
+  "src": [
+   "2504.10886"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Luiz Felipe Vecchietti",
+  "aff": "Max Planck Institute for Security and Privacy (MPI-SP) / KAIST",
+  "email": "felipe.vecchietti@mpi-sp.org",
+  "ev": [
+   "Author on the whole moral-values-in-LLM line: 'Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment' (arXiv:2504.10886), 'Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment', and 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871) - persona- and culture-conditioned moral preference alignment of LLMs."
+  ],
+  "src": [
+   "2504.10886"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Meeyoung Cha",
+  "aff": "Max Planck Institute for Security and Privacy (MPI-SP) / KAIST School of Computing",
+  "email": "mia.cha@mpi-sp.org",
+  "ev": [
+   "Senior author on 'Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment' (arXiv:2504.10886) and 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871); also 'Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment', 'Human Perceptions on Moral Responsibility of AI' and 'Quantitative Analysis of Cultural Dynamics Seen from an Event-based Social Network'. Directly on moral/cultural value alignment of machine decisions."
+  ],
+  "src": [
+   "2504.10886"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Wenchao Dong",
+  "aff": "KAIST / Max Planck Institute for Security and Privacy",
+  "email": "",
+  "ev": [
+   "Co-author of 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871); also first-author work 'Persona Setting Pitfall: Persistent Outgroup Biases in Large Language Models Arising from Social Identity Adoption' and 'I Am Not Them: Fluid Identities and Persistent Out-group Bias in Large Language Models' - how group/cultural identity personas shift LLM value judgments."
+  ],
+  "src": [
+   "2604.21871"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Jaehong Kim",
+  "aff": "KAIST / Institute for Basic Science",
+  "email": "",
+  "ev": [
+   "Co-author of 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871); also 'Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US' (explicit cross-cultural Korea/US moral comparison) and 'Quantitative Analysis of Cultural Dynamics Seen from an Event-based Social Network'."
+  ],
+  "src": [
+   "2604.21871"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Yejin Choi",
+  "aff": "University of Washington / NVIDIA",
+  "email": "yejin@cs.washington.edu",
+  "ev": [
+   "Co-author on 'Perceptions to Beliefs' (arXiv:2407.06004); relevant through 'DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life' (eliciting LLM value preferences across moral frameworks) and 'CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge'."
+  ],
+  "src": [
+   "2407.06004"
+  ],
+  "row": 84
+ },
+ {
+  "name": "Seifeddine Hamdi",
+  "aff": "National School of Computer Sciences (ENSI), Manouba, Tunisia",
+  "email": "not found",
+  "ev": [
+   "Co-first author (equal contribution) of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs': README states the dataset is '1,483 Arabic social dilemmas across five cultural dimensions' and is 'a dataset and evaluation pipeline for studying how Arabic and multilingual large language models respond to social dilemmas across cultural value dimensions', grounded in Hofstede's Power Distance / Individualism-Collectivism / Masculinity-Femininity / Uncertainty Avoidance / Long-Term Orientation. This is cultural-values evaluation of LLMs directly. No email found on any page (GitHub user seifeddine911, 'Freelance Front-End Developer', Tunisia, is a possible but unconfirmed match and shows no email)."
+  ],
+  "src": [
+   "not on arXiv - MOSAIC README author line + bibtex (github.com/NadhemBenhadjali/MOSAIC-A-Dataset-for-Cultural-Dimension-Evaluation-in-Arabic-LLMs)"
+  ],
+  "row": 91
+ },
+ {
+  "name": "Istabrak Abbes",
+  "aff": "Mila - Quebec AI Institute / Universite de Montreal / Chandar Research Lab",
+  "email": "istabrak.abbes@mila.quebec",
+  "ev": [
+   "Coauthor of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs' (README/bibtex: author = {Benhadjali, Nadhem and Hamdi, Seifeddine and Abbes, Istabrak and Messaoud, Safa and Arous, Ines}), whose stated purpose is 'studying how Arabic and multilingual large language models respond to social dilemmas across cultural value dimensions' using Hofstede dimensions - i.e. cultural-values evaluation in LLMs. Caveat: her indexed arXiv output otherwise covers continual pre-training, layer importance and groundedness detection, with no cultural dimension; MOSAIC is the single culture/values work."
+  ],
+  "src": [
+   "2609.16537v1 (email printed in author block of https://arxiv.org/html/2609.16537v1); MOSAIC author line"
+  ],
+  "row": 91
+ },
+ {
+  "name": "Safa Messaoud",
+  "aff": "Qatar Computing Research Institute (QCRI), HBKU",
+  "email": "smessaoud@hbku.edu.qa",
+  "ev": [
+   "Coauthor of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs' - Hofstede-grounded evaluation of 'cultural value dimensions' in Arabic and multilingual LLMs (README). She is the QCRI-side senior author and also coauthored 'Fanar: An Arabic-Centric Multimodal Generative AI Platform' (arXiv 2501.13944), the QCRI Arabic-centric LLM effort that is the platform context for the Arabic cultural-alignment work; the MOSAIC paper itself is the culture/values evidence."
+  ],
+  "src": [
+   "2211.16316v1 (email printed in author block of https://arxiv.org/html/2211.16316v1, authors: Enes Altinisik, Safa Messaoud, Husrev Taha Sencar, Sanjay Chawla); MOSAIC author line"
+  ],
+  "row": 91
+ },
+ {
+  "name": "Ines Arous",
+  "aff": "York University (previously Mila / McGill)",
+  "email": "inesar@yorku.ca",
+  "ev": [
+   "Senior coauthor of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs': the dataset measures LLM option preferences on Arabic social dilemmas 'across cultural value dimensions' (Hofstede's five dimensions), and the README warns it must be used 'to analyze model behavior, not to define what any culture is' - explicit cultural-values/bias work in LLMs. Caveat: her other indexed work (fact editing, multi-document summarization, peer-review AI support) is not culture-related; MOSAIC is the culture/values anchor."
+  ],
+  "src": [
+   "2608.07425v1 (email printed in author block of https://arxiv.org/html/2608.07425v1; author order Ines Arous, Neha Nayak Kennard, Andrei Mircea, Emily Kuang, Jackie Chi Kit Cheung, Andrew McCallum matches email order inesar@yorku.ca, kennard@cs.umass.edu, mirceara@mila.quebec, ekuang@yorku.ca, cheungja@mila.quebec, mccallum@cs.umass.edu); MOSAIC author line"
+  ],
+  "row": 91
+ },
+ {
+  "name": "Amogh Gupta",
+  "aff": "Society-Centered AI Lab, UNC Chapel Hill, USA",
+  "email": "guam@cs.unc.edu",
+  "ev": [
+   "Co-first author (помечен *) статьи arXiv:2601.14506 'Compounding Disadvantage: Auditing Intersectional Bias in LLM-Generated Explanations Across Indian and American STEM Education' — прямой кросс-культурный аудит LLM: сравниваются индийский и американский образовательные контексты, индийские оси (каста, medium of instruction, college tier) против американских (race, HBCU, school type), аудируются Qwen 2.5-32B-Instruct, GPT-4o, GPT-4o-mini, GPT-OSS 20B. Это культурная предвзятость именно в LLM, гейт пройден по самой статье. ОСТОРОЖНО: другие arXiv-работы под именем 'Amogh Gupta' (Generative Interventions for Causal Learning; Multitask Learning Strengthens Adversarial Robustness; Global Pose Control for Generative View Synthesis; SHARD: Safe and Helpful Alignment via Self-Reframing Distillation) — компьютерное зрение/выравнивание без культурной рамки и, вероятно, однофамилец; в оценку релевантности они не включались."
+  ],
+  "src": [
+   "2601.14506"
+  ],
+  "row": 97
+ },
+ {
+  "name": "Sourojit Ghosh",
+  "aff": "University of Washington, Seattle, USA",
+  "email": "ghosh100@uw.edu",
+  "ev": [
+   "Профильный исследователь культурной предвзятости генеративного ИИ, а не просто fairness. Кросс-культурные работы: 'Do Generative AI Models Output Harm while Representing Non-Western Cultures: Evidence from A Community-Centered Approach'; 'Interpretations, Representations, and Stereotypes of Caste within Text-to-Image Generators' (каста как культурная ось); 'From Melting Pots to Misrepresentations: Exploring Harms in Generative AI'; 'Documenting Patterns of Exoticism of Marginalized Populations within Text-to-Image Generators'; \"'Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion\"; \"'I don't see myself represented here at all': ... Representational Harms across Gender Identities and Nationalities\". По линии NLP/LLM: 'ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages' (кросс-язычный/кросс-культурный разбор поведения LLM) и 'Bias is a Math Problem, AI Bias is a Technical Problem: 10-year Literature Review of AI/LLM Bias Research Reveals Narrow [Gender-Centric] Conceptions of Bias'. Плюс соавторство в arXiv:2601.14506. Ядро повестки — репрезентация не-западных культур в генеративных моделях."
+  ],
+  "src": [
+   "2601.14506"
+  ],
+  "row": 97
+ },
+ {
+  "name": "Snehalkumar 'Neil' S. Gaikwad",
+  "aff": "Society-Centered AI Lab, UNC Chapel Hill, USA",
+  "email": "gaikwad@cs.unc.edu",
+  "ev": [
+   "Старший автор (PI Society-Centered AI Lab, UNC Chapel Hill) статьи arXiv:2601.14506 — кросс-культурного аудита LLM по индийскому и американскому образовательным контекстам; гейт пройден по этой работе. Смежные работы по ценностям/идентичности в LLM-системах: 'When Identity Overrides Incentives: Representational Choices as Governance Decisions in Multi-Agent LLM Systems' и 'A Voting-Based System for Ethical Decision Making' (агрегация моральных предпочтений). Остальная часть портфеля ('Crowd Guilds', 'Prototype Tasks', 'CARE: A Capability-Based Measurement Framework for Reproductive Equity in Human-AI Interaction') — краудсорсинг и HCI без культурной рамки в LLM и на релевантность не влияла."
+  ],
+  "src": [
+   "2601.14506"
+  ],
+  "row": 97
+ },
+ {
+  "name": "Xiaoyu He",
+  "aff": "University of Edinburgh",
+  "email": "claire.xiaoyu.he@gmail.com",
+  "ev": [
+   "Co-author (2nd) of 'Cultural Adaptation of Menus: A Fine-Grained Approach' (arXiv:2408.13534v1, cs.CL): 'Machine Translation of Culture-Specific Items (CSIs) poses significant challenges. Recent work on CSI translation has shown some success using Large Language Models (LLMs) to adapt to different languages and cultures... we introduce the ChineseMenuCSI dataset... We define three levels of CSI figurativeness for a more nuanced analysis and develop a novel methodology for automatic CSI identification, which outperforms GPT-based prompts in most categories.' This is cultural adaptation / culture-specific-item handling explicitly inside LLMs, not plain MT, so it passes the strict gate on this work. Email printed verbatim in the arXiv HTML author block. No other arXiv papers found under this name tied to this group."
+  ],
+  "src": [
+   "2408.13534"
+  ],
+  "row": 99
+ },
+ {
+  "name": "Vivek Iyer",
+  "aff": "University of Edinburgh",
+  "email": "vivek.iyer@ed.ac.uk",
+  "ev": [
+   "Co-author (3rd) of arXiv:2408.13534 'Cultural Adaptation of Menus: A Fine-Grained Approach', whose stated contribution is that the authors 'are the first to integrate human translation theories into LLM-driven translation processes' for Culture-Specific Items - cultural adaptation in LLMs, so the gate is passed on this work alone. Reinforced by a sustained culture/localisation line in his arXiv record (au:\"Vivek Iyer\" AND cat:cs.CL): 'Towards Automatic Evaluation for Image Transcreation' (cultural transcreation rather than literal translation) and 'Cultivar: A Contrastive and Locale-Oriented Translation Benchmark for Investigating Contamination and Localisation Robustness' (locale/localisation robustness). His purely multilingual-MT papers (XL-Suite, WMT22 MixMT, disambiguation for MT, low-resource translation data scale) are noted but are NOT what the relevance rests on. Email printed in the arXiv author block as the group form '{vivek.iyer, a.birch}@ed.ac.uk'; expanded here from that printed brace notation."
+  ],
+  "src": [
+   "2408.13534"
+  ],
+  "row": 99
+ },
+ {
+  "name": "Alexandra Birch",
+  "aff": "University of Edinburgh",
+  "email": "a.birch@ed.ac.uk",
+  "ev": [
+   "Senior/last author of arXiv:2408.13534 'Cultural Adaptation of Menus: A Fine-Grained Approach' - the paper introduces the ChineseMenuCSI dataset and a fine-grained taxonomy of Culture-Specific Items with 'three levels of CSI figurativeness', and integrates human translation theory into 'LLM-driven translation processes' to fix the fact that 'LLMs and Neural Machine Translation (NMT) systems... often lack the cultural awareness necessary to accurately understand these nuances'. That is cultural awareness / cultural bias in LLMs, so she passes the gate on this work. She is a Professor at the University of Edinburgh School of Informatics; ResearchGate profile exists at https://www.researchgate.net/profile/Alexandra-Birch-2. Email printed in the arXiv author block as '{vivek.iyer, a.birch}@ed.ac.uk'; expanded here from that printed brace notation."
+  ],
+  "src": [
+   "2408.13534"
+  ],
+  "row": 99
+ }
+]

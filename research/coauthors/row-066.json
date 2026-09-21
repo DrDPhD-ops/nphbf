@@ -1,0 +1,119 @@
+{
+  "row": 66,
+  "papers": [
+    {
+      "arxiv_id": "2310.00347",
+      "title": "Unlocking Bias Detection: Leveraging Transformer-Based Models for Content Analysis (ECIR version circulated as 'Dataset Annotation and Model Building for Identifying Biases in News Narratives')"
+    },
+    {
+      "arxiv_id": "2312.03750",
+      "title": "Analyzing the Impact of Fake News on the Anticipated Outcome of the 2024 Election Ahead of Time"
+    },
+    {
+      "arxiv_id": "2401.11033",
+      "title": "FAIR Enough: How Can We Develop and Assess a FAIR-Compliant Dataset for Large Language Models' Training?"
+    },
+    {
+      "arxiv_id": "2404.01399",
+      "title": "Developing Safe and Responsible Large Language Model: Can We Balance Bias Reduction and Language Understanding in Large Language Models? (v1 title: 'Developing Safe and Responsible Large Language Models - A Comprehensive Framework'; also listed as 'Safe and Sound: Evaluating Language Models for Bias Mitigation and Understanding')"
+    }
+  ],
+  "coauthors": [
+    {
+      "name": "Shaina Raza",
+      "affiliation": "Vector Institute for Artificial Intelligence, Toronto, ON, Canada (also listed as Toronto Metropolitan University on 2404.01399)",
+      "email": "shaina.raza@vectorinstitute.ai",
+      "arxiv_id_seen_in": "2312.03750, 2401.11033, 2310.00347 (shaina.raza@torontomu.ca printed on 2404.01399)",
+      "relevant": true,
+      "relevance_evidence": "Senior author on all four of Ghuge's papers and lead author of HumaniBench (arXiv 2505.11454), an explicit human-VALUES alignment benchmark for large multimodal models: 'their alignment with human centered (HC) principles such as fairness, ethics, inclusivity, empathy, and robustness is often overlooked... a unified framework for characterizing HC alignment across realistic, socially grounded visual contexts... All models show persistent gaps in fairness and multilingual inclusivity.' Also senior author of LinguaMark (arXiv 2507.07274), a cross-lingual fairness/bias benchmark over 11 languages and five social attributes, and of 'She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and Sustainable Language Models' (arXiv 2310.18333) whose stated aim is that 'LLM outputs uphold the ethical standards of society'. Passes the gate on value alignment plus cross-lingual evaluation, not merely generic bias mitigation."
+    },
+    {
+      "name": "Veronica Chatrath",
+      "affiliation": "Vector Institute, Toronto, ON, M5G 1M1, Canada (printed in the author footnote of 2310.00347: 'O. Bamgbose, V. Chatrath, S. Ghuge, and Y. Sidyakin are with the Vector Institute')",
+      "email": "",
+      "arxiv_id_seen_in": "2310.00347",
+      "relevant": true,
+      "relevance_evidence": "First author of 'She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and Sustainable Language Models' (arXiv 2310.18333), squarely a value-alignment paper: 'Appropriate safeguards must be in place to ensure LLM outputs uphold the ethical standards of society... This motivates our research question: how do we ensure LLM alignment? In this work, we introduce a test suite of unique prompts to foster the development of aligned LLMs that are fair, safe, and robust.' BORDERLINE NOTE for audit: the values dimension is societal/ethical alignment of LLMs rather than explicitly cross-cultural; no cross-cultural comparison in her record."
+    },
+    {
+      "name": "Oluwanifemi Bamgbose",
+      "affiliation": "AI Engineering, Vector Institute for Artificial Intelligence, Toronto, M5G 1M1, Ontario, Canada",
+      "email": "oluwanifemi.bamgbose@vectorinstitute.ai",
+      "arxiv_id_seen_in": "2404.01399",
+      "relevant": true,
+      "relevance_evidence": "Co-author of 'She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and Sustainable Language Models' (arXiv 2310.18333, with Chatrath and Raza), which asks 'how do we ensure LLM alignment?' and tests whether LLM outputs 'uphold the ethical standards of society'. Same BORDERLINE caveat as Chatrath: societal/ethical value alignment in LLMs, no explicit cross-cultural axis. Her other work (MBIAS, Unlocking Bias Detection) is generic bias mitigation and would not pass on its own."
+    },
+    {
+      "name": "Deval Pandya",
+      "affiliation": "Vector Institute for Artificial Intelligence, Toronto, ON, Canada (VP AI Engineering)",
+      "email": "deval.pandya@vectorinstitute.ai",
+      "arxiv_id_seen_in": "2401.11033",
+      "relevant": true,
+      "relevance_evidence": "Senior/last author on HumaniBench (arXiv 2505.11454), the human-centric VALUES alignment benchmark: 'alignment with human centered (HC) principles such as fairness, ethics, inclusivity, empathy, and robustness'; findings report 'persistent gaps in fairness and multilingual inclusivity'. BORDERLINE NOTE for audit: he is an institutional senior author (VP of AI Engineering at Vector) rather than a topic specialist; his remaining record (MLHOps, FAIR Enough, soft-prompt bias evaluation) is generic responsible-AI and would not pass on its own."
+    },
+    {
+      "name": "Deepak John Reji",
+      "affiliation": "Computer Science Department, University of Limerick, Castletroy, V94 T9PX, Limerick, Ireland",
+      "email": "deepakjohn1994@gmail.com",
+      "arxiv_id_seen_in": "2404.01399",
+      "relevant": true,
+      "relevance_evidence": "Author of 'LLM-Agent-based Social Simulation for Attitude Diffusion', which uses LLM agents to model social belief and value dynamics: 'simulate how public attitudes toward immigration change over time in response to salient events... this approach integrates multidimensional sociological belief structures and real-world event timelines... purpose-built as a social science research instrument specifically for studying attitude dynamics, polarisation, and belief evolution.' BORDERLINE NOTE for audit: this is social attitudes / sociological belief structures in LLM agents rather than 'cultural values' named as such; his other work (NBIAS, Dbias, accent speech synthesis) is generic bias/fairness and does not pass."
+    },
+    {
+      "name": "Mizanur Rahman",
+      "affiliation": "Royal Bank of Canada, Toronto, ON, Canada",
+      "email": "mizanur.york@gmail.com",
+      "arxiv_id_seen_in": "2312.03750",
+      "relevant": false,
+      "relevance_evidence": "Rejected: record is fake-news/misinformation detection (FakeWatch) and the BEADs bias-evaluation dataset - generic bias detection across NLP tasks with no cultural, moral-values, cross-cultural or value-alignment dimension."
+    },
+    {
+      "name": "Chen Ding",
+      "affiliation": "Toronto Metropolitan University, Toronto, ON, Canada",
+      "email": "chen.ding@torontomu.ca",
+      "arxiv_id_seen_in": "2401.11033",
+      "relevant": false,
+      "relevance_evidence": "Rejected: recommender systems and data-management/FAIR-principles work; no culture, values or value-alignment research in LLMs/NLP. (Common name - no namesake record was credited to her beyond the FAIR Enough paper.)"
+    },
+    {
+      "name": "Elham Dolatabadi",
+      "affiliation": "Vector Institute for Artificial Intelligence / York University, Toronto, ON, Canada",
+      "email": "edolatab@yorku.ca",
+      "arxiv_id_seen_in": "2401.11033",
+      "relevant": false,
+      "relevance_evidence": "Rejected: clinical/medical multimodal ML and mental-health LLM evaluation, plus sociodemographic fairness in healthcare. Ethics appears only as healthcare-professional ethics ('Reimagining LLMs as Ethical and Adaptive Co-Creators in Mental Health Care') - no cultural values, cross-cultural evaluation or value alignment in LLMs."
+    },
+    {
+      "name": "Fatemeh Tavakoli",
+      "affiliation": "AI Engineering, Vector Institute for Artificial Intelligence, Toronto, M5G 1M1, Ontario, Canada",
+      "email": "Fatemeh.tavakoli@vectorinstitute.ai",
+      "arxiv_id_seen_in": "2404.01399",
+      "relevant": false,
+      "relevance_evidence": "Rejected: no arXiv-indexed record found beyond this single bias-reduction paper; nothing on culture, values or value alignment."
+    },
+    {
+      "name": "Syed Raza Bashir",
+      "affiliation": "Computer Science Department, Sheridan College, Trafalgar Rd, L6H 2L1, Ontario, Canada",
+      "email": "syedraza.bashir@torontomu.ca",
+      "arxiv_id_seen_in": "2404.01399",
+      "relevant": false,
+      "relevance_evidence": "Rejected: no arXiv-indexed record found under this name beyond the co-authored bias-reduction paper; no cultural or values dimension."
+    },
+    {
+      "name": "Yan Sidyakin",
+      "affiliation": "Vector Institute, Toronto, ON, M5G 1M1, Canada (printed in author footnote of 2310.00347)",
+      "email": "",
+      "arxiv_id_seen_in": "2310.00347",
+      "relevant": false,
+      "relevance_evidence": "Rejected: single arXiv paper, a transformer bias-detection classifier. Generic bias detection with no cultural/values angle."
+    },
+    {
+      "name": "Abdullah Y. Muaad",
+      "affiliation": "Department of Computer Science, University of Mysore, Mysuru, Karnataka, India",
+      "email": "",
+      "arxiv_id_seen_in": "2310.00347",
+      "relevant": false,
+      "relevance_evidence": "Rejected: single arXiv paper in this line (bias detection in text). His broader work is Arabic text classification - multilingual NLP with no values angle, which the gate explicitly excludes."
+    }
+  ]
+}

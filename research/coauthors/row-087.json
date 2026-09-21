@@ -1,0 +1,39 @@
+{
+  "row": 87,
+  "papers": [
+    {
+      "arxiv_id": "",
+      "title": "NATYA-AI: A Cultural AI Framework for Multimodal Interpretation of Bharatanatyam - IEEE Access, 2025, DOI 10.1109/ACCESS.2025.3639088 (not on arXiv; source: Semantic Scholar paperId 15337d5bd5290eee4b397d8bc39e92b3fff179ee, DBLP journals/access/VeenaTNK25, IEEE Xplore document 11271688)"
+    },
+    {
+      "arxiv_id": "",
+      "title": "AI-Powered Bharatanatyam Mudra Identification and Description System: Preserving Heritage Through Technology - INDIACom 2025 (Int. Conf. on Computing for Sustainable Global Development), DOI 10.23919/INDIACom66777.2025.11115637 (not on arXiv; source: Semantic Scholar paperId 68d3e73ccb09919c8cf883e160b236a3aad9e994)"
+    }
+  ],
+  "coauthors": [
+    {
+      "name": "G. Veena (Veena Dileep)",
+      "affiliation": "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amritapuri, India",
+      "email": "",
+      "arxiv_id_seen_in": "",
+      "relevant": false,
+      "relevance_evidence": "Faculty co-author on both NATYA-AI (IEEE Access 2025) and the INDIACom 2025 mudra paper. Her wider record (Semantic Scholar author 2271948116) is Indic-language NLP and knowledge graphs: 'Comprehensive Integration of Machine Learning, Deep Learning, and Fine-Tuned Large Language Models for Malayalam News Categorization' (2025), 'Named Entity Recognition for Telugu and Kannada on Naamapadam Dataset' (2025), 'Semi-Supervised Bootstrapped Syntax-Semantics-Based Approach for Agriculture Relation Extraction' (2023). That is low-resource / multilingual Indic NLP and task performance, not research on cultural values, cross-cultural difference, cultural bias or value alignment in LLMs. FALSE under the strict gate. (Her S2 profile is also name-merged with unrelated medical and agronomy papers, so it is not a clean signal.)"
+    },
+    {
+      "name": "M. Thushara (Thushara M. G.)",
+      "affiliation": "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amritapuri, India",
+      "email": "",
+      "arxiv_id_seen_in": "",
+      "relevant": false,
+      "relevance_evidence": "Faculty co-author on both papers. Her record (Semantic Scholar author 2305787515, 15 papers) is LLM/NLP applied to computing education and software engineering: 'Fine-Tuned LLMs Versus Rule-Based NLP for UML Diagram Generation: An Educational Evaluation' (2025), 'EduRAG: A Multimodal Explainable RAG System With Deterministic Token Grounding' (2026), 'Automated Code Assessment and Feedback' (2025), 'ChatGPT for generating stories and mind-maps in storytelling' (2024). LLM/NLP work, but on education, code assessment and RAG - no cultural-values, cultural-bias or value-alignment component. FALSE under the strict gate."
+    },
+    {
+      "name": "Nandana M. Kumar",
+      "affiliation": "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amritapuri, India",
+      "email": "",
+      "arxiv_id_seen_in": "",
+      "relevant": false,
+      "relevance_evidence": "Student co-author on both papers and on nothing else (Semantic Scholar author 2377264522, paperCount 2). Contribution is computer vision for dance heritage (YOLO/MediaPipe/MobileNet mudra detection, CNN facial-emotion classification); the LLM element in NATYA-AI is Gemini used for semantic fusion and narrative generation, which is a cultural-heritage application, not a study of cultural values or bias in LLMs. FALSE under the strict gate."
+    }
+  ]
+}

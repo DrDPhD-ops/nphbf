@@ -1,0 +1,22 @@
+{
+  "row": 92,
+  "papers": [],
+  "coauthors": [
+    {
+      "name": "Depeng Xu",
+      "affiliation": "University of North Carolina at Charlotte, Department of Software & Information Systems",
+      "email": "",
+      "arxiv_id_seen_in": "",
+      "relevant": false,
+      "relevance_evidence": "NOT from arXiv - Farsheed Haque has ZERO arXiv papers (au:\"Farsheed Haque\" and all:\"Farsheed Haque\" both return totalResults=0), so no arXiv-derived coauthor list exists; this name comes from search evidence instead. Depeng Xu is his UNC Charlotte PhD advisor (his group page https://webpages.charlotte.edu/dxu7/students.html lists Haque, and his RG profile is https://www.researchgate.net/profile/Depeng-Xu-2, UNC Charlotte SIS) and co-author on the attention-based bias work. Research is algorithmic fairness / bias and privacy in ML and LLMs - demographic-attribute fairness, explainable bias, fair representation - with NO cultural, cross-cultural, moral-values, value-localization or value-alignment dimension. Fails the strict cultural gate."
+    },
+    {
+      "name": "Faisal Muhammad Shah",
+      "affiliation": "Ahsanullah University of Science and Technology, Dhaka, Department of Computer Science and Engineering",
+      "email": "",
+      "arxiv_id_seen_in": "",
+      "relevant": false,
+      "relevance_evidence": "NOT from arXiv (no arXiv papers exist for Farsheed Haque). Appears as Haque's pre-PhD AUST collaborator on the mental-health NLP line (transformer-based suicidal ideation detection, BERT-based suicide and depression identification, Bengali depressive social-media text). Topic is clinical/mental-health text classification and general transformer NLP, not cultural values, cross-cultural difference, cultural bias or value alignment in LLMs. Fails the strict cultural gate."
+    }
+  ]
+}

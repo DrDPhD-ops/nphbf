@@ -1,0 +1,35 @@
+{
+  "row": 99,
+  "papers": [
+    {
+      "arxiv_id": "2408.13534",
+      "title": "Cultural Adaptation of Menus: A Fine-Grained Approach"
+    }
+  ],
+  "coauthors": [
+    {
+      "name": "Xiaoyu He",
+      "affiliation": "University of Edinburgh",
+      "email": "claire.xiaoyu.he@gmail.com",
+      "arxiv_id_seen_in": "2408.13534",
+      "relevant": true,
+      "relevance_evidence": "Co-author (2nd) of 'Cultural Adaptation of Menus: A Fine-Grained Approach' (arXiv:2408.13534v1, cs.CL): 'Machine Translation of Culture-Specific Items (CSIs) poses significant challenges. Recent work on CSI translation has shown some success using Large Language Models (LLMs) to adapt to different languages and cultures... we introduce the ChineseMenuCSI dataset... We define three levels of CSI figurativeness for a more nuanced analysis and develop a novel methodology for automatic CSI identification, which outperforms GPT-based prompts in most categories.' This is cultural adaptation / culture-specific-item handling explicitly inside LLMs, not plain MT, so it passes the strict gate on this work. Email printed verbatim in the arXiv HTML author block. No other arXiv papers found under this name tied to this group."
+    },
+    {
+      "name": "Vivek Iyer",
+      "affiliation": "University of Edinburgh",
+      "email": "vivek.iyer@ed.ac.uk",
+      "arxiv_id_seen_in": "2408.13534",
+      "relevant": true,
+      "relevance_evidence": "Co-author (3rd) of arXiv:2408.13534 'Cultural Adaptation of Menus: A Fine-Grained Approach', whose stated contribution is that the authors 'are the first to integrate human translation theories into LLM-driven translation processes' for Culture-Specific Items - cultural adaptation in LLMs, so the gate is passed on this work alone. Reinforced by a sustained culture/localisation line in his arXiv record (au:\"Vivek Iyer\" AND cat:cs.CL): 'Towards Automatic Evaluation for Image Transcreation' (cultural transcreation rather than literal translation) and 'Cultivar: A Contrastive and Locale-Oriented Translation Benchmark for Investigating Contamination and Localisation Robustness' (locale/localisation robustness). His purely multilingual-MT papers (XL-Suite, WMT22 MixMT, disambiguation for MT, low-resource translation data scale) are noted but are NOT what the relevance rests on. Email printed in the arXiv author block as the group form '{vivek.iyer, a.birch}@ed.ac.uk'; expanded here from that printed brace notation."
+    },
+    {
+      "name": "Alexandra Birch",
+      "affiliation": "University of Edinburgh",
+      "email": "a.birch@ed.ac.uk",
+      "arxiv_id_seen_in": "2408.13534",
+      "relevant": true,
+      "relevance_evidence": "Senior/last author of arXiv:2408.13534 'Cultural Adaptation of Menus: A Fine-Grained Approach' - the paper introduces the ChineseMenuCSI dataset and a fine-grained taxonomy of Culture-Specific Items with 'three levels of CSI figurativeness', and integrates human translation theory into 'LLM-driven translation processes' to fix the fact that 'LLMs and Neural Machine Translation (NMT) systems... often lack the cultural awareness necessary to accurately understand these nuances'. That is cultural awareness / cultural bias in LLMs, so she passes the gate on this work. She is a Professor at the University of Edinburgh School of Informatics; ResearchGate profile exists at https://www.researchgate.net/profile/Alexandra-Birch-2. Email printed in the arXiv author block as '{vivek.iyer, a.birch}@ed.ac.uk'; expanded here from that printed brace notation."
+    }
+  ]
+}

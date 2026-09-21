@@ -1,0 +1,243 @@
+{
+ "row": 84,
+ "papers": [
+  {
+   "arxiv_id": "2504.10886",
+   "title": "Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment"
+  },
+  {
+   "arxiv_id": "2604.21871",
+   "title": "Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions"
+  },
+  {
+   "arxiv_id": "2307.16778",
+   "title": "KoBBQ: Korean Bias Benchmark for Question Answering"
+  },
+  {
+   "arxiv_id": "2407.06004",
+   "title": "Perceptions to Beliefs: Exploring Precursory Inferences for Theory of Mind in Large Language Models"
+  },
+  {
+   "arxiv_id": "2606.22785",
+   "title": "Cross-National Information Attacks: A Two-Decade Analysis of Troll Behavior in Korea"
+  },
+  {
+   "arxiv_id": "2504.15333",
+   "title": "Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports"
+  },
+  {
+   "arxiv_id": "2109.06527",
+   "title": "Learning Bill Similarity with Annotated and Augmented Corpora of Bills"
+  },
+  {
+   "arxiv_id": "2109.05941",
+   "title": "Efficient Contrastive Learning via Novel Data Augmentation and Curriculum Learning"
+  },
+  {
+   "arxiv_id": "1911.02499",
+   "title": "Dimensional Emotion Detection from Categorical Emotion"
+  }
+ ],
+ "coauthors": [
+  {
+   "name": "Jea Kwon",
+   "affiliation": "Max Planck Institute for Security and Privacy (MPI-SP)",
+   "email": "jea.kwon@mpi-sp.org",
+   "arxiv_id_seen_in": "2504.10886",
+   "relevant": true,
+   "relevance_evidence": "Co-first author of 'Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment' (arXiv:2504.10886), which measures how LLM moral judgments shift with assigned personas; also authors 'Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment' and 'Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions' (arXiv:2604.21871). Core topic is value alignment of LLMs on moral dilemmas."
+  },
+  {
+   "name": "Luiz Felipe Vecchietti",
+   "affiliation": "Max Planck Institute for Security and Privacy (MPI-SP) / KAIST",
+   "email": "felipe.vecchietti@mpi-sp.org",
+   "arxiv_id_seen_in": "2504.10886",
+   "relevant": true,
+   "relevance_evidence": "Author on the whole moral-values-in-LLM line: 'Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment' (arXiv:2504.10886), 'Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment', and 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871) - persona- and culture-conditioned moral preference alignment of LLMs."
+  },
+  {
+   "name": "Meeyoung Cha",
+   "affiliation": "Max Planck Institute for Security and Privacy (MPI-SP) / KAIST School of Computing",
+   "email": "mia.cha@mpi-sp.org",
+   "arxiv_id_seen_in": "2504.10886",
+   "relevant": true,
+   "relevance_evidence": "Senior author on 'Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment' (arXiv:2504.10886) and 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871); also 'Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment', 'Human Perceptions on Moral Responsibility of AI' and 'Quantitative Analysis of Cultural Dynamics Seen from an Event-based Social Network'. Directly on moral/cultural value alignment of machine decisions."
+  },
+  {
+   "name": "Alice Oh",
+   "affiliation": "KAIST School of Computing (Users & Information Lab)",
+   "email": "alice.oh@kaist.edu",
+   "arxiv_id_seen_in": "2504.10886",
+   "relevant": true,
+   "relevance_evidence": "Advisor and senior author on 'KoBBQ: Korean Bias Benchmark for Question Answering' (arXiv:2307.16778), a culturally-adapted Korean bias benchmark built by re-localizing US-centric BBQ categories to Korean social context; also on 'BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages' and 'CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean'. Explicit cultural-localization-of-values work in LLM/NLP."
+  },
+  {
+   "name": "Hwaran Lee",
+   "affiliation": "KAIST / NAVER AI Lab",
+   "email": "",
+   "arxiv_id_seen_in": "2307.16778",
+   "relevant": true,
+   "relevance_evidence": "Co-author of KoBBQ (arXiv:2307.16778) and author of 'KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge' - a benchmark measuring LLM alignment to a nation's social values; also 'BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages', 'BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models' and 'KoSBi: A Dataset for Mitigating Social Bias Risks'. Squarely national/cultural value alignment of LLMs."
+  },
+  {
+   "name": "Jiho Jin",
+   "affiliation": "KAIST School of Computing",
+   "email": "jinjh0123@kaist.ac.kr",
+   "arxiv_id_seen_in": "2407.06004",
+   "relevant": true,
+   "relevance_evidence": "First author of KoBBQ (arXiv:2307.16778); also authors 'Survey of Cultural Awareness in Language Models: Text and Beyond', 'CulTrace: Tracing Internal Cultural Reasoning in Large Language Models', 'JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors' and 'Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability'. Dedicated cultural-awareness-in-LLM researcher."
+  },
+  {
+   "name": "Nayeon Lee",
+   "affiliation": "KAIST / HKUST",
+   "email": "",
+   "arxiv_id_seen_in": "2307.16778",
+   "relevant": true,
+   "relevance_evidence": "KoBBQ co-author (arXiv:2307.16778); also 'Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis' and 'BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages' - explicit cross-cultural difference and cultural-knowledge evaluation for LLMs, not generic fairness."
+  },
+  {
+   "name": "Haneul Yoo",
+   "affiliation": "KAIST School of Computing",
+   "email": "",
+   "arxiv_id_seen_in": "2307.16778",
+   "relevant": true,
+   "relevance_evidence": "KoBBQ co-author (arXiv:2307.16778); also 'CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean' and 'From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset' - construction of culture-specific evaluation resources for language models."
+  },
+  {
+   "name": "Wenchao Dong",
+   "affiliation": "KAIST / Max Planck Institute for Security and Privacy",
+   "email": "",
+   "arxiv_id_seen_in": "2604.21871",
+   "relevant": true,
+   "relevance_evidence": "Co-author of 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871); also first-author work 'Persona Setting Pitfall: Persistent Outgroup Biases in Large Language Models Arising from Social Identity Adoption' and 'I Am Not Them: Fluid Identities and Persistent Out-group Bias in Large Language Models' - how group/cultural identity personas shift LLM value judgments."
+  },
+  {
+   "name": "Jaehong Kim",
+   "affiliation": "KAIST / Institute for Basic Science",
+   "email": "",
+   "arxiv_id_seen_in": "2604.21871",
+   "relevant": true,
+   "relevance_evidence": "Co-author of 'Machine Behavior in Relational Moral Dilemmas' (arXiv:2604.21871); also 'Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US' (explicit cross-cultural Korea/US moral comparison) and 'Quantitative Analysis of Cultural Dynamics Seen from an Event-based Social Network'."
+  },
+  {
+   "name": "Chani Jung",
+   "affiliation": "KAIST School of Computing",
+   "email": "1016chani@kaist.ac.kr",
+   "arxiv_id_seen_in": "2407.06004",
+   "relevant": true,
+   "relevance_evidence": "First author of 'Perceptions to Beliefs' (arXiv:2407.06004) and author of 'Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis', which studies how annotators' cultural background changes value-laden hate-speech judgments used to train/evaluate NLP models."
+  },
+  {
+   "name": "Yejin Choi",
+   "affiliation": "University of Washington / NVIDIA",
+   "email": "yejin@cs.washington.edu",
+   "arxiv_id_seen_in": "2407.06004",
+   "relevant": true,
+   "relevance_evidence": "Co-author on 'Perceptions to Beliefs' (arXiv:2407.06004); relevant through 'DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life' (eliciting LLM value preferences across moral frameworks) and 'CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge'."
+  },
+  {
+   "name": "Hyunwoo Kim",
+   "affiliation": "Allen Institute for AI",
+   "email": "hyunwook@allenai.org",
+   "arxiv_id_seen_in": "2407.06004",
+   "relevant": false,
+   "relevance_evidence": "Senior author on the Theory-of-Mind paper (arXiv:2407.06004). ToM/social reasoning and dialogue work found, but no paper establishing culture, cultural/moral values or cultural bias in LLMs - rejected under the strict gate."
+  },
+  {
+   "name": "Dongkwan Kim",
+   "affiliation": "KAIST School of Computing",
+   "email": "dongkwan.kim@kaist.ac.kr",
+   "arxiv_id_seen_in": "2407.06004",
+   "relevant": false,
+   "relevance_evidence": "Co-author on arXiv:2407.06004 and arXiv:2504.15333. Work is graph neural networks, ToM and political-text analysis; arXiv author search returned no culture/values/norms papers. Rejected."
+  },
+  {
+   "name": "Seonghyeon Ye",
+   "affiliation": "KAIST",
+   "email": "",
+   "arxiv_id_seen_in": "2109.05941",
+   "relevant": false,
+   "relevance_evidence": "Co-author on contrastive learning (arXiv:2109.05941) and emotion detection (arXiv:1911.02499). Instruction tuning / LM efficiency work; no cultural or value-alignment dimension. Rejected."
+  },
+  {
+   "name": "In Song Kim",
+   "affiliation": "MIT Department of Political Science",
+   "email": "",
+   "arxiv_id_seen_in": "2504.15333",
+   "relevant": false,
+   "relevance_evidence": "Co-author on the lobbying (arXiv:2504.15333) and bill-similarity (arXiv:2109.06527) papers. Quantitative political science on legislation and interest groups - no cultural values in LLMs. Rejected."
+  },
+  {
+   "name": "Joohye Jeong",
+   "affiliation": "KAIST",
+   "email": "",
+   "arxiv_id_seen_in": "2504.15333",
+   "relevant": false,
+   "relevance_evidence": "Lobbying-report analysis co-author only (arXiv:2504.15333); no culture/values-in-LLM work found. Rejected."
+  },
+  {
+   "name": "Elden Griggs",
+   "affiliation": "Texas A&M University",
+   "email": "",
+   "arxiv_id_seen_in": "2109.06527",
+   "relevant": false,
+   "relevance_evidence": "Political science co-author on bill similarity (arXiv:2109.06527). No cultural-values or LLM-alignment work. Rejected."
+  },
+  {
+   "name": "Yeon Seonwoo",
+   "affiliation": "Amazon",
+   "email": "yseonwoo@amazon.com",
+   "arxiv_id_seen_in": "2407.06004",
+   "relevant": false,
+   "relevance_evidence": "Co-author on arXiv:2407.06004. QA and retrieval research; no cultural/moral values work. Rejected."
+  },
+  {
+   "name": "Hyeonseung Kim",
+   "affiliation": "KAIST",
+   "email": "",
+   "arxiv_id_seen_in": "2606.22785",
+   "relevant": false,
+   "relevance_evidence": "Co-author on the troll-behavior study (arXiv:2606.22785). Computational social science on influence operations, not cultural values in LLMs. Rejected."
+  },
+  {
+   "name": "Thorsten Holz",
+   "affiliation": "CISPA Helmholtz Center for Information Security",
+   "email": "",
+   "arxiv_id_seen_in": "2606.22785",
+   "relevant": false,
+   "relevance_evidence": "Co-author on arXiv:2606.22785. Systems and computer security researcher; no cultural-values-in-LLM work. Rejected."
+  },
+  {
+   "name": "Wonjae Lee",
+   "affiliation": "KAIST Graduate School of Culture Technology",
+   "email": "",
+   "arxiv_id_seen_in": "2606.22785",
+   "relevant": false,
+   "relevance_evidence": "Co-author on arXiv:2606.22785. Computational sociology of online behavior; no LLM cultural-value alignment work established. Rejected."
+  },
+  {
+   "name": "Sungjoon Park",
+   "affiliation": "KAIST",
+   "email": "",
+   "arxiv_id_seen_in": "1911.02499",
+   "relevant": false,
+   "relevance_evidence": "First author of emotion detection (arXiv:1911.02499). Affective computing / Korean NLP resources; no culture or values dimension. Rejected."
+  },
+  {
+   "name": "Jaeyeol Jeon",
+   "affiliation": "KAIST",
+   "email": "",
+   "arxiv_id_seen_in": "1911.02499",
+   "relevant": false,
+   "relevance_evidence": "Emotion-detection co-author (arXiv:1911.02499) only. Rejected."
+  },
+  {
+   "name": "Hee Young Park",
+   "affiliation": "KAIST",
+   "email": "",
+   "arxiv_id_seen_in": "1911.02499",
+   "relevant": false,
+   "relevance_evidence": "Emotion-detection co-author (arXiv:1911.02499) only. Rejected."
+  }
+ ]
+}
