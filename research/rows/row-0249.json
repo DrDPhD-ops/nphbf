@@ -1,0 +1,12 @@
+{
+ "row": 249,
+ "name": "Alice Oh",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "alice.oh@kaist.edu",
+ "email_status": "verified",
+ "email_source": "pre-existing",
+ "researchgate_url": "https://www.researchgate.net/profile/Alice-Oh-2",
+ "researchgate_status": "found",
+ "evidence": "ResearchGate: profile Alice-Oh-2, 'Korea Advanced Institute of Science and Technology, Daejeon | KAIST | Department of Computer Science', listed contact alice.oh@kaist.edu matching Email_Verified exactly, research area NLP + computational social science -- matches BLEnD/KoBBQ/CREHate senior author. LinkedIn: searched site:linkedin.com/in 'Alice Oh' KAIST professor computer science; every hit was a namesake in industry or US non-profit (Google, Salesforce, BlackRock, Lodestar Digital, CSG Justice Center/Yale) with no KAIST or NLP anchor -- rejected under the namesake rule ('Alice Oh' has many namesakes)."
+}

@@ -1,0 +1,12 @@
+{
+ "row": 277,
+ "name": "Aman Chadha",
+ "linkedin_url": "https://www.linkedin.com/in/amanc",
+ "linkedin_status": "confirmed",
+ "email_verified": "hi@aman.ai",
+ "email_status": "verified",
+ "email_source": "pre-existing",
+ "researchgate_url": "https://www.researchgate.net/profile/Aman-Chadha",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn /in/amanc headline 'Aman Chadha - GenAI @ DeepMind - Stanford AI' anchors on Stanford (row org) and the snippet carries an Amazon anchor (recommendation describing him as a science manager at Amazon) -- matches 'Stanford University; Amazon GenAI'. He has since moved to Google DeepMind. Rejected the ~9 in.linkedin.com/nz/uk namesakes (business finance, DevOps at Avyka, JPMorganChase, Fashion Institute of Technology, Microsoft/ex-AWS NZ, Theos Softech) -- none have the Stanford/Amazon-research anchor. ResearchGate Aman-Chadha anchors on topic + career trail: 260 publications, 1440 citations, deep learning / LLM / NLP topics incl. probing LLM hidden states, listed at Google Inc. Mountain View with an earlier Apple Inc. Cupertino record -- consistent Bay Area AI-research trajectory. Rejected Aman-Chadha-2 (IIIT Allahabad, Business Administration in IT). Email kept verbatim from pre-existing value."
+}

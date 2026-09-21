@@ -1,0 +1,12 @@
+{
+ "row": 253,
+ "name": "Hwaran Lee",
+ "linkedin_url": "https://www.linkedin.com/in/hwaranlee/",
+ "linkedin_status": "confirmed",
+ "email_verified": "hwaranlee@sogang.ac.kr",
+ "email_status": "verified",
+ "email_source": "printed in the author block of arXiv 2406.15481v3 (Code-Switching Red-Teaming), listed as 'Hwaran Lee / Affiliation: Sogang University / Affiliation: NAVER AI Lab / Email: hwaranlee@sogang.ac.kr' -- https://arxiv.org/html/2406.15481",
+ "researchgate_url": "https://www.researchgate.net/profile/Hwaran-Lee-2",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn: 'Hwaran Lee - Sogang University' (linkedin.com/in/hwaranlee/), same profile also titled 'Assistant Professor at Sogang University' (kr.linkedin.com/in/hwaranlee/en); snippet mentions ACL 2025 work done during an internship at NAVER Cloud / NAVER AI Lab -- both the row's Organization (NAVER AI Lab) and the noted Sogang move are anchored. Namesakes rejected: 'Hwaran Lee, PhD - University of Rochester' and 'Hwaran Lee - Biomaterials Engineer PhD, Clemson'. Email NEWLY FOUND, real printed address from the arXiv author block (not constructed), and it independently corroborates the Sogang affiliation. ResearchGate: profile Hwaran-Lee-2, 'PhD | KAIST | Department of Electrical Engineering' -- her doctoral affiliation; the profile surfaced in searches for her KoBBQ/BBQ co-authors (Jiho Jin), giving a paper anchor."
+}

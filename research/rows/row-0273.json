@@ -1,0 +1,12 @@
+{
+ "row": 273,
+ "name": "Juhyun Oh",
+ "linkedin_url": "https://kr.linkedin.com/in/juhyun-oh-6839b9185",
+ "linkedin_status": "confirmed",
+ "email_verified": "411juhyun@kaist.ac.kr",
+ "email_status": "verified",
+ "email_source": "printed contact email in arXiv HTML 2509.01301 ('Culture is Everywhere: A Call for Intentionally Cultural Evaluation'), where Juhyun Oh is first author with affiliation KAIST",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Email anchor is strong: in arXiv 2509.01301 the author block reads 'Juhyun Oh (KAIST), Inha Cha, Michael Saxon, Hyunseung Lim, Shaily Bhatt, Alice Oh (KAIST)' followed by the single contact address 411juhyun@kaist.ac.kr - she is first author, so the corresponding address is hers; this is the 'Culture is Everywhere' paper named in Discovered_Via, and arXiv 2603.04123 (FINEST) publishes no emails. LinkedIn: of the ~10 same-name profiles returned, only kr.linkedin.com/in/juhyun-oh-6839b9185 carries the organization anchor in its title ('Juhyun Oh - KAIST - Republic of Korea'); the others (MOAI Games/TRAHA, Genesis People & Culture, Woori Bank, University of Calgary, EOS IT Solutions, Massachusetts General Hospital) were rejected as namesakes. Note the LinkedIn anchor is KAIST affiliation only, with no NLP detail visible in the snippet. ResearchGate: site:researchgate.net/profile \"Juhyun Oh\" KAIST returned only Juhyun-Oh-2 affiliated with a 'Technical Research Institute' - no KAIST or NLP anchor, so rejected as a probable namesake given how common this Korean name is -> not_found."
+}

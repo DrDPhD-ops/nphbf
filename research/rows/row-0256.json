@@ -1,0 +1,12 @@
+{
+ "row": 256,
+ "name": "Juho Kim",
+ "linkedin_url": "https://kr.linkedin.com/in/juhokim",
+ "linkedin_status": "confirmed",
+ "email_verified": "juhokim@kaist.ac.kr",
+ "email_status": "verified",
+ "email_source": "pre-existing",
+ "researchgate_url": "https://www.researchgate.net/profile/Juho-Kim-5",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn result title reads 'Juho Kim - KAIST Professor | SkillBench Co-founder', slug /in/juhokim on kr.linkedin.com; anchors = KAIST + professor role, matching KIXLAB director / School of Computing. ResearchGate title reads 'Juho KIM | Associate Professor | Ph.D. | KAIST | School of Computing' - exact org+dept+rank anchor; rejected namesakes Juho-Kim-3 (Yonsei, Materials Science & Engineering) and unrelated Wikipedia Kims. Email pre-existing and independently corroborated as printed in arXiv:2308.16705 (CREHate) HTML alongside alice.oh@kaist.edu."
+}

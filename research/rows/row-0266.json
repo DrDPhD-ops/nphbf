@@ -1,0 +1,12 @@
+{
+ "row": 266,
+ "name": "Nedjma Ousidhoum",
+ "linkedin_url": "https://www.linkedin.com/in/nedjma-ousidhoum-67763365/",
+ "linkedin_status": "confirmed",
+ "email_verified": "OusidhoumN@cardiff.ac.uk",
+ "email_status": "verified",
+ "email_source": "printed author-block email in arXiv HTML of multiple papers: 2410.12691, 2601.06316, 2608.30866, 2503.07269 (SemEval-2025 Task 11), 2502.11926 (BRIGHTER), 2605.26397",
+ "researchgate_url": "https://www.researchgate.net/profile/Nedjma-Ousidhoum",
+ "researchgate_status": "found",
+ "evidence": "Organization anchor: LinkedIn result title reads 'Nedjma Ousidhoum - Cardiff University / Prifysgol Caerdydd', matching Org=Cardiff University; snippet also ties her to Cardiff NLP and to an ACL 2026 paper with Saif M. Mohammad (= arXiv 2601.06316, on which she is a co-author). ResearchGate snippet: 'Nedjma OUSIDHOUM | Professor (Assistant) | PhD | Cardiff University | School of Computer Science and Informatics', topics hate speech / emotion / multilingual low-resource NLP - matches her AfriSenti + multilingual hate speech profile. Email is printed verbatim in 6 separate arXiv author blocks under her Cardiff affiliation (not constructed). Her older HKUST address nousidhoum@cse.ust.hk is also printed in arXiv 1908.11049 but the current Cardiff one was preferred."
+}

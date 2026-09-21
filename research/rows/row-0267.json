@@ -1,0 +1,12 @@
+{
+ "row": 267,
+ "name": "Mohammad Taher Pilehvar",
+ "linkedin_url": "https://www.linkedin.com/in/mohammad-taher-pilehvar-17b21156/",
+ "linkedin_status": "confirmed",
+ "email_verified": "PilehvarMT@cardiff.ac.uk",
+ "email_status": "verified",
+ "email_source": "printed author-block email in arXiv HTML 2609.20593 ('WiC is Not WSD', Cardiff University affiliation); same handle appears as Cardiff staff id pilehvarmt",
+ "researchgate_url": "https://www.researchgate.net/profile/Mohammad-Taher-Pilevar",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn result title 'Mohammad Taher Pilehvar - Cardiff University / Prifysgol Caerdydd', snippet adds education Sapienza Universita di Roma (his PhD institution) and location Cardiff, plus his EMNLP 2024 paper 'RepMatch' (= arXiv 2410.09642, on which he is an author). Email printed in the 2609.20593 author block alongside CamachoColladosJ@cardiff.ac.uk / zhouy131@cardiff.ac.uk / RezaeeK@cardiff.ac.uk, i.e. the Cardiff LastnameInitials pattern, and the WiC topic matches his WiC/SemEval work. ResearchGate profile is spelled 'Mohammad Taher PILEVAR' (alternate transliteration); accepted because the snippet states Assistant Professor at Tehran Institute for Advanced Studies (TeIAS) and Affiliated Lecturer at University of Cambridge, research in Lexical Semantics / word-sense representation learning, and the 2014 Sapienza Starting Grant - all specific to this person and matching the row's TeIAS note."
+}

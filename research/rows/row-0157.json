@@ -1,0 +1,12 @@
+{
+ "row": 157,
+ "name": "Jimin Huang",
+ "linkedin_url": "https://www.linkedin.com/in/jimin-huang-239abb261/",
+ "linkedin_status": "confirmed",
+ "email_verified": "jimin@chancefocus.com",
+ "email_status": "verified",
+ "email_source": "arXiv:2306.05443 (PIXIU) author block, printed as 'Jimin Huang | Affiliation: ChanceFocus AMC., Shanghai, China | Email: jimin@chancefocus.com'",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn snippet title reads 'Jimin Huang - The Fin AI | LinkedIn', matching the anchor affiliation 'The Fin AI' (+ NaCTeM/Manchester mentioned in snippet body); org anchor matched. Email: ChanceFocus AMC is the company behind The Fin AI; the same Jimin Huang appears with 'The Fin AI' affiliation alongside Sophia Ananiadou in arXiv:2402.12659 (FinBen), and shares co-authors (Min Peng, Qianqian Xie, Alejandro Lopez-Lira) with 2306.05443 where the address is literally printed. ResearchGate: only hit was 'Jimin HUANG | HDR, Omaha | Miami Lakes' working on concrete bridges/construction engineering - clear namesake, rejected."
+}

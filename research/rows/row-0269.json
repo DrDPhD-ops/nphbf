@@ -1,0 +1,12 @@
+{
+ "row": 269,
+ "name": "Yazmin Ibanez-Garcia",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "ibanezgarciay@cardiff.ac.uk",
+ "email_status": "verified",
+ "email_source": "printed standalone author-block email in arXiv HTML 2511.07933 ('Revisiting Conjunctive Query Entailment for S', affiliation 1 Cardiff University); also in the brace group in 2508.10504 / 2408.06961 (ASPEN)",
+ "researchgate_url": "https://www.researchgate.net/profile/Yazmin-Ibanez-Garcia",
+ "researchgate_status": "found",
+ "evidence": "Searched site:linkedin.com/in for 'Ibanez-Garcia'/'Ibanez-Garcia' + Cardiff University computer science -> no LinkedIn profile for her surfaced (only Javier Garcia Ibanez at Global Omnium, a different person); results instead returned her Cardiff staff page profiles.cardiff.ac.uk/staff/ibanezgarciay, so linkedin = not_found. ResearchGate snippet 'Yazmin IBANEZ-GARCIA | Researcher | PhD in Computer Science | University of Bremen | Faculty 03 Mathematics/Computer Science', with related authors Jean Jung and Victor Gutierrez-Basulto and topics ontology-based data access / query answering - Jean Christoph Jung is her named co-author on arXiv 2511.07933 and Gutierrez-Basulto is her Cardiff co-author, so co-author + topic anchors confirm identity despite the Bremen (prior) affiliation. Email printed verbatim next to '1 Cardiff University' in 2511.07933 and matches her Cardiff staff id ibanezgarciay."
+}

@@ -1,0 +1,12 @@
+{
+  "row": 188,
+  "name": "Peng Zhang",
+  "linkedin_url": "not found",
+  "linkedin_status": "not_found",
+  "email_verified": "zhangpeng_@fudan.edu.cn",
+  "email_status": "verified",
+  "email_source": "arXiv HTML 2505.13531 author block (printed as {zhangpeng_, lutun, ninggu}@fudan.edu.cn)",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "Searched site:linkedin.com/in \"Peng Zhang\" Fudan University CSCW social computing - returned a wall of namesakes (Shanghai Jiao Tong, SPI, Falcon Computing, USC, Covance, CAS, Oliden) with no Fudan CSCW anchor; rejected per namesake rule. Searched site:researchgate.net/profile \"Peng Zhang\" Fudan University School of Computer Science CSCW - no own ResearchGate /profile/ page; the real person is identifiable via cscw.fudan.edu.cn/pengzhang/ and Google Scholar (CSCW/social computing, Fudan) but neither target platform has a confirmable profile."
+}

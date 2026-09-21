@@ -1,0 +1,12 @@
+{
+ "row": 262,
+ "name": "Dimosthenis Antypas",
+ "linkedin_url": "https://uk.linkedin.com/in/dimosthenis-antypas-0b1329135",
+ "linkedin_status": "confirmed",
+ "email_verified": "AntypasD@cardiff.ac.uk",
+ "email_status": "verified",
+ "email_source": "arXiv:2405.10213 HTML author block ('Dimosthenis Antypas, Affiliation: Cardiff University, Cardiff, United Kingdom, email: AntypasD@cardiff.ac.uk')",
+ "researchgate_url": "https://www.researchgate.net/profile/Dimosthenis-Antypas",
+ "researchgate_status": "found",
+ "evidence": "Email: printed inside his own author/affiliation block in arXiv:2405.10213 (WebSci'26), a Cardiff NLP paper he co-authored with Nedjma Ousidhoum, Carla Perez-Almendros and Jose Camacho-Collados - all BLEnD co-authors. ResearchGate title 'Dimosthenis ANTYPAS | Cardiff University, Cardiff | CU | School of Computer Science and Informatics' - exact org+school anchor. LinkedIn: uk.linkedin.com/in/dimosthenis-antypas-0b1329135 was the top hit for a Cardiff-NLP-scoped, linkedin.com-restricted query; LinkedIn served a login-wall title so no headline was visible, but the slug is his exact full name, the country domain is UK (Cardiff), the name is rare, and no competing 'Dimosthenis Antypas' profile appeared (other hits were different surnames: Anagnostopoulos, Antypa, Kifokeris, Pavlou). Anchors = rare exact-name slug + UK domain + Cardiff NLP query context."
+}

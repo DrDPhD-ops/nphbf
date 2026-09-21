@@ -1,0 +1,12 @@
+{
+ "row": 255,
+ "name": "Chani Jung",
+ "linkedin_url": "https://kr.linkedin.com/in/chanijung",
+ "linkedin_status": "confirmed",
+ "email_verified": "1016chani@kaist.ac.kr",
+ "email_status": "verified",
+ "email_source": "pre-existing",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn: 'Chani Jung - M.S. in Computer Science from KAIST' (kr.linkedin.com/in/chanijung), located Daejeon, South Korea -- KAIST + CS + Daejeon anchors the Organization and the CREHate/arXiv 2407.06004 co-author role; the clean handle 'chanijung' matches the name exactly and 'Chani Jung' is uncommon. A second same-name profile (linkedin.com/in/chani-jung-641699287) carried no KAIST anchor in its metadata, so the titled KAIST CS one was taken. ResearchGate: searched site:researchgate.net/profile 'Chani Jung' -- no profile of her own; she appears only as a co-author on collaborators' pages (Meeyoung Cha, Juho Kim, Hyojin Chin -- topics offensive language detection and theory of mind in LLMs, consistent with her work), so not_found. Email kept verbatim."
+}

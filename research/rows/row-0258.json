@@ -1,0 +1,12 @@
+{
+ "row": 258,
+ "name": "Rifki Afina Putri",
+ "linkedin_url": "https://id.linkedin.com/in/rifki-afina-putri-73692a6b",
+ "linkedin_status": "confirmed",
+ "email_verified": "rifki.putri@ugm.ac.id",
+ "email_status": "verified",
+ "email_source": "arXiv:2507.01645 HTML author block (sole-author paper, 'Rifki Afina Putri, Dept. of Computer Science and Electronics, Universitas Gadjah Mada, rifki.putri@ugm.ac.id'); same address printed in arXiv:2605.26955 (JuICE) author block",
+ "researchgate_url": "https://www.researchgate.net/profile/Rifki-Putri",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn result title 'Rifki Afina Putri - Lecturer at Universitas Gadjah Mada (UGM)' on id.linkedin.com - anchors to her current UGM affiliation, which is exactly what arXiv:2507.01645 and arXiv:2605.26955 print for her (KAIST alumna, now UGM lecturer), plus Indonesian NLP topic match. ResearchGate title 'Rifki Afina Putri | Master of Science | Korea Advanced Institute of Science and Technology' - KAIST anchor per Discovered_Via; profile lists WorldCuisines (arXiv:2410.12705), which she co-authored. Email is a real printed address, not constructed."
+}

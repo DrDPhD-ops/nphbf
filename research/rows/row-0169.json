@@ -1,0 +1,12 @@
+{
+ "row": 169,
+ "name": "Mai AlKhamissi",
+ "linkedin_url": "https://www.linkedin.com/in/maialkhamissi/",
+ "linkedin_status": "confirmed",
+ "email_verified": "malkhami@andrew.cmu.edu",
+ "email_status": "verified",
+ "email_source": "arXiv HTML 2510.05931 author block",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn: WebSearch site:linkedin.com/in returned 'Mai Alkhamissi - Carnegie Mellon University - School of Computer Science - Language Technologies Institute' at linkedin.com/in/maialkhamissi/. Anchors: CMU LTI in the snippet title, plus profile content on the EACL2026 paper 'Hire your Anthropologist: Rethinking Cultural Benchmarks through an Anthropological Lens' (= arXiv 2510.05931) and anthropology/ethnographic fieldwork (Cairo street children community research), matching her anthropology+NLP profile. Distinct person from Badr AlKhamissi (row 171, EPFL). ResearchGate: site:researchgate.net/profile \"Mai AlKhamissi\" returned no profile for her - the only AlKhamissi hit was Badr-Alkhamissi (a different person, used for row 171); remaining hits were unrelated namesakes (Mai Yamani, Mai Al-Nakib, etc.). Reported not_found."
+}

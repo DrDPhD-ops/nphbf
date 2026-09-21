@@ -1,0 +1,12 @@
+{
+ "row": 280,
+ "name": "Sarana Nutanong",
+ "linkedin_url": "https://www.linkedin.com/in/sarana-nutanong-1613072b/",
+ "linkedin_status": "confirmed",
+ "email_verified": "snutanon@vistec.ac.th",
+ "email_status": "verified",
+ "email_source": "arXiv 2508.12243 (SEA-BED) PDF author block: '{wuttikorn.p_s22,panuthep.t_s20,snutanon}@vistec.ac.th' -- 3 handles matching the 3 VISTEC authors in order, Sarana listed third",
+ "researchgate_url": "https://www.researchgate.net/profile/Sarana-Nutanong-2",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn /in/sarana-nutanong-1613072b: headline 'Vidyasirimedhi Institute of Science and Technology (VISTEC)', AI academic researcher, located in Wang Chan (VISTEC's campus district), educated at University of Melbourne (matches his PhD) -- VISTEC org anchor from the row. ResearchGate Sarana-Nutanong-2: 93 publications, 1196 citations, topics similarity search / NLP / data analytics, and VISTEC co-author cluster visible in results (Kanatip Chitavisutthivong, Korakot Chaovavanich, Wannaphong Phatthiyaphaibun, Kanruethai Masuk -- all VISTEC School of Information Science and Technology). Email: real printed address; the VISTEC (affiliation 1) email group maps 1:1 onto the VISTEC author order (Wuttikorn Ponwitayarat, Panuthep Tasawong, Sarana Nutanong -> wuttikorn.p_s22, panuthep.t_s20, snutanon). Not guessed. SEA-VQA (2024.alvr-1.15) co-authorship with Peerat Limkonchotiwat and Supasorn Suwajanakorn independently confirmed from the SEA-VL bibliography, since aclanthology.org is egress-blocked."
+}

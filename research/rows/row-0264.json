@@ -1,0 +1,12 @@
+{
+ "row": 264,
+ "name": "Carla Perez-Almendros",
+ "linkedin_url": "https://uk.linkedin.com/in/carlaperezalmendros/en",
+ "linkedin_status": "confirmed",
+ "email_verified": "PerezAlmendrosC@cardiff.ac.uk",
+ "email_status": "verified",
+ "email_source": "arXiv:2405.10213 HTML author block ('Carla Perez-Almendros, Affiliation: Cardiff University, Cardiff, United Kingdom, email: PerezAlmendrosC@cardiff.ac.uk')",
+ "researchgate_url": "https://www.researchgate.net/profile/Carla-Perez-Almendros",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn result title 'Carla Perez Almendros - Cardiff University / Prifysgol Caerdydd' (uk.linkedin.com) - org anchor. ResearchGate title 'Carla PEREZ-ALMENDROS | PhD Student | Phd Student in Ethics in NLP | Cardiff University, Cardiff | CU | School of Computer Science and Informatics' - org + school + NLP-ethics topic anchor, consistent with her 'Don't Patronize Me!' (arXiv:2011.08320) patronizing-language work; rejected unrelated 'Carla' Wikipedia entries. Email printed in her own author/affiliation block in arXiv:2405.10213, a Cardiff NLP paper with Antypas, Ousidhoum and Camacho-Collados."
+}

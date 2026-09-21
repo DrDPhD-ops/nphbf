@@ -1,0 +1,12 @@
+{
+  "row": 185,
+  "name": "Hui Xiong",
+  "linkedin_url": "https://www.linkedin.com/in/hui-xiong-876a452/",
+  "linkedin_status": "confirmed",
+  "email_verified": "xionghui@ust.hk",
+  "email_status": "verified",
+  "email_source": "arXiv HTML 2506.09656 author footnote",
+  "researchgate_url": "https://www.researchgate.net/profile/Hui_Xiong3",
+  "researchgate_status": "found",
+  "evidence": "LinkedIn result title reads 'Hui Xiong - The Hong Kong University of Science and Technology (Guangzhou) | LinkedIn' - matches the paper's HKUST(GZ) affiliation exactly. ResearchGate snippet reads 'Hui XIONG | Rutgers, The State University of New Jersey, New Brunswick | Rutgers | Business School' - matches his well-documented prior post as Distinguished Professor at Rutgers Business School (per HKUST(GZ) and Rutgers faculty pages) plus same data-mining/AI topic. Despite the high-collision name, both anchors are institution-specific."
+}
