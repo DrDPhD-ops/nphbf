@@ -1,0 +1,27 @@
+{
+  "row": 50,
+  "papers": [
+    {
+      "arxiv_id": "",
+      "title": "Promoting fairness in LLMs: detection and mitigation of gender bias (Knowledge and Information Systems, 2026; DOI 10.1007/s10115-026-02731-3; no arXiv preprint - Research Square preprint rs-6461545; code at github.com/tejanshsachdeva/Biasness-Mitigation)"
+    }
+  ],
+  "coauthors": [
+    {
+      "name": "Mitaali Singhal",
+      "affiliation": "Oracle (per LinkedIn snippet); co-author on the Shiv Nadar University fairness project",
+      "email": "",
+      "arxiv_id_seen_in": "",
+      "relevant": false,
+      "relevance_evidence": "Only indexed work is the shared paper 'Promoting fairness in LLMs: detection and mitigation of gender bias' (Semantic Scholar author 2425535609, paperCount=1). That work is gender/sensitive-attribute bias detection and LoRA-based mitigation measured with Disparity Index, Idea Consistency Score and Thematic Consistency Score over English and Hindi prompts. It is generic fairness/bias plus bilingual evaluation with no treatment of cultural values, cross-cultural value differences or value alignment, so it fails the cultural-values gate."
+    },
+    {
+      "name": "Sonia Khetarpaul",
+      "affiliation": "Associate Professor, Department of Computer Science and Engineering, Shiv Nadar University, Dadri, India",
+      "email": "",
+      "arxiv_id_seen_in": "",
+      "relevant": true,
+      "relevance_evidence": "Senior author on the shared paper and, separately, author of 'Investigating Cultural Bias: A Comparative Study of Large Language Models' (PReMI 2025, DOI 10.1007/978-3-032-18477-1_45, Semantic Scholar paper b84aa574f14a31324446070993779e95a0b29a18, DBLP conf/premi/SrivastavaSKS25) - a comparative study of cultural bias across large language models, i.e. cultural bias in LLMs directly, not generic fairness. She also works on cross-lingual LLM QA ('CLOR-QA: Cross-Lingual Open-Retrieval Question Answering Model with Dynamic Database Integration', DOI 10.1007/978-3-031-78090-5_2) and Indian-context LLM adaptation ('IndLaw-QA: Fine-Tuned LLMs with RAG for Indian Legal QA'), but the cultural-bias LLM study alone satisfies the gate."
+    }
+  ]
+}
