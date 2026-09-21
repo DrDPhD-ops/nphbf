@@ -1,0 +1,43 @@
+{
+  "row": 91,
+  "papers": [
+    {
+      "arxiv_id": "not on arXiv (NeurIPS 2025 Workshop: Muslims in ML; OpenReview id 3Cs8Yqwj2g; code+README at https://github.com/NadhemBenhadjali/MOSAIC-A-Dataset-for-Cultural-Dimension-Evaluation-in-Arabic-LLMs)",
+      "title": "MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs"
+    }
+  ],
+  "coauthors": [
+    {
+      "name": "Seifeddine Hamdi",
+      "affiliation": "National School of Computer Sciences (ENSI), Manouba, Tunisia",
+      "email": "not found",
+      "arxiv_id_seen_in": "not on arXiv - MOSAIC README author line + bibtex (github.com/NadhemBenhadjali/MOSAIC-A-Dataset-for-Cultural-Dimension-Evaluation-in-Arabic-LLMs)",
+      "relevant": true,
+      "relevance_evidence": "Co-first author (equal contribution) of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs': README states the dataset is '1,483 Arabic social dilemmas across five cultural dimensions' and is 'a dataset and evaluation pipeline for studying how Arabic and multilingual large language models respond to social dilemmas across cultural value dimensions', grounded in Hofstede's Power Distance / Individualism-Collectivism / Masculinity-Femininity / Uncertainty Avoidance / Long-Term Orientation. This is cultural-values evaluation of LLMs directly. No email found on any page (GitHub user seifeddine911, 'Freelance Front-End Developer', Tunisia, is a possible but unconfirmed match and shows no email)."
+    },
+    {
+      "name": "Istabrak Abbes",
+      "affiliation": "Mila - Quebec AI Institute / Universite de Montreal / Chandar Research Lab",
+      "email": "istabrak.abbes@mila.quebec",
+      "arxiv_id_seen_in": "2609.16537v1 (email printed in author block of https://arxiv.org/html/2609.16537v1); MOSAIC author line",
+      "relevant": true,
+      "relevance_evidence": "Coauthor of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs' (README/bibtex: author = {Benhadjali, Nadhem and Hamdi, Seifeddine and Abbes, Istabrak and Messaoud, Safa and Arous, Ines}), whose stated purpose is 'studying how Arabic and multilingual large language models respond to social dilemmas across cultural value dimensions' using Hofstede dimensions - i.e. cultural-values evaluation in LLMs. Caveat: her indexed arXiv output otherwise covers continual pre-training, layer importance and groundedness detection, with no cultural dimension; MOSAIC is the single culture/values work."
+    },
+    {
+      "name": "Safa Messaoud",
+      "affiliation": "Qatar Computing Research Institute (QCRI), HBKU",
+      "email": "smessaoud@hbku.edu.qa",
+      "arxiv_id_seen_in": "2211.16316v1 (email printed in author block of https://arxiv.org/html/2211.16316v1, authors: Enes Altinisik, Safa Messaoud, Husrev Taha Sencar, Sanjay Chawla); MOSAIC author line",
+      "relevant": true,
+      "relevance_evidence": "Coauthor of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs' - Hofstede-grounded evaluation of 'cultural value dimensions' in Arabic and multilingual LLMs (README). She is the QCRI-side senior author and also coauthored 'Fanar: An Arabic-Centric Multimodal Generative AI Platform' (arXiv 2501.13944), the QCRI Arabic-centric LLM effort that is the platform context for the Arabic cultural-alignment work; the MOSAIC paper itself is the culture/values evidence."
+    },
+    {
+      "name": "Ines Arous",
+      "affiliation": "York University (previously Mila / McGill)",
+      "email": "inesar@yorku.ca",
+      "arxiv_id_seen_in": "2608.07425v1 (email printed in author block of https://arxiv.org/html/2608.07425v1; author order Ines Arous, Neha Nayak Kennard, Andrei Mircea, Emily Kuang, Jackie Chi Kit Cheung, Andrew McCallum matches email order inesar@yorku.ca, kennard@cs.umass.edu, mirceara@mila.quebec, ekuang@yorku.ca, cheungja@mila.quebec, mccallum@cs.umass.edu); MOSAIC author line",
+      "relevant": true,
+      "relevance_evidence": "Senior coauthor of 'MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs': the dataset measures LLM option preferences on Arabic social dilemmas 'across cultural value dimensions' (Hofstede's five dimensions), and the README warns it must be used 'to analyze model behavior, not to define what any culture is' - explicit cultural-values/bias work in LLMs. Caveat: her other indexed work (fact editing, multi-document summarization, peer-review AI support) is not culture-related; MOSAIC is the culture/values anchor."
+    }
+  ]
+}
