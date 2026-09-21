@@ -1,0 +1,12 @@
+{
+  "row": 24,
+  "name": "Xuyang Wu",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "xwu5@scu.edu",
+  "email_status": "verified",
+  "email_source": "https://arxiv.org/html/2406.17974v1 (Evaluating Fairness in Large Vision-Language Models..., author block: Xuyang Wu, Santa Clara University, xwu5@scu.edu)",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "LinkedIn /in/xuyang-wu/ snippet reads \"Machine Learning Engineer @ TikTok\" and lists his RAG-fairness (COLING 2025), VLM-fairness and LLM-rankers (NAACL 2024) work — matches org+publications in why. Email printed in arXiv HTML author block alongside co-authors Yi Fang/Hsin-Tai Wu (DOCOMO), same SCU anchor. Only researchgate.net/profile/Xuyang-Wu-2 exists and is a namesake (SUSTech/KTH, distributed optimization) — rejected."
+}

@@ -1,0 +1,12 @@
+{
+  "row": 29,
+  "name": "Nafisa Hassan",
+  "linkedin_status": "unconfirmed",
+  "linkedin_corrected": "",
+  "email_verified": "not found",
+  "email_status": "not_found",
+  "email_source": "",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "Anchor check: the employer is real on LinkedIn - search surfaced a sibling profile, Yoko Yamaguchi, 'AI Director of Research (AIDR) at zk-Call & Digital Co.' (linkedin.com/in/yokoyamaguchi96/), which also shows the company's slug convention 'firstnamelastname##', so both csv slugs (nafisahassan85 / nafisahassan91) are plausible in form. However NEITHER slug appears in any indexed result: every indexed 'Nafisa Hassan' LinkedIn profile is a clear namesake (YouTube content creator, Wates Group, Elk Grove CA, medical assistant, Standard Chartered Dhaka, Somali accountant, Canadian HR/Procom) - none an AI Ethics Officer. The only independent anchor retrieved for the AI-ethics Nafisa Hassan reads 'AI Ethics Officer (AIEO) at zk-Call & Digital Co. Fez', i.e. it ties the person to FEZ, which is row 018's location, not row 029's Tallinn. DUPLICATE VERDICT: rows 018 and 029 carry near-identical summary/why text (same role, same ICAIE presidency, same 'Transparent AI Recruitment System' project, same 'Redefining AI Ethics: Transparency and Fairness in Modern Systems' publication) and the same org - they are one and the same person scraped twice, with location and slug drifting between the two records. The one external geographic anchor (Fez) supports row 018's record; row 029's Tallinn variant has no corroboration, so the URL nafisahassan85 cannot be assigned to this row and row 029 should be treated as the duplicate of 018. No academic footprint exists to cross-check: arXiv author search 'Nafisa Hassan' = 0 results, alphaXiv resolved neither LinkedIn URL and indexes no researcher at zk-Call & Digital Co. No ResearchGate profile found (a dblp entry 'Nafisa Hassan' exists but has no zk-Call / AI-ethics anchor, so namesake). No email printed anywhere reachable; the csv addresses (nafisa@zkcall.net etc.) are constructed templates and were not used. TOOLING LIMIT: the session's global WebSearch quota (200/200) was exhausted after 2 queries, and the egress proxy blocks linkedin.com, researchgate.net, all alternative search engines, dblp.org, pub.orcid.org, crunchbase.com and zkcall.net, so the slug question could not be closed further."
+}

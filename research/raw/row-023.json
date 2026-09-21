@@ -1,0 +1,12 @@
+{
+  "row": 23,
+  "name": "Elena Beretta",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "elena.beretta@polito.it",
+  "email_status": "verified",
+  "email_source": "arXiv PDF 2101.11358 'Detecting discriminatory risk through data annotation based on Bayesian inferences' (author block: elena.beretta@polito.it, Nexa Center / Politecnico di Torino)",
+  "researchgate_url": "https://www.researchgate.net/profile/Elena-Beretta-6",
+  "researchgate_status": "found",
+  "evidence": "LinkedIn nl.linkedin.com/in/elena-beretta lists Assistant Professor, AI Ethics/Human-AI Interaction at VU Amsterdam (same slug as CSV); RG profile Elena-Beretta-6 is VU Amsterdam Dept of Computer Science (the NYU Abu Dhabi maths Elena Beretta, profile -2, was rejected as a namesake). Only printed address found is her PhD-era elena.beretta@polito.it on the arXiv PDF of a paper named in her profile; no @vu.nl address is printed anywhere reachable (Google Scholar only shows 'verified email at vu.nl'; vu.nl, research.vu.nl, vu-qda.nl and nexa.polito.it are blocked by the egress proxy)."
+}

@@ -1,0 +1,12 @@
+{
+  "row": 9,
+  "name": "Shivam Chauhan",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "shivam.chauhan@mbzuai.ac.ae",
+  "email_status": "verified",
+  "email_source": "https://arxiv.org/html/2502.07328v2",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "LinkedIn /in/shivamiisc2018 headline matches the CSV org verbatim ('Building Open, Transparent, and Trustworthy AI Systems | LLMs, GenAI, Cultural AI | Ex-MBZUAI | Ex-Microsoft') and snippet mentions Senior ML Research Engineer at MBZUAI, Nanda Hindi LLM and generative music - same anchors as the 'why' field. Email printed in arXiv HTML full text of 'Music for All: Representational Bias and Cross-Cultural Adaptability of Music Generation Models' (arXiv:2502.07328), where he is the 2nd author with MBZUAI affiliation. ResearchGate: only an auto-generated stub https://www.researchgate.net/scientific-contributions/Shivam-Chauhan-2309883742 (not a /profile/ URL); the /profile/Shivam-Chauhan-10 hit is a namesake PhD student in the Stochastic Systems Lab, CSA, IISc Bangalore (csa.iisc.ac.in listing), with no MBZUAI/music work - rejected."
+}

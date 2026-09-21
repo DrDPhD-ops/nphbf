@@ -1,0 +1,12 @@
+{
+  "row": 18,
+  "name": "Nafisa Hassan",
+  "linkedin_status": "unconfirmed",
+  "linkedin_corrected": "",
+  "email_verified": "not found",
+  "email_status": "not_found",
+  "email_source": "",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "An 'AI Ethics Officer (AIEO) at zk-Call & Digital Co.' named Nafisa Hassan is corroborated indirectly (Crunchbase person entry under zk-Call, co-authorship with Yoko Yamaguchi/AIDR on the zk-Call blog post 'Redefining AI Ethics: Transparency and Fairness in Modern Systems'), but neither slug /in/nafisahassan91 (row 018) nor /in/nafisahassan85 (row 029) was ever returned by search, so the specific URL of this row cannot be verified; zkcall.net, medium.com and crunchbase.com are egress-blocked so no printed email was obtainable (CSV guesses nafisa@zkcall.net etc. are templates, rejected). Duplicate verdict: rows 018 and 029 carry an identical role, identical summary, identical publication and identical 'Transparent AI Recruitment System' project and ICAIE presidency, differing only in city (Fez vs Tallinn, and zk-Call's company page is Estonia-registered) - this is almost certainly ONE person with a duplicated/mis-slugged profile record rather than two namesakes, and at most one of the two URLs is real. ResearchGate hits ('Nafisa Hassan' at Assiut University, medicine; 'Nafisa Hassan-2' visiting scholar in biological sciences at NTU Singapore) are unrelated namesakes."
+}

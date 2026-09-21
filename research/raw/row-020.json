@@ -1,0 +1,12 @@
+{
+  "row": 20,
+  "name": "Alina Leidinger",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "a.j.leidinger@uva.nl",
+  "email_status": "verified",
+  "email_source": "https://arxiv.org/html/2405.13974v1 (CIVICS paper, Correspondence line); also printed on https://aleidinger.github.io/assets/CV_AlinaLeidinger.pdf",
+  "researchgate_url": "https://www.researchgate.net/profile/Alina-Leidinger",
+  "researchgate_status": "found",
+  "evidence": "LinkedIn nl.linkedin.com/in/alinaleidinger titled \"Final year PhD student in AI/NLP\" (NL), matches CSV; ResearchGate profile lists UvA ILLC PhD student with bias/values-in-LLM papers; email taken verbatim from the Correspondence line of arXiv HTML of CIVICS (2405.13974), the exact paper named in why."
+}

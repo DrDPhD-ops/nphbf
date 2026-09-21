@@ -1,0 +1,12 @@
+{
+  "row": 15,
+  "name": "Alice Bai",
+  "linkedin_status": "mismatch",
+  "linkedin_corrected": "",
+  "email_verified": "not found",
+  "email_status": "not_found",
+  "email_source": "",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "CSV URL /in/abolarin-bolare-b330a427a belongs to a different person (Abolarin Bolare), not Alice Bai -> mismatch. No replacement confirmed: multiple 'Alice Bai' profiles exist but none shows an Intellectsoft, cultural-intelligence-project or other independent anchor; the Bay Area profile /in/alice-bai-a13ba18b matches only name+location (UC Berkeley, 24 connections), so it is rejected as a possible namesake. No printed email found (intellectsoft.net and the PRNewswire/aijourn trade-storytelling articles are egress-blocked; no arXiv/ORCID/lab page exists for her). ResearchGate returns only homonyms (Alice Bairoch, Alice Bailey, Alice Baird)."
+}

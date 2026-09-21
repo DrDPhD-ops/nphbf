@@ -1,0 +1,12 @@
+{
+  "row": 7,
+  "name": "Jinhu Qi",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "jhqi25@cse.cuhk.edu.hk",
+  "email_status": "verified",
+  "email_source": "https://arxiv.org/html/2603.14987v2",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "LinkedIn /in/jinhu-qi snippet: 'LLM Researcher', PhD student in CSE at The Chinese University of Hong Kong (current employer shown as AgentecFusion, successor/rename of the Intellimator.ai/Nexgentix role in the CSV) - matches CUHK + LLM/agentic AI anchors from summary. Email jhqi25@cse.cuhk.edu.hk is printed next to 'Jinhu Qi, The Chinese University of Hong Kong' in the arXiv HTML author block of 2603.14987v2 (also in 2607.26977v2); he is first author of the Tibetan tourism RAG papers (arXiv 2407.13561, 2408.12003) and of the agentic-AI trustworthiness survey with Irwin King. Two site:researchgate.net searches returned only co-authors' profiles (Yifei Zhang, Irwin King), no own profile."
+}

@@ -1,0 +1,12 @@
+{
+ "row": 16,
+ "name": "Sahil Selokar",
+ "linkedin_status": "confirmed",
+ "linkedin_corrected": "",
+ "email_verified": "visualvortexcreatives@gmail.com",
+ "email_status": "verified",
+ "email_source": "https://github.com/SahilSelokar/Tokensense/blob/main/pyproject.toml",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "GitHub user SahilSelokar is the same person: profile lists G.H. Raisoni Institute of Engineering and Technology (Nagpur) and hosts the exact repo 'Agentic-Bias-Classifier-Multi-Level-Bias-Detection-Using-Autogen' named in 'why'; his profile README links https://www.linkedin.com/in/sahil-selokar, matching linkedin_csv, and Tokensense pyproject.toml prints authors = [{name = 'Sahil Selokar', email = 'visualvortexcreatives@gmail.com'}]. ZoomInfo independently confirms AI/ML Engineer at Cluematrix Technologies, ex-intern at ImmverseAI, Nagpur. ResearchGate search returned only namesakes (Naresh Selokar - NDRI dairy science, Umang Selokar - SDSU mechanical engineering), rejected on affiliation; he is an industry engineer with no academic RG profile."
+}

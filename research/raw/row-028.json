@@ -1,0 +1,12 @@
+{
+  "row": 28,
+  "name": "Bumjin Park",
+  "linkedin_status": "unconfirmed",
+  "linkedin_corrected": "",
+  "email_verified": "bumjin@kaist.ac.kr",
+  "email_status": "verified",
+  "email_source": "https://arxiv.org/html/2406.15996 (Memorizing Documents with Guidance in Large Language Models; author block: Bumjin Park, KAIST AI, bumjin@kaist.ac.kr; co-author Jaesik Choi, KAIST AI)",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "Anchor matched: arXiv paper author block lists Bumjin Park at KAIST AI with advisor/co-author Jaesik Choi (KAIST AI), matching the KAIST AI PhD-student summary; email is printed verbatim there, not constructed (csv guess park@kaist.ac.kr is wrong). LinkedIn URL leo-bpark surfaced in no search result and all indexed Bumjin Park profiles were namesakes (Tesla, Texas A&M, CPA, plastic surgeon, etc.) with no KAIST AI anchor, so the csv link stays unconfirmed rather than confirmed; ResearchGate search could not be completed before the session web-search budget ran out and search-engine fetches were egress-blocked."
+}

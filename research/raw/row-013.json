@@ -1,0 +1,12 @@
+{
+ "row": 13,
+ "name": "Ankit Chauhan",
+ "linkedin_status": "unconfirmed",
+ "linkedin_corrected": "",
+ "email_verified": "ankichau@iu.edu",
+ "email_status": "verified",
+ "email_source": "https://arxiv.org/html/2606.13397",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Email printed in arXiv HTML full text of 'Mod-Guide' (arXiv 2606.13397) for 'Ankit Singh Chauhan, Indiana University Indianapolis' (ankichau@iu.edu); anchors converging with the CSV row: same org/city (IU Indianapolis), same topic area (culturally grounded / community-inclusive LLM research) and co-author Sunandan Chakraborty of IU Indianapolis Data Science, the unit behind the DRL AI culturally-responsive STEM chatbot project named in 'why' - name differs only by the middle name 'Singh'. LinkedIn slug chauhan-aankit never surfaced in site:linkedin.com/in searches (only unrelated namesakes at Adobe, BitGo, UCSB, GUVI etc.), no contradiction found, so left unconfirmed. ResearchGate: only researchgate.net/profile/Ankit-Chauhan-14 exists, a namesake at Hasso Plattner Institute Potsdam (algorithm engineering) - rejected."
+}

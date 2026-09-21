@@ -1,0 +1,12 @@
+{
+  "row": 6,
+  "name": "Rafay Naeem",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "bscs20004@itu.edu.pk",
+  "email_status": "verified",
+  "email_source": "https://arxiv.org/html/2501.03259v1",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "LinkedIn slug rafaynaeem42 resolves to pk.linkedin.com/in/rafaynaeem42 whose snippet shows Research Assistant (Zayed University, prior RA at Information Technology University, BS from ITU) - matches the ITU CS background in summary and the ITU affiliation on the anchor paper 'Toward Inclusive Educational AI: Auditing Frontier LLMs through a Multiplexity Lens' (arXiv 2501.03259, co-author Junaid Qadir of Qatar University); ZoomInfo separately lists him as Visiting Research Assistant at Qatar University with a qu.edu.qa domain. Email bscs20004@itu.edu.pk is printed in the arXiv HTML of both 2501.03259 and 2509.17240; the qu.edu.qa guesses in email_csv are not printed anywhere. ResearchGate has only a scientific-contributions stub (/scientific-contributions/Muhammad-Rafay-Naeem-2301798321), no /profile/ page."
+}

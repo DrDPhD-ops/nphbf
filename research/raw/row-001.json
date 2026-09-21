@@ -1,0 +1,12 @@
+{
+  "row": 1,
+  "name": "Ashton C.",
+  "linkedin_status": "unconfirmed",
+  "linkedin_corrected": "",
+  "email_verified": "not found",
+  "email_status": "not_found",
+  "email_source": "",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "Profile linkedin.com/in/ashyuxchen is not indexed by search (no snippet returned for the slug or for the headline 'Systems Design Engineering w/Artificial Intelligence @ UWaterloo'), but nothing contradicts it — slug reads as Ash(ton) Yu X Chen, consistent with the displayed name; a separate ca.linkedin.com/in/ashtonchen ('Ashton C. - Software Engineer at Ford Motor Company') has no UWaterloo/AI-ethics anchor, so it was not substituted. No email printed anywhere: the 'Cross-Cultural Context Transfer in LLMs' project with Dr. Terrence Stewart is an unpublished student project (no arXiv/ACL/OpenReview record), and no personal site, GitHub or uwaterloo.ca directory entry surfaced; email_csv ash.chen@uwaterloo.ca is a template guess and was not accepted. ResearchGate: only hit is 'Ashton Chen' at Wake Forest University (pediatric kidney transplantation, a contributions stub, not a profile) — clearly a different person, rejected."
+}

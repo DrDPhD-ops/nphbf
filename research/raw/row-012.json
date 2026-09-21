@@ -1,0 +1,12 @@
+{
+ "row": 12,
+ "name": "Ashwin Kumar",
+ "linkedin_status": "confirmed",
+ "linkedin_corrected": "",
+ "email_verified": "ashwinkumar@wustl.edu",
+ "email_status": "verified",
+ "email_source": "https://arxiv.org/html/2505.13487v1",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn /in/ashwinkumar97 snippet reads \"Research Scientist@Meta | Feed Ranking\", matching org Meta and the summary; same person is the WashU PhD (advisor William Yeoh, fairness in multi-agent resource allocation) and first author of \"Detecting Prefix Bias in LLM-based Reward Models\" (arXiv 2505.13487), whose HTML full text prints ashwinkumar@wustl.edu with the footnote \"work completed as intern at Meta Platforms\". ResearchGate hits for \"Ashwin Kumar\" are all namesakes (Amazon/TRMS, Ericsson, ICFAI Hyderabad, IIT Kanpur) with no WashU/Meta or fairness-AI link, so rejected."
+}

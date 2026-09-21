@@ -1,0 +1,12 @@
+{
+  "row": 3,
+  "name": "Anushka Mukhopadhyay",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "amukh946@berkeley.edu",
+  "email_status": "verified",
+  "email_source": "https://sp24.datastructur.es/staff/",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "LinkedIn /in/anushkamuk snippet: UC Berkeley EECS grad, Palantir Technologies, AI-safety interests (interpretability/alignment/algorithmic bias), TA for CS61B/CS70/CS170 - matches CSV org 'EECS @ UC Berkeley | ML @ BAIR | Prev @ Palantir, Amazon'; distinct homonyms (Apple SWE, Michigan '19 GitHub, San Jose CS&DS student) rejected. Email amukh946@berkeley.edu is printed on the CS 61B Spring 2024 staff page (also on HKN Mu chapter officers page); that staff bio says 'sophomore studying EECS from Shrewsbury, Massachusetts', matching the CSV location Shrewsbury - both pages are egress-blocked for direct fetch but the literal-string search returned them. No ResearchGate profile exists (searched site:researchgate.net/profile; only unrelated Anushka/Mukhopadhyay researchers); her only publication, 'Quantifying Bias in Agentic LLMs' (ICTC 2024, with Michael Lutz/BLAST AI), has no arXiv version."
+}

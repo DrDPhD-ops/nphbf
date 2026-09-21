@@ -1,0 +1,12 @@
+{
+  "row": 36,
+  "name": "Eduardo de Miguel Vázquez",
+  "linkedin_status": "mismatch",
+  "linkedin_corrected": "https://www.linkedin.com/in/eduardo-de-miguel-白羿轩-9092112a",
+  "email_verified": "not found",
+  "email_status": "not_found",
+  "email_source": "",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "Anchor shared by both rows: Corporate Relations @ Deusto Business School, Madrid, Spain, plus the same China item ('Cross-Cultural awareness training for public schools in Xuhui district, Shanghai') in the publications/projects of both records. Same person, not namesakes. Both LinkedIn URLs carry the identical public-ID suffix '9092112a' - LinkedIn derives that suffix per profile, so two different people cannot share the same name stem AND the same suffix. Row 030's slug carries the Chinese name 白羿轩 (Bái Yìxuān), which matches the Shanghai history and which a scraper would have to copy from the live profile rather than invent. Row 036's slug 'eduardo-de-miguel-vázquez-9092112a' keeps the accented 'á'; LinkedIn ASCII-folds Latin accents in public identifiers (it would be 'vazquez'), so row 036 looks like a name-field reconstruction, not a real public identifier. Conclusion: ONE profile, canonical URL = row 030's (https://www.linkedin.com/in/eduardo-de-miguel-白羿轩-9092112a); row 036 is a duplicate of row 030. NOT live-verified: the session's WebSearch budget was exhausted (200/200) and the egress proxy blocks every host except arxiv.org and Semantic Scholar, so linkedin.com, deusto.es, orcid.org and researchgate.net were all unreachable. Semantic Scholar author search for 'Eduardo de Miguel Vazquez' returned no matching author. No printed email address was seen anywhere, and constructing one is forbidden, so email = not found. Row-specific: non-canonical duplicate of row 030's profile."
+}
