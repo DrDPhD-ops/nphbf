@@ -1,0 +1,12 @@
+{
+ "row": 172,
+ "name": "Mona T. Diab",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "mdiab@andrew.cmu.edu",
+ "email_status": "verified",
+ "email_source": "arXiv HTML 2510.05931 author block",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Affiliation anchor: Carnegie Mellon University, Language Technologies Institute; senior author of arXiv 2510.05931 'Hire Your Anthropologist'. Email copied from the pre-verified anchors file using the corrected offset mapping (mdiab -> Mona T. Diab). LinkedIn and ResearchGate: not searched - the 20-call WebSearch budget was exhausted on rows 165-168, so both are reported not_found rather than guessed. She is a well-known NLP professor and both profiles are very likely findable with fresh budget."
+}

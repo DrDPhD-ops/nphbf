@@ -1,0 +1,12 @@
+{
+ "row": 165,
+ "name": "V. A. Shulginov",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "not found",
+ "email_status": "not_found",
+ "email_source": "",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Expanded initials: V. A. Shulginov = Shulginov Valeriy Aleksandrovich (Шульгинов Валерий Александрович), leading researcher at the HSE University Laboratory of Linguistic Conflictology and Modern Communication Practices, Moscow; prior Far Eastern Federal University; works on computational linguistics, e-hypertext and LLM evaluation for Russian (Dialogue conference paper 'Evaluating the Pragmatic Competence of Large Language Models', dialogue-conf.org/.../ShulginovVetal.037.pdf). The pancake/phraseology paper with N. V. Nazarov is not on arXiv (checked export.arxiv.org for au:Shulginov and for 'first pancake' - no hits). LinkedIn: searched site:linkedin.com/in for 'Shulginov' + linguistics/Russian and for 'Valery/Valeriy/Valerii Shulginov' + HSE/FEFU - only unrelated namesakes (Roman Shulginov at Rostelecom, Nikolay Shulginov the politician) so rejected on the namesake rule. ResearchGate: site:researchgate.net/profile 'Shulginov' returned only researchgate.net/profile/Alexander_Shulginov (South Ural State University, wrong person); no profile URL for the HSE Valeriy Shulginov surfaced. Email: RPTU/HSE/dialogue-conf pages are blocked by the egress proxy and no address was literally printed in any snippet, so not found (no address constructed)."
+}

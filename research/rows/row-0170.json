@@ -1,0 +1,12 @@
+{
+ "row": 170,
+ "name": "Yunze Xiao",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "yunzex@andrew.cmu.edu",
+ "email_status": "verified",
+ "email_source": "arXiv HTML 2510.05931 author block",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Affiliation anchor: Carnegie Mellon University (CMU-Qatar), co-author of arXiv 2510.05931 'Hire Your Anthropologist'. Email copied from the pre-verified anchors file (yunzex -> Yunze Xiao). LinkedIn and ResearchGate: not searched - the 20-call WebSearch budget was exhausted on rows 165-168, so both are reported not_found rather than guessed. Worth a follow-up pass with fresh budget."
+}
