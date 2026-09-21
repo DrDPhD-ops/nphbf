@@ -176,3 +176,47 @@ scope. The DATUMO repos (`selectstar-ai/CAGE-paper`,
 were never mined for committer addresses. `api.github.com/users/...`,
 `list_commits` and GitHub profile HTML are all blocked — the session's GitHub
 API is scoped to `drdphd-ops/nphbf`.
+
+---
+
+# How to merge these into the table
+
+This session deliberately does **not** write to
+`research/people-table-enriched.csv`. The 22 addresses live only in the per-row
+JSON files here. Two traps to know before merging them:
+
+**1. Row numbers moved.** Pass-1 files (`row-NNNN.json`) are keyed to the old
+297-row table; use their `row_new_288` field instead. Pass-2 and pass-3 files
+(`p2-`, `p3-`) are already keyed to the 288-row table. Match on the name as a
+cross-check, not on the number alone.
+
+**2. The CSV has mixed line endings.** Records are separated by `\r\n`, but some
+fields contain bare `\n` inside them. Reading it through `io.StringIO(text)`
+silently translates the `\r\n`, so a naive rewrite reformats all 289 records and
+guarantees a conflict with whatever else is editing the file. This round-trips
+byte-identically:
+
+```python
+src  = open(path, newline='').read()
+rows = list(csv.reader(io.StringIO(src, newline='')))
+buf  = io.StringIO(newline='')
+csv.writer(buf, lineterminator='\r\n', quoting=csv.QUOTE_MINIMAL).writerows(rows)
+assert buf.getvalue() == src          # holds before any edit
+```
+
+Set only `Email_Verified`, `Email_Status`, `Email_Source`, and prepend a
+provenance note to `Evidence`. Skip any row already marked `verified` — none of
+these 22 collide with one, but the guard is worth keeping.
+
+A merge done this way changes exactly 22 records and touches 4 columns, taking
+the table from 197 verified rows to 219.
+
+## Two pre-existing rows worth a look while you are in there
+
+- **Row 182 (Peng Zhang)** — the table has `zhangpeng_@fudan.edu.cn`; the older
+  `enrich-rows-*` branches have `zhangpeng@fudan.edu.cn`, without the
+  underscore. The arXiv author block prints `{zhangpeng_, lutun, ninggu}@fudan.edu.cn`,
+  so the underscored form is the printed one. Keeping both, in the `a@x; b@y`
+  form already used by row 43, is the safe option.
+- **Row 280 (Seifeddine Hamdi)** — `Email_Status` is `verified` but
+  `Email_Verified` holds the literal string `not found`. One of the two is wrong.
