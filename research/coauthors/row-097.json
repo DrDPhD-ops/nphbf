@@ -1,0 +1,35 @@
+{
+  "row": 97,
+  "papers": [
+    {
+      "arxiv_id": "2601.14506",
+      "title": "Compounding Disadvantage: Auditing Intersectional Bias in LLM-Generated Explanations Across Indian and American STEM Education"
+    }
+  ],
+  "coauthors": [
+    {
+      "name": "Amogh Gupta",
+      "affiliation": "Society-Centered AI Lab, UNC Chapel Hill, USA",
+      "email": "guam@cs.unc.edu",
+      "arxiv_id_seen_in": "2601.14506",
+      "relevant": true,
+      "relevance_evidence": "Co-first author (помечен *) статьи arXiv:2601.14506 'Compounding Disadvantage: Auditing Intersectional Bias in LLM-Generated Explanations Across Indian and American STEM Education' — прямой кросс-культурный аудит LLM: сравниваются индийский и американский образовательные контексты, индийские оси (каста, medium of instruction, college tier) против американских (race, HBCU, school type), аудируются Qwen 2.5-32B-Instruct, GPT-4o, GPT-4o-mini, GPT-OSS 20B. Это культурная предвзятость именно в LLM, гейт пройден по самой статье. ОСТОРОЖНО: другие arXiv-работы под именем 'Amogh Gupta' (Generative Interventions for Causal Learning; Multitask Learning Strengthens Adversarial Robustness; Global Pose Control for Generative View Synthesis; SHARD: Safe and Helpful Alignment via Self-Reframing Distillation) — компьютерное зрение/выравнивание без культурной рамки и, вероятно, однофамилец; в оценку релевантности они не включались."
+    },
+    {
+      "name": "Sourojit Ghosh",
+      "affiliation": "University of Washington, Seattle, USA",
+      "email": "ghosh100@uw.edu",
+      "arxiv_id_seen_in": "2601.14506",
+      "relevant": true,
+      "relevance_evidence": "Профильный исследователь культурной предвзятости генеративного ИИ, а не просто fairness. Кросс-культурные работы: 'Do Generative AI Models Output Harm while Representing Non-Western Cultures: Evidence from A Community-Centered Approach'; 'Interpretations, Representations, and Stereotypes of Caste within Text-to-Image Generators' (каста как культурная ось); 'From Melting Pots to Misrepresentations: Exploring Harms in Generative AI'; 'Documenting Patterns of Exoticism of Marginalized Populations within Text-to-Image Generators'; \"'Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion\"; \"'I don't see myself represented here at all': ... Representational Harms across Gender Identities and Nationalities\". По линии NLP/LLM: 'ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages' (кросс-язычный/кросс-культурный разбор поведения LLM) и 'Bias is a Math Problem, AI Bias is a Technical Problem: 10-year Literature Review of AI/LLM Bias Research Reveals Narrow [Gender-Centric] Conceptions of Bias'. Плюс соавторство в arXiv:2601.14506. Ядро повестки — репрезентация не-западных культур в генеративных моделях."
+    },
+    {
+      "name": "Snehalkumar 'Neil' S. Gaikwad",
+      "affiliation": "Society-Centered AI Lab, UNC Chapel Hill, USA",
+      "email": "gaikwad@cs.unc.edu",
+      "arxiv_id_seen_in": "2601.14506",
+      "relevant": true,
+      "relevance_evidence": "Старший автор (PI Society-Centered AI Lab, UNC Chapel Hill) статьи arXiv:2601.14506 — кросс-культурного аудита LLM по индийскому и американскому образовательным контекстам; гейт пройден по этой работе. Смежные работы по ценностям/идентичности в LLM-системах: 'When Identity Overrides Incentives: Representational Choices as Governance Decisions in Multi-Agent LLM Systems' и 'A Voting-Based System for Ethical Decision Making' (агрегация моральных предпочтений). Остальная часть портфеля ('Crowd Guilds', 'Prototype Tasks', 'CARE: A Capability-Based Measurement Framework for Reproductive Equity in Human-AI Interaction') — краудсорсинг и HCI без культурной рамки в LLM и на релевантность не влияла."
+    }
+  ]
+}

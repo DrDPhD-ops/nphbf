@@ -1,0 +1,12 @@
+{
+  "row": 91,
+  "name": "Nadhem Benhadjali",
+  "linkedin_status": "confirmed",
+  "linkedin_corrected": "",
+  "email_verified": "nadhembenhadjali@gmail.com",
+  "email_status": "verified",
+  "email_source": "https://github.com/NadhemBenhadjali (profile README, raw: https://raw.githubusercontent.com/NadhemBenhadjali/NadhemBenhadjali/main/README.md)",
+  "researchgate_url": "not found",
+  "researchgate_status": "not_found",
+  "evidence": "LinkedIn confirmed: search returned https://tn.linkedin.com/in/nadhem-benhadjali (country subdomain of the table URL https://www.linkedin.com/in/nadhem-benhadjali); snippet says 'AI researcher and final-year Computer Engineering student, ENSI, Tunis', 3rd place at 'EMBS Challenge: AI for Mental Health Advancement' - matches the Mila mental-health anchor. The same LinkedIn slug is printed as a link in his GitHub profile README (https://raw.githubusercontent.com/NadhemBenhadjali/NadhemBenhadjali/main/README.md), which ties the GitHub account NadhemBenhadjali to the LinkedIn profile. EMAIL: that README literally contains <a href=\"mailto:nadhembenhadjali@gmail.com\"> plus a shields.io badge 'Email-nadhembenhadjali%40gmail.com'; not constructed. Identity anchors on GitHub: bio 'AI Engineer ... Arabic NLP', location 'Monastir, Tunisia', 'Develop AI solutions for Arabic language and cultural contexts', and pinned repos 'MOSAIC-A-Dataset-for-Cultural-Dimension-Evaluation-in-Arabic-LLMs' (Hofstede cultural dimensions in Arabic LLMs, NeurIPS 2025 Workshop: Muslims in ML) and 'MindMate-Mental-Health-AI-System' (LLaMA-3-8B fine-tuning for mental health) - matching the QCRI cultural-representation/bias anchor and the Mila mental-health anchor. MOSAIC coauthors are from Mila, QCRI and York University (web snippet of the workshop paper), confirming the QCRI/Mila connection. No arXiv record under Benhadjali / Ben Hadj Ali / Nadhem (checked export.arxiv.org au: and all: queries) and no ResearchGate profile found via site:researchgate.net search; other 'Nadhem Ben Hadj Ali' hits (Lloyd Assurances insurance, Nadhem Bel Hadj Java consultant, Nadhem Idoudi/Meziou on ResearchGate) are different people and were excluded."
+}
