@@ -1,0 +1,1154 @@
+[
+ {
+  "name": "Xiaoyuan Yi",
+  "why": "Xiaoyuan Yi is relevant to the field of \"cultural values of LLMs\" as a co-author of 3 paper(s) that directly study culture or values in language models: \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"; \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 3 on-topic paper(s) (2604.06210, 2505.13531, 2504.08820). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2604.06210 / Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Va",
+  "email": "xiaoyuanyi@microsoft.com",
+  "aff": "University\n \n  Correspondence to:   jy, University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"; \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\"."
+ },
+ {
+  "name": "Xing Xie",
+  "why": "Xing Xie is relevant to the field of \"cultural values of LLMs\" as a co-author of 3 paper(s) that directly study culture or values in language models: \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"; \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 3 on-topic paper(s) (2604.06210, 2505.13531, 2504.08820). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2604.06210 / Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Va",
+  "email": "xing.xie@microsoft.com",
+  "aff": "University\n \n  Correspondence to:   jy, University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"; \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\"."
+ },
+ {
+  "name": "Anna Kruspe",
+  "why": "Anna Kruspe is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\"; \"Musical Ethnocentrism in Large Language Models\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2501.13720). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2501.13720 / Understanding bias in language models: comparing the cultural distributions of b",
+  "email": "anna.kruspe@hm.edu",
+  "aff": "University of Applied Sciences\n \n  Affiliation:  Lothstr",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\"; \"Musical Ethnocentrism in Large Language Models\"."
+ },
+ {
+  "name": "Hassan Alhuzali",
+  "why": "Hassan Alhuzali is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"; \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2601.14063, 2503.17485). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"; \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\"."
+ },
+ {
+  "name": "Jing Yao",
+  "why": "Jing Yao is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2505.13531, 2504.08820). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2505.13531 / AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Differe",
+  "email": "jingyao@microsoft.com",
+  "aff": "University\n \n  Email:    lutun@fudan, University\n \n  Email:    ninggu@fudan",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\"."
+ },
+ {
+  "name": "Zhicheng Dou",
+  "why": "Zhicheng Dou is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2505.13531, 2504.08820). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2505.13531 / AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Differe",
+  "email": "",
+  "aff": "University\n \n  Email:    lutun@fudan, University\n \n  Email:    ninggu@fudan",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"; \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\"."
+ },
+ {
+  "name": "Sougata Saha",
+  "why": "Sougata Saha is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\"; \"Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2502.09637). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2502.09637 / Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cu",
+  "email": "",
+  "aff": "University of Artificial Intelligence\n \n  Affiliation:   {sougata",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\"; \"Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness\"."
+ },
+ {
+  "name": "S. K. Pandey",
+  "why": "S. K. Pandey is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\"; \"Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2502.09637). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2502.09637 / Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cu",
+  "email": "",
+  "aff": "University of Artificial Intelligence\n \n  Affiliation:   {sougata",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\"; \"Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness\"."
+ },
+ {
+  "name": "Monojit Choudhury",
+  "why": "Monojit Choudhury is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\"; \"Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2502.09637). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2502.09637 / Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cu",
+  "email": "",
+  "aff": "University of Artificial Intelligence\n \n  Affiliation:   {sougata",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\"; \"Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness\"."
+ },
+ {
+  "name": "R. Dandekar",
+  "why": "R. Dandekar is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\"; \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (2410.01811, 2410.01811). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2410.01811 / Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\"; \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\"."
+ },
+ {
+  "name": "Geleta Negasa Binegde",
+  "why": "Geleta Negasa Binegde is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"Exploring cultural commonsense in multilingual large language models: A survey\"; \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:872199ec03af99612108572a57e7a0392780ea1f / Exploring cultural commonsense in multilingual large language models: A survey",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Exploring cultural commonsense in multilingual large language models: A survey\"; \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\"."
+ },
+ {
+  "name": "Huaping Zhang",
+  "why": "Huaping Zhang is relevant to the field of \"cultural values of LLMs\" as a co-author of 2 paper(s) that directly study culture or values in language models: \"Exploring cultural commonsense in multilingual large language models: A survey\"; \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 9",
+  "rel": "Co-author of 2 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:872199ec03af99612108572a57e7a0392780ea1f / Exploring cultural commonsense in multilingual large language models: A survey",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Exploring cultural commonsense in multilingual large language models: A survey\"; \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\"."
+ },
+ {
+  "name": "A. Didenko",
+  "why": "A. Didenko is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2609.18384). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2609.18384 / GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Mod",
+  "email": "alexander.didenko@gmail.com",
+  "aff": "Academy of National Economy and Public Administration, Institute of Business Studies",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\"."
+ },
+ {
+  "name": "A. Shabanova",
+  "why": "A. Shabanova is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2609.18384). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2609.18384 / GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Mod",
+  "email": "",
+  "aff": "Academy of National Economy and Public Administration, Institute of Business Studies",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\"."
+ },
+ {
+  "name": "Vladislav Zapylikhin",
+  "why": "Vladislav Zapylikhin is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2609.18384). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2609.18384 / GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Mod",
+  "email": "",
+  "aff": "Academy of National Economy and Public Administration, Institute of Business Studies",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\"."
+ },
+ {
+  "name": "A. Antipov",
+  "why": "A. Antipov is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2609.18384). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2609.18384 / GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Mod",
+  "email": "",
+  "aff": "Academy of National Economy and Public Administration, Institute of Business Studies",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\"."
+ },
+ {
+  "name": "Ruslana Raemgulova",
+  "why": "Ruslana Raemgulova is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2609.18384). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2609.18384 / GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Mod",
+  "email": "",
+  "aff": "Academy of National Economy and Public Administration, Institute of Business Studies",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models\"."
+ },
+ {
+  "name": "Meng-Xi Guo",
+  "why": "Meng-Xi Guo is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:22d48975c9fbca1faac8cc34be53f17d7563e76b / Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\"."
+ },
+ {
+  "name": "Lei-Ming Gao",
+  "why": "Lei-Ming Gao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:22d48975c9fbca1faac8cc34be53f17d7563e76b / Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\"."
+ },
+ {
+  "name": "W. Zeng",
+  "why": "W. Zeng is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:22d48975c9fbca1faac8cc34be53f17d7563e76b / Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\"."
+ },
+ {
+  "name": "Gao-Qi Rao",
+  "why": "Gao-Qi Rao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:22d48975c9fbca1faac8cc34be53f17d7563e76b / Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\"."
+ },
+ {
+  "name": "Chu-Ren Huang",
+  "why": "Chu-Ren Huang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:22d48975c9fbca1faac8cc34be53f17d7563e76b / Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding\"."
+ },
+ {
+  "name": "Mila Stillman",
+  "why": "Mila Stillman is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:dc199fb07747f63d5e4b61c31c45175bc801eaba / Understanding bias in language models: comparing the cultural distributions of b",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\"."
+ },
+ {
+  "name": "Atanas Kirjakovski",
+  "why": "Atanas Kirjakovski is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:dc199fb07747f63d5e4b61c31c45175bc801eaba / Understanding bias in language models: comparing the cultural distributions of b",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\"."
+ },
+ {
+  "name": "D. M. Marutschke",
+  "why": "D. M. Marutschke is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:dc199fb07747f63d5e4b61c31c45175bc801eaba / Understanding bias in language models: comparing the cultural distributions of b",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian\"."
+ },
+ {
+  "name": "Hyeji Choi",
+  "why": "Hyeji Choi is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.09178). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.09178 / Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Metho",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis\"."
+ },
+ {
+  "name": "Y. Lim",
+  "why": "Y. Lim is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.09178). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.09178 / Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Metho",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis\"."
+ },
+ {
+  "name": "Minwoo Kim",
+  "why": "Minwoo Kim is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.09178). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.09178 / Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Metho",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis\"."
+ },
+ {
+  "name": "Yangfan Ye",
+  "why": "Yangfan Ye is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "Xiaocheng Feng",
+  "why": "Xiaocheng Feng is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "xcfeng@ir.hit.edu.cn",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "Jialong Tang",
+  "why": "Jialong Tang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "Xiayu Cao",
+  "why": "Xiayu Cao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "Zi-Han Zhang",
+  "why": "Zi-Han Zhang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "Xiachong Feng",
+  "why": "Xiachong Feng is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "xcfeng@ir.hit.edu.cn",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "Baosong Yang",
+  "why": "Baosong Yang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "Bing Qin",
+  "why": "Bing Qin is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2606.01879). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2606.01879 / CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in ",
+  "email": "",
+  "aff": "Institute of Technology\n \n  Affiliation:  The University of Hong Kong, Institute of Technology\n \n  Email:   xcfeng@ir",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs\"."
+ },
+ {
+  "name": "G. Kashyap",
+  "why": "G. Kashyap is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AlignCultura: Towards Culturally Aligned Large Language Models?\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.19016). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2604.19016 / AlignCultura: Towards Culturally Aligned Large Language Models?",
+  "email": "gautam.kashyap@hdr.mq.edu.au",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AlignCultura: Towards Culturally Aligned Large Language Models?\"."
+ },
+ {
+  "name": "M. Dras",
+  "why": "M. Dras is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AlignCultura: Towards Culturally Aligned Large Language Models?\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.19016). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2604.19016 / AlignCultura: Towards Culturally Aligned Large Language Models?",
+  "email": "",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AlignCultura: Towards Culturally Aligned Large Language Models?\"."
+ },
+ {
+  "name": "Usman Naseem",
+  "why": "Usman Naseem is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AlignCultura: Towards Culturally Aligned Large Language Models?\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.19016). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2604.19016 / AlignCultura: Towards Culturally Aligned Large Language Models?",
+  "email": "",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AlignCultura: Towards Culturally Aligned Large Language Models?\"."
+ },
+ {
+  "name": "Sina Bagheri Nezhad",
+  "why": "Sina Bagheri Nezhad is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Toward Culturally Grounded Natural Language Processing\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2603.26013). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2603.26013 / Toward Culturally Grounded Natural Language Processing",
+  "email": "sina.bagherinezhad@gmail.com",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Toward Culturally Grounded Natural Language Processing\"."
+ },
+ {
+  "name": "Jie Liu",
+  "why": "Jie Liu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Evaluation and Optimization of Large Language Models for Cross-Cultural Sentiment Analysis and Text Generation\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:c060dd2d49d9fb1fa93eb8028b710083bb11f75b / Evaluation and Optimization of Large Language Models for Cross-Cultural Sentimen",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Evaluation and Optimization of Large Language Models for Cross-Cultural Sentiment Analysis and Text Generation\"."
+ },
+ {
+  "name": "Yuting He",
+  "why": "Yuting He is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Evaluation and Optimization of Large Language Models for Cross-Cultural Sentiment Analysis and Text Generation\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:c060dd2d49d9fb1fa93eb8028b710083bb11f75b / Evaluation and Optimization of Large Language Models for Cross-Cultural Sentimen",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Evaluation and Optimization of Large Language Models for Cross-Cultural Sentiment Analysis and Text Generation\"."
+ },
+ {
+  "name": "Jaehyeok Lee",
+  "why": "Jaehyeok Lee is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.06210). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2604.06210 / Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Va",
+  "email": "",
+  "aff": "University\n \n  Correspondence to:   jy, University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"."
+ },
+ {
+  "name": "Jingtao Yao",
+  "why": "Jingtao Yao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.06210). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2604.06210 / Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Va",
+  "email": "",
+  "aff": "University\n \n  Correspondence to:   jy, University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"."
+ },
+ {
+  "name": "Hyunjin Hwang",
+  "why": "Hyunjin Hwang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.06210). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2604.06210 / Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Va",
+  "email": "",
+  "aff": "University\n \n  Correspondence to:   jy, University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"."
+ },
+ {
+  "name": "Roy Ka-Wei Lee",
+  "why": "Roy Ka-Wei Lee is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.06210). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2604.06210 / Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Va",
+  "email": "",
+  "aff": "University\n \n  Correspondence to:   jy, University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"."
+ },
+ {
+  "name": "Jinyeong Bak",
+  "why": "Jinyeong Bak is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2604.06210). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2604.06210 / Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Va",
+  "email": "",
+  "aff": "University\n \n  Correspondence to:   jy, University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook\"."
+ },
+ {
+  "name": "V. Pham",
+  "why": "V. Pham is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2603.01952). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2603.01952 / LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Mod",
+  "email": "",
+  "aff": "University\n \n  Affiliation:   {thanh",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\"."
+ },
+ {
+  "name": "Lizhen Qu",
+  "why": "Lizhen Qu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2603.01952). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2603.01952 / LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Mod",
+  "email": "",
+  "aff": "University\n \n  Affiliation:   {thanh",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\"."
+ },
+ {
+  "name": "Thuy-Trang Vu",
+  "why": "Thuy-Trang Vu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2603.01952). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2603.01952 / LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Mod",
+  "email": "",
+  "aff": "University\n \n  Affiliation:   {thanh",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\"."
+ },
+ {
+  "name": "Gholamreza Haffari",
+  "why": "Gholamreza Haffari is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2603.01952). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2603.01952 / LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Mod",
+  "email": "",
+  "aff": "University\n \n  Affiliation:   {thanh",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\"."
+ },
+ {
+  "name": "Dinh Q. Phung",
+  "why": "Dinh Q. Phung is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2603.01952). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2603.01952 / LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Mod",
+  "email": "",
+  "aff": "University\n \n  Affiliation:   {thanh",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations\"."
+ },
+ {
+  "name": "Takumi Ohashi",
+  "why": "Takumi Ohashi is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Generality\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2602.09444). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2602.09444 / Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Genera",
+  "email": "takumi.ohashi.4g@gmail.com",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Generality\"."
+ },
+ {
+  "name": "Hitoshi Iyatomi",
+  "why": "Hitoshi Iyatomi is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Generality\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2602.09444). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2602.09444 / Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Genera",
+  "email": "iyatomi@hosei.ac.jp",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Generality\"."
+ },
+ {
+  "name": "Muchen Liu",
+  "why": "Muchen Liu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Integrating Symbolic Cultural Knowledge into Neural Dream Understanding: A Retrieval-Augmented Approach\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:5dcc12b42f025b56fade3bc9e9d2b03f9202688f / Integrating Symbolic Cultural Knowledge into Neural Dream Understanding: A Retri",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Integrating Symbolic Cultural Knowledge into Neural Dream Understanding: A Retrieval-Augmented Approach\"."
+ },
+ {
+  "name": "Jiayu Lin",
+  "why": "Jiayu Lin is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.13669). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2601.13669 / CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and",
+  "email": "jiayulin24@m.fudan.edu.cn",
+  "aff": "University\n \n  Affiliation:  Shanghai Innovation Institute\n \n  Email: ",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks\"."
+ },
+ {
+  "name": "Zhongyu Wei",
+  "why": "Zhongyu Wei is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.13669). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.13669 / CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and",
+  "email": "",
+  "aff": "University\n \n  Affiliation:  Shanghai Innovation Institute\n \n  Email: ",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks\"."
+ },
+ {
+  "name": "Mohsinul Kabir",
+  "why": "Mohsinul Kabir is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.14063). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"."
+ },
+ {
+  "name": "T. Ahmed",
+  "why": "T. Ahmed is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.14063). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"."
+ },
+ {
+  "name": "Md Mezbaur Rahman",
+  "why": "Md Mezbaur Rahman is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.14063). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"."
+ },
+ {
+  "name": "Shaoxiong Ji",
+  "why": "Shaoxiong Ji is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.14063). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"."
+ },
+ {
+  "name": "Yuechen Jiang",
+  "why": "Yuechen Jiang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.14063). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"."
+ },
+ {
+  "name": "Jimin Huang",
+  "why": "Jimin Huang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.14063). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"."
+ },
+ {
+  "name": "Sophia Ananiadou",
+  "why": "Sophia Ananiadou is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2601.14063). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2601.14063 / XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific It",
+  "email": "",
+  "aff": "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad\"."
+ },
+ {
+  "name": "Yuhan Liu",
+  "why": "Yuhan Liu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:3fd9c390c8be2fbeb71840192b8abdbcf11244b8 / Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\"."
+ },
+ {
+  "name": "Yiran Qiao",
+  "why": "Yiran Qiao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:3fd9c390c8be2fbeb71840192b8abdbcf11244b8 / Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\"."
+ },
+ {
+  "name": "Anshu Hu",
+  "why": "Anshu Hu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:3fd9c390c8be2fbeb71840192b8abdbcf11244b8 / Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\"."
+ },
+ {
+  "name": "Yong-Jian Liu",
+  "why": "Yong-Jian Liu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:3fd9c390c8be2fbeb71840192b8abdbcf11244b8 / Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\"."
+ },
+ {
+  "name": "Lihua Bai",
+  "why": "Lihua Bai is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:3fd9c390c8be2fbeb71840192b8abdbcf11244b8 / Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art\"."
+ },
+ {
+  "name": "Nikolay V. Nazarov",
+  "why": "Nikolay V. Nazarov is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"“First pancake is always lumpy”: limitations and potential of llms in recognizing reference of fixed expression\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:4cfe2122ebd37086ceca12d3bf85a7c7ccf7ed1b / “First pancake is always lumpy”: limitations and potential of llms in recognizin",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"“First pancake is always lumpy”: limitations and potential of llms in recognizing reference of fixed expression\"."
+ },
+ {
+  "name": "V. A. Shulginov",
+  "why": "V. A. Shulginov is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"“First pancake is always lumpy”: limitations and potential of llms in recognizing reference of fixed expression\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:4cfe2122ebd37086ceca12d3bf85a7c7ccf7ed1b / “First pancake is always lumpy”: limitations and potential of llms in recognizin",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"“First pancake is always lumpy”: limitations and potential of llms in recognizing reference of fixed expression\"."
+ },
+ {
+  "name": "C. Kenntemich",
+  "why": "C. Kenntemich is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enforcement\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:0a3f65a28f974d14e16902eb614c404268563877 / Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enf",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enforcement\"."
+ },
+ {
+  "name": "D.O.I. Brückner-Collet",
+  "why": "D.O.I. Brückner-Collet is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enforcement\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:0a3f65a28f974d14e16902eb614c404268563877 / Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enf",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enforcement\"."
+ },
+ {
+  "name": "S. C. Rudert",
+  "why": "S. C. Rudert is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enforcement\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:0a3f65a28f974d14e16902eb614c404268563877 / Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enf",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enforcement\"."
+ },
+ {
+  "name": "Mai Alkhamissi",
+  "why": "Mai Alkhamissi is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2510.05931). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2510.05931 / Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropologic",
+  "email": "badr.alkhamissi@epfl.ch",
+  "aff": "University\n \n  Email:    badr, University\n \n  Email:    malkhami@andrew",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\"."
+ },
+ {
+  "name": "Yunze Xiao",
+  "why": "Yunze Xiao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2510.05931). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2510.05931 / Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropologic",
+  "email": "",
+  "aff": "University\n \n  Email:    badr, University\n \n  Email:    malkhami@andrew",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\"."
+ },
+ {
+  "name": "Badr AlKhamissi",
+  "why": "Badr AlKhamissi is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2510.05931). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2510.05931 / Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropologic",
+  "email": "badr.alkhamissi@epfl.ch",
+  "aff": "University\n \n  Email:    badr, University\n \n  Email:    malkhami@andrew",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\"."
+ },
+ {
+  "name": "Mona T. Diab",
+  "why": "Mona T. Diab is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2510.05931). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2510.05931 / Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropologic",
+  "email": "mdiab@andrew.cmu.edu",
+  "aff": "University\n \n  Email:    badr, University\n \n  Email:    malkhami@andrew",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens\"."
+ },
+ {
+  "name": "Kyuhee Kim",
+  "why": "Kyuhee Kim is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on Korean Superstition\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2507.04014). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2507.04014 / Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on",
+  "email": "kyuhee.kim@epfl.ch",
+  "aff": "University\n \n  Affiliation:  Seoul",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on Korean Superstition\"."
+ },
+ {
+  "name": "Sang-Ah Lee",
+  "why": "Sang-Ah Lee is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on Korean Superstition\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2507.04014). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2507.04014 / Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on",
+  "email": "",
+  "aff": "University\n \n  Affiliation:  Seoul",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on Korean Superstition\"."
+ },
+ {
+  "name": "Weihao Zeng",
+  "why": "Weihao Zeng is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "Zengwei_hnu@163.com",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Hengshu Zhu",
+  "why": "Hengshu Zhu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Chuan Qin",
+  "why": "Chuan Qin is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "chuanqin0426@gmail.com",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Han Wu",
+  "why": "Han Wu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Yi-Hang Cheng",
+  "why": "Yi-Hang Cheng is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "chengyihang544@gmail.com",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Si-Rui Zhang",
+  "why": "Si-Rui Zhang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "Zhangsirui@hnu.edu.cn",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Xiao-Wei Jin",
+  "why": "Xiao-Wei Jin is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Yi Shen",
+  "why": "Yi Shen is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Zhen-Xing Wang",
+  "why": "Zhen-Xing Wang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Fei-Min Zhong",
+  "why": "Fei-Min Zhong is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "zhongfeimin@hnu.edu.cn",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Hui Xiong",
+  "why": "Hui Xiong is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2506.09656). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2506.09656 / Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "email": "xionghui@ust.hk",
+  "aff": "Academy of Sciences, University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives\"."
+ },
+ {
+  "name": "Shitong Duan",
+  "why": "Shitong Duan is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.13531). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2505.13531 / AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Differe",
+  "email": "stduan22@m.fudan.edu.cn",
+  "aff": "University\n \n  Email:    lutun@fudan, University\n \n  Email:    ninggu@fudan",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"."
+ },
+ {
+  "name": "Dongkuan Xu",
+  "why": "Dongkuan Xu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.13531). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2505.13531 / AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Differe",
+  "email": "",
+  "aff": "University\n \n  Email:    lutun@fudan, University\n \n  Email:    ninggu@fudan",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"."
+ },
+ {
+  "name": "Peng Zhang",
+  "why": "Peng Zhang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.13531). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2505.13531 / AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Differe",
+  "email": "zhangpeng@fudan.edu.cn",
+  "aff": "University\n \n  Email:    lutun@fudan, University\n \n  Email:    ninggu@fudan",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"."
+ },
+ {
+  "name": "Tun Lu",
+  "why": "Tun Lu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.13531). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2505.13531 / AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Differe",
+  "email": "",
+  "aff": "University\n \n  Email:    lutun@fudan, University\n \n  Email:    ninggu@fudan",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"."
+ },
+ {
+  "name": "Ning Gu",
+  "why": "Ning Gu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.13531). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2505.13531 / AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Differe",
+  "email": "ninggu@fudan.edu.cn",
+  "aff": "University\n \n  Email:    lutun@fudan, University\n \n  Email:    ninggu@fudan",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference\"."
+ },
+ {
+  "name": "Jiatao Li",
+  "why": "Jiatao Li is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.01967). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2505.01967 / Analyzing Cognitive Differences Among Large Language Models through the Lens of ",
+  "email": "",
+  "aff": "Institute of Computer Technology, University\n \n  Affiliation:  Information Management Department",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview\"."
+ },
+ {
+  "name": "Yanheng Li",
+  "why": "Yanheng Li is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.01967). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2505.01967 / Analyzing Cognitive Differences Among Large Language Models through the Lens of ",
+  "email": "",
+  "aff": "Institute of Computer Technology, University\n \n  Affiliation:  Information Management Department",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview\"."
+ },
+ {
+  "name": "Xiaojun Wan",
+  "why": "Xiaojun Wan is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2505.01967). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2505.01967 / Analyzing Cognitive Differences Among Large Language Models through the Lens of ",
+  "email": "",
+  "aff": "Institute of Computer Technology, University\n \n  Affiliation:  Information Management Department",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview\"."
+ },
+ {
+  "name": "Jindong Wang",
+  "why": "Jindong Wang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2504.08820). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2504.08820 / CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Da",
+  "email": "jwang80@wm.edu",
+  "aff": "University of China\n \n  Email:   jwang80@wm",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization\"."
+ },
+ {
+  "name": "Lama Ayash",
+  "why": "Lama Ayash is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2503.17485). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2503.17485 / SaudiCulture: A benchmark for evaluating large language models’ cultural compete",
+  "email": "",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\"."
+ },
+ {
+  "name": "Ashwag Alasmari",
+  "why": "Ashwag Alasmari is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2503.17485). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2503.17485 / SaudiCulture: A benchmark for evaluating large language models’ cultural compete",
+  "email": "",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\"."
+ },
+ {
+  "name": "Sultan Aloufi",
+  "why": "Sultan Aloufi is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2503.17485). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2503.17485 / SaudiCulture: A benchmark for evaluating large language models’ cultural compete",
+  "email": "",
+  "aff": "University",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia\"."
+ },
+ {
+  "name": "Ariba Khan",
+  "why": "Ariba Khan is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2503.08688). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2503.08688 / Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignme",
+  "email": "akhan02@mit.edu",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs\"."
+ },
+ {
+  "name": "Stephen Casper",
+  "why": "Stephen Casper is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2503.08688). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. Email taken from the paper full text.",
+  "prov": "seed:cdeval-citations / 2503.08688 / Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignme",
+  "email": "scasper@mit.edu",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs\"."
+ },
+ {
+  "name": "Dylan Hadfield-Menell",
+  "why": "Dylan Hadfield-Menell is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2503.08688). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2503.08688 / Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignme",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs\"."
+ },
+ {
+  "name": "Elise Karinshak",
+  "why": "Elise Karinshak is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2411.06032). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2411.06032 / LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "email": "",
+  "aff": "Academy of Sciences\n \n  Affiliation:  Beijing, College",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\"."
+ },
+ {
+  "name": "Amanda Hu",
+  "why": "Amanda Hu is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2411.06032). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2411.06032 / LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "email": "",
+  "aff": "Academy of Sciences\n \n  Affiliation:  Beijing, College",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\"."
+ },
+ {
+  "name": "Ke-Wen Kong",
+  "why": "Ke-Wen Kong is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2411.06032). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2411.06032 / LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "email": "",
+  "aff": "Academy of Sciences\n \n  Affiliation:  Beijing, College",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\"."
+ },
+ {
+  "name": "V. Rao",
+  "why": "V. Rao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2411.06032). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2411.06032 / LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "email": "",
+  "aff": "Academy of Sciences\n \n  Affiliation:  Beijing, College",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\"."
+ },
+ {
+  "name": "Jing-Ren Wang",
+  "why": "Jing-Ren Wang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2411.06032). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2411.06032 / LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "email": "",
+  "aff": "Academy of Sciences\n \n  Affiliation:  Beijing, College",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\"."
+ },
+ {
+  "name": "Jin-Dong Wang",
+  "why": "Jin-Dong Wang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2411.06032). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2411.06032 / LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "email": "",
+  "aff": "Academy of Sciences\n \n  Affiliation:  Beijing, College",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\"."
+ },
+ {
+  "name": "Yi Zeng",
+  "why": "Yi Zeng is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2411.06032). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2411.06032 / LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "email": "",
+  "aff": "Academy of Sciences\n \n  Affiliation:  Beijing, College",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output\"."
+ },
+ {
+  "name": "Fiifi Dawson",
+  "why": "Fiifi Dawson is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2410.01811). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2410.01811 / Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\"."
+ },
+ {
+  "name": "Zainab Mosunmola",
+  "why": "Zainab Mosunmola is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2410.01811). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2410.01811 / Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\"."
+ },
+ {
+  "name": "Sahil Pocker",
+  "why": "Sahil Pocker is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2410.01811). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2410.01811 / Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\"."
+ },
+ {
+  "name": "Sreedath Panat",
+  "why": "Sreedath Panat is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (2410.01811). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / 2410.01811 / Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English\"."
+ },
+ {
+  "name": "Harshit Gupta",
+  "why": "Harshit Gupta is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:7dc5c08d2c4d1b1511862d02426987d851160a89 / Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cu",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions\"."
+ },
+ {
+  "name": "Elizaveta Gromenko",
+  "why": "Elizaveta Gromenko is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:a6653a7201742d979b37db3bb54391e7a94f5c32 / Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\"."
+ },
+ {
+  "name": "D. Kalacheva",
+  "why": "D. Kalacheva is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:a6653a7201742d979b37db3bb54391e7a94f5c32 / Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\"."
+ },
+ {
+  "name": "Ksenia Klokova",
+  "why": "Ksenia Klokova is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:a6653a7201742d979b37db3bb54391e7a94f5c32 / Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\"."
+ },
+ {
+  "name": "Maxim Krongauz",
+  "why": "Maxim Krongauz is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:a6653a7201742d979b37db3bb54391e7a94f5c32 / Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\"."
+ },
+ {
+  "name": "O. Moroz",
+  "why": "O. Moroz is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:a6653a7201742d979b37db3bb54391e7a94f5c32 / Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\"."
+ },
+ {
+  "name": "Valery Shulginov",
+  "why": "Valery Shulginov is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:a6653a7201742d979b37db3bb54391e7a94f5c32 / Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types\"."
+ },
+ {
+  "name": "Qiuchi Li",
+  "why": "Qiuchi Li is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:ea69242c2c4873951579878fe3b4cf4d8375b916 / CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultura",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\"."
+ },
+ {
+  "name": "Bao-Hua Zhang",
+  "why": "Bao-Hua Zhang is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:ea69242c2c4873951579878fe3b4cf4d8375b916 / CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultura",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\"."
+ },
+ {
+  "name": "Chun-Xiao Gao",
+  "why": "Chun-Xiao Gao is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:ea69242c2c4873951579878fe3b4cf4d8375b916 / CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultura",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\"."
+ },
+ {
+  "name": "Hagos Gebremedhin Gebremeskel",
+  "why": "Hagos Gebremedhin Gebremeskel is relevant to the field of \"cultural values of LLMs\" as a co-author of 1 paper(s) that directly study culture or values in language models: \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\". These works were identified because they cite CDEval, the benchmark for measuring the cultural dimensions of LLMs, so the research topic is a direct match rather than a name match. Relevance Score: 8",
+  "rel": "Co-author of 1 on-topic paper(s) (no arXiv id). Entered the list through the CDEval citation graph; the paper itself is about cultural/value evaluation of LLMs, so the relevance gate is satisfied at paper level. No email printed in the paper; needs lookup.",
+  "prov": "seed:cdeval-citations / s2:ea69242c2c4873951579878fe3b4cf4d8375b916 / CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultura",
+  "email": "",
+  "aff": "",
+  "summary": "Researcher publishing on cultural and value alignment of LLMs; co-author of \"CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages\"."
+ }
+]

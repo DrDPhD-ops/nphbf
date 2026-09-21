@@ -1,0 +1,749 @@
+[
+ {
+  "title": "GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models",
+  "year": 2026,
+  "arxiv": "2609.18384",
+  "s2": "89e90deab0b60301908c4772e9af4e795e478cda",
+  "authors": [
+   "A. Didenko",
+   "A. Shabanova",
+   "Vladislav Zapylikhin",
+   "A. Antipov",
+   "Ruslana Raemgulova"
+  ],
+  "emails": [
+   "alexander.didenko@gmail.com"
+  ],
+  "affils": [
+   "Academy of National Economy and Public Administration",
+   "Institute of Business Studies",
+   "Laboratory",
+   "University of Tyumen\n    \n     \n Alexander Antipov\n   \n  Affiliation: ",
+   "University of Tyumen\n    \n     \n Anna Shabanova\n   \n  Affiliation:  Ar",
+   "University of Tyumen\n    \n     \n Ruslana Raemgulova\n   \n  Affiliation:"
+  ]
+ },
+ {
+  "title": "Cross-Cultural Scenario Benchmark: Evaluating LLMs’ Cross-Cultural Understanding",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "22d48975c9fbca1faac8cc34be53f17d7563e76b",
+  "authors": [
+   "Meng-Xi Guo",
+   "Lei-Ming Gao",
+   "W. Zeng",
+   "Gao-Qi Rao",
+   "Chu-Ren Huang"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Understanding bias in language models: comparing the cultural distributions of basic colour terms in English, German, Japanese, and Russian",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "dc199fb07747f63d5e4b61c31c45175bc801eaba",
+  "authors": [
+   "Mila Stillman",
+   "Anna Kruspe",
+   "Atanas Kirjakovski",
+   "D. M. Marutschke"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Towards Group-level Cybercriminal Profiling - Cultural Dimensions and Participation Roles in Dark Web Communities",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "ce43ed19e78701533fc366f5e05257f6077b2147",
+  "authors": [
+   "Elizabeth Eardley",
+   "Simran Chandarana",
+   "Konstantinos Mersinas"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis",
+  "year": 2026,
+  "arxiv": "2606.09178",
+  "s2": "059115bf34dc95148be0b71a743e4e452f76dceb",
+  "authors": [
+   "Hyeji Choi",
+   "Y. Lim",
+   "Minwoo Kim"
+  ],
+  "emails": [
+   "mwkim@selectstar.ai"
+  ],
+  "affils": []
+ },
+ {
+  "title": "CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs",
+  "year": 2026,
+  "arxiv": "2606.01879",
+  "s2": "aee5ab641613a50fca8f898dfd2bc8093b66b5a5",
+  "authors": [
+   "Yangfan Ye",
+   "Xiaocheng Feng",
+   "Jialong Tang",
+   "Xiayu Cao",
+   "Zi-Han Zhang",
+   "Xiachong Feng",
+   "Baosong Yang",
+   "Bing Qin"
+  ],
+  "emails": [
+   "xcfeng@ir.hit.edu.cn",
+   "yfye@ir.hit.edu.cn"
+  ],
+  "affils": [
+   "Institute of Technology\n \n  Affiliation:  The University of Hong Kong",
+   "Institute of Technology\n \n  Email:   xcfeng@ir",
+   "Institute of Technology\n \n  Email:   yfye@ir",
+   "Institute of Technology\n    \n     \n Zihan Zhang\n   \n  Affiliation:  H",
+   "University\n    \n     \n Xiachong Feng  Baosong Yang  Bing Qin\n   \n  Aff"
+  ]
+ },
+ {
+  "title": "KG-FairDiff: Knowledge Graph-Guided Prompt Refinement for Demographically Fair Text-to-Image Generation",
+  "year": 2026,
+  "arxiv": "2606.01282",
+  "s2": "04e1d0230963cec6ac23c3c52a3deddc4dc0b9f6",
+  "authors": [
+   "F. Davoodi",
+   "Seyed Reza Tavakoli Shiyadeh",
+   "Pooria Safaei",
+   "Sana Harighi",
+   "P. Gholami",
+   "Amir Amini",
+   "Kimia Vanaei",
+   "Emad Firoozi",
+   "Parham Abed Azad",
+   "B. Khalaj",
+   "S. Ahmadi",
+   "A. H. Payberah",
+   "Mohammad H. Rohban",
+   "Soheil Kolouri",
+   "Ali Diba"
+  ],
+  "emails": [
+   "adiba@hbku.edu.qa",
+   "s.ahmadi@sharif.edu"
+  ],
+  "affils": [
+   "College of Connected Computing",
+   "Institute",
+   "Institute of Technology\n    \n     \n Mohammad Hossein Rohban\n   \n  Aff",
+   "University",
+   "University\n    \n     \n Ali Diba\n   \n  Affiliation:  Qatar Computing Re",
+   "University Department of Electrical and Computer Engineering",
+   "University of Technology"
+  ]
+ },
+ {
+  "title": "AlignCultura: Towards Culturally Aligned Large Language Models?",
+  "year": 2026,
+  "arxiv": "2604.19016",
+  "s2": "1c63eb9ee57431cc8b153e1a81b56bc060eb9beb",
+  "authors": [
+   "G. Kashyap",
+   "M. Dras",
+   "Usman Naseem"
+  ],
+  "emails": [
+   "gautam.kashyap@hdr.mq.edu.au"
+  ],
+  "affils": [
+   "University"
+  ]
+ },
+ {
+  "title": "Diagnosing the bias iceberg in large language models: A three-level framework of explicit, evaluative, and implicit gender bias",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "cd2f9feeea4c6de41c7977572a573fe40b6a3cc5",
+  "authors": [
+   "An-Ling Xiang"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Toward Culturally Grounded Natural Language Processing",
+  "year": 2026,
+  "arxiv": "2603.26013",
+  "s2": "8264c0f97506bf11be7b554a13959fdb3889f57d",
+  "authors": [
+   "Sina Bagheri Nezhad"
+  ],
+  "emails": [
+   "sina.bagherinezhad@gmail.com"
+  ],
+  "affils": []
+ },
+ {
+  "title": "Evaluation and Optimization of Large Language Models for Cross-Cultural Sentiment Analysis and Text Generation",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "c060dd2d49d9fb1fa93eb8028b710083bb11f75b",
+  "authors": [
+   "Jie Liu",
+   "Yuting He"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook",
+  "year": 2026,
+  "arxiv": "2604.06210",
+  "s2": "77cbe214396e66360361ca0493653497196e918d",
+  "authors": [
+   "Jaehyeok Lee",
+   "Xiaoyuan Yi",
+   "Jingtao Yao",
+   "Hyunjin Hwang",
+   "Roy Ka-Wei Lee",
+   "Xing Xie",
+   "Jinyeong Bak"
+  ],
+  "emails": [
+   "jy.bak@skku.edu",
+   "xiaoyuanyi@microsoft.com"
+  ],
+  "affils": [
+   "University\n \n  Correspondence to:   jy",
+   "University\n    \n     \n Roy Ka-Wei Lee\n   \n  Affiliation:  Singapore Un",
+   "University\n    \n     \n Xiaoyuan Yi\n   \n  Affiliation:  Microsoft Resea"
+  ]
+ },
+ {
+  "title": "LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations",
+  "year": 2026,
+  "arxiv": "2603.01952",
+  "s2": "14aa4db4e8aa8aa8c5c9d5de9f47e697027d7a5e",
+  "authors": [
+   "V. Pham",
+   "Lizhen Qu",
+   "Thuy-Trang Vu",
+   "Gholamreza Haffari",
+   "Dinh Q. Phung"
+  ],
+  "emails": [],
+  "affils": [
+   "University\n \n  Affiliation:   {thanh"
+  ]
+ },
+ {
+  "title": "Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Generality",
+  "year": 2026,
+  "arxiv": "2602.09444",
+  "s2": "e4b20df95e8b4a61e9889718f4e52a63fc09b59e",
+  "authors": [
+   "Takumi Ohashi",
+   "Hitoshi Iyatomi"
+  ],
+  "emails": [
+   "iyatomi@hosei.ac.jp",
+   "takumi.ohashi.4g@gmail.com"
+  ],
+  "affils": [
+   "University"
+  ]
+ },
+ {
+  "title": "How should AI Safety Benchmarks Benchmark Safety?",
+  "year": 2026,
+  "arxiv": "2601.23112",
+  "s2": "4921e81b3cc144f639533074fda1ee27a82a84dd",
+  "authors": [
+   "Cheng Yu",
+   "Severin Engelmann",
+   "Ruoxuan Cao",
+   "D. Ali",
+   "O. Papakyriakopoulos"
+  ],
+  "emails": [
+   "cheng.yu@tum.de",
+   "orestis.p@tum.de"
+  ],
+  "affils": [
+   "Corporation",
+   "University",
+   "University of Munich"
+  ]
+ },
+ {
+  "title": "Integrating Symbolic Cultural Knowledge into Neural Dream Understanding: A Retrieval-Augmented Approach",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "5dcc12b42f025b56fade3bc9e9d2b03f9202688f",
+  "authors": [
+   "Muchen Liu"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks",
+  "year": 2026,
+  "arxiv": "2601.13669",
+  "s2": "e41e2f53e45d6a4be736cee4e2f351b47a7ea297",
+  "authors": [
+   "Jiayu Lin",
+   "Zhongyu Wei"
+  ],
+  "emails": [
+   "jiayulin24@m.fudan.edu.cn",
+   "zywei@fudan.edu.cn"
+  ],
+  "affils": [
+   "University\n \n  Affiliation:  Shanghai Innovation Institute\n \n  Email: "
+  ]
+ },
+ {
+  "title": "XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad",
+  "year": 2026,
+  "arxiv": "2601.14063",
+  "s2": "901e49020172238fd4bcd872f9850119955b2227",
+  "authors": [
+   "Mohsinul Kabir",
+   "T. Ahmed",
+   "Md Mezbaur Rahman",
+   "Shaoxiong Ji",
+   "Hassan Alhuzali",
+   "Yuechen Jiang",
+   "Jimin Huang",
+   "Sophia Ananiadou"
+  ],
+  "emails": [],
+  "affils": [
+   "Institute Finland\n \n  Affiliation:  University of Turku\n    \n     \n H",
+   "University",
+   "University of Illinois Chicago\n    \n     \n Shaoxiong Ji\n   \n  Affiliat",
+   "University of Manchester\n \n  Affiliation:  ELLIS Manchester\n    \n     ",
+   "University of Manchester\n \n  Affiliation:  ELLIS Manchester\n     \n\n  A"
+  ]
+ },
+ {
+  "title": "Transformer Beyond Semantics: Next-Generation Transformer Integrating Emotional Representations",
+  "year": 2025,
+  "arxiv": null,
+  "s2": "1f657c880c56f261ef2ea3ce0e0dd5fe9ebbee68",
+  "authors": [
+   "Qingshi Wang",
+   "Yin Li"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art",
+  "year": 2025,
+  "arxiv": null,
+  "s2": "3fd9c390c8be2fbeb71840192b8abdbcf11244b8",
+  "authors": [
+   "Yuhan Liu",
+   "Yiran Qiao",
+   "Anshu Hu",
+   "Yong-Jian Liu",
+   "Lihua Bai"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "“First pancake is always lumpy”: limitations and potential of llms in recognizing reference of fixed expression",
+  "year": 2025,
+  "arxiv": null,
+  "s2": "4cfe2122ebd37086ceca12d3bf85a7c7ccf7ed1b",
+  "authors": [
+   "Nikolay V. Nazarov",
+   "V. A. Shulginov"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Digital Echoes of Cultural Values: Cross-Cultural Differences in Online Norm-Enforcement",
+  "year": 2025,
+  "arxiv": null,
+  "s2": "0a3f65a28f974d14e16902eb614c404268563877",
+  "authors": [
+   "C. Kenntemich",
+   "D.O.I. Brückner-Collet",
+   "S. C. Rudert"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens",
+  "year": 2025,
+  "arxiv": "2510.05931",
+  "s2": "18eeb4fe3b36a227cf740a554296a64a522ba0ce",
+  "authors": [
+   "Mai Alkhamissi",
+   "Yunze Xiao",
+   "Badr AlKhamissi",
+   "Mona T. Diab"
+  ],
+  "emails": [
+   "badr.alkhamissi@epfl.ch",
+   "malkhami@andrew.cmu.edu",
+   "mdiab@andrew.cmu.edu",
+   "yunzex@andrew.cmu.edu"
+  ],
+  "affils": [
+   "University\n \n  Email:    badr",
+   "University\n \n  Email:    malkhami@andrew",
+   "University\n \n  Email:    yunzex@andrew"
+  ]
+ },
+ {
+  "title": "Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on Korean Superstition",
+  "year": 2025,
+  "arxiv": "2507.04014",
+  "s2": "fe405a0ab84cb2cc10bf2806a8b135bd1c08a87b",
+  "authors": [
+   "Kyuhee Kim",
+   "Sang-Ah Lee"
+  ],
+  "emails": [
+   "kyuhee.kim@epfl.ch",
+   "sanalee@snu.ac.kr"
+  ],
+  "affils": [
+   "University\n \n  Affiliation:  Seoul"
+  ]
+ },
+ {
+  "title": "Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives",
+  "year": 2025,
+  "arxiv": "2506.09656",
+  "s2": "2b574c8e3a97b77529b8ec56579c91dd55ada850",
+  "authors": [
+   "Weihao Zeng",
+   "Hengshu Zhu",
+   "Chuan Qin",
+   "Han Wu",
+   "Yi-Hang Cheng",
+   "Si-Rui Zhang",
+   "Xiao-Wei Jin",
+   "Yi Shen",
+   "Zhen-Xing Wang",
+   "Fei-Min Zhong",
+   "Hui Xiong"
+  ],
+  "emails": [
+   "Noah001219@hnu.edu.cn",
+   "Xiaoweijin713@gmail.com",
+   "Zengwei_hnu@163.com",
+   "Zhangsirui@hnu.edu.cn",
+   "chengyihang544@gmail.com",
+   "chuanqin0426@gmail.com",
+   "ustcwuhan@gmail.com",
+   "wxing870@163.com",
+   "xionghui@ust.hk",
+   "zhongfeimin@hnu.edu.cn",
+   "zhuhengshu@gmail.com"
+  ],
+  "affils": [
+   "Academy of Sciences",
+   "University",
+   "University of Chinese Academy of Sciences",
+   "University of Science and Technology (Guangzhou)",
+   "University of Science and Technology Hong Kong SAR",
+   "University of Technology"
+  ]
+ },
+ {
+  "title": "AdAEM: An Adaptively and Automated Extensible Measurement of LLMs' Value Difference",
+  "year": 2025,
+  "arxiv": "2505.13531",
+  "s2": "cd4972ea9623f806baf3ce351b614fdb3e99c1bf",
+  "authors": [
+   "Jing Yao",
+   "Shitong Duan",
+   "Xiaoyuan Yi",
+   "Dongkuan Xu",
+   "Peng Zhang",
+   "Tun Lu",
+   "Ning Gu",
+   "Zhicheng Dou",
+   "Xing Xie"
+  ],
+  "emails": [
+   "jingyao@microsoft.com",
+   "lutun@fudan.edu.cn",
+   "ninggu@fudan.edu.cn",
+   "stduan22@m.fudan.edu.cn",
+   "xiaoyuanyi@microsoft.com",
+   "xingx@microsoft.com",
+   "zhangpeng@fudan.edu.cn"
+  ],
+  "affils": [
+   "University\n \n  Email:    lutun@fudan",
+   "University\n \n  Email:    ninggu@fudan",
+   "University\n \n  Email:    stduan22@m",
+   "University\n \n  Email:    xiaoyuanyi@microsoft",
+   "University\n \n  Email:    xingx@microsoft"
+  ]
+ },
+ {
+  "title": "Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview",
+  "year": 2025,
+  "arxiv": "2505.01967",
+  "s2": "07422ec64b1bb2d83ffcaca324d9922706ce13dd",
+  "authors": [
+   "Jiatao Li",
+   "Yanheng Li",
+   "Xiaojun Wan"
+  ],
+  "emails": [
+   "leejames@stu.pku.edu.cn",
+   "wanxiaojun@pku.edu.cn",
+   "yanheng@ruc.edu.cn"
+  ],
+  "affils": [
+   "Institute of Computer Technology",
+   "University\n \n  Affiliation:  Information Management Department",
+   "University\n \n  Email:   leejames@stu",
+   "University\n \n  Email:   wanxiaojun@pku",
+   "University of China\n \n  Email:   yanheng@ruc"
+  ]
+ },
+ {
+  "title": "CAReDiO: Cultural Alignment via Representativeness and Distinctiveness Guided Data Optimization",
+  "year": 2025,
+  "arxiv": "2504.08820",
+  "s2": "703aa18f542954064fe46b5988a83a14244f5ea1",
+  "authors": [
+   "Jing Yao",
+   "Xiaoyuan Yi",
+   "Jindong Wang",
+   "Zhicheng Dou",
+   "Xing Xie"
+  ],
+  "emails": [
+   "dou@ruc.edu.cn",
+   "jingyao@microsoft.com",
+   "jwang80@wm.edu",
+   "xiaoyuanyi@microsoft.com",
+   "xing.xie@microsoft.com"
+  ],
+  "affils": [
+   "University of China\n \n  Email:   jwang80@wm"
+  ]
+ },
+ {
+  "title": "SaudiCulture: A benchmark for evaluating large language models’ cultural competence within Saudi Arabia",
+  "year": 2025,
+  "arxiv": "2503.17485",
+  "s2": "966496693a1c57656375c4866baca14f72d77442",
+  "authors": [
+   "Lama Ayash",
+   "Hassan Alhuzali",
+   "Ashwag Alasmari",
+   "Sultan Aloufi"
+  ],
+  "emails": [
+   "444800100@kku.edu.sa",
+   "aasmry@kku.edu.sa",
+   "hrhuzali@uqu.edu.sa",
+   "sdoufi@taibahu.edu.sa"
+  ],
+  "affils": [
+   "University"
+  ]
+ },
+ {
+  "title": "Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs",
+  "year": 2025,
+  "arxiv": "2503.08688",
+  "s2": "9e726f01e95e5b34b92e1eca22e1c04f1569ac09",
+  "authors": [
+   "Ariba Khan",
+   "Stephen Casper",
+   "Dylan Hadfield-Menell"
+  ],
+  "emails": [
+   "akhan02@mit.edu",
+   "scasper@mit.edu"
+  ],
+  "affils": []
+ },
+ {
+  "title": "Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness",
+  "year": 2025,
+  "arxiv": "2502.09637",
+  "s2": "2bb434392a0701913efe65d52873e419e49a32fa",
+  "authors": [
+   "Sougata Saha",
+   "S. K. Pandey",
+   "Monojit Choudhury"
+  ],
+  "emails": [],
+  "affils": [
+   "University of Artificial Intelligence\n \n  Affiliation:   {sougata"
+  ]
+ },
+ {
+  "title": "Musical Ethnocentrism in Large Language Models",
+  "year": 2025,
+  "arxiv": "2501.13720",
+  "s2": "abf559a1ca147bb21f4d6912af90735fc7dff435",
+  "authors": [
+   "Anna Kruspe"
+  ],
+  "emails": [
+   "anna.kruspe@hm.edu"
+  ],
+  "affils": [
+   "University of Applied Sciences\n \n  Affiliation:  Lothstr"
+  ]
+ },
+ {
+  "title": "A survey of multilingual large language models",
+  "year": 2025,
+  "arxiv": null,
+  "s2": "3eadeada86853ee6b04847064318032f555e17c9",
+  "authors": [
+   "Libo Qin",
+   "Qiguang Chen",
+   "Yuhang Zhou",
+   "Zhi Chen",
+   "Yinghui Li",
+   "Lizi Liao",
+   "Min Li",
+   "Wanxiang Che",
+   "Philip S. Yu"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output",
+  "year": 2024,
+  "arxiv": "2411.06032",
+  "s2": "a67e03298127b2a42a971718735d1318b5c45772",
+  "authors": [
+   "Elise Karinshak",
+   "Amanda Hu",
+   "Ke-Wen Kong",
+   "V. Rao",
+   "Jing-Ren Wang",
+   "Jin-Dong Wang",
+   "Yi Zeng"
+  ],
+  "emails": [],
+  "affils": [
+   "Academy of Sciences\n \n  Affiliation:  Beijing",
+   "College",
+   "University\n \n  Affiliation:  Institute of Automation",
+   "University \n \n  Affiliation:   Beijing",
+   "University of Minnesota Libraries Publishing"
+  ]
+ },
+ {
+  "title": "Evaluating Cultural Awareness of LLMs for Yoruba, Malayalam, and English",
+  "year": 2024,
+  "arxiv": "2410.01811",
+  "s2": "7f755abca4ac2996a814be7911df42ed65a4623d",
+  "authors": [
+   "Fiifi Dawson",
+   "Zainab Mosunmola",
+   "Sahil Pocker",
+   "R. Dandekar",
+   "R. Dandekar",
+   "Sreedath Panat"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Controlling Cross-Lingual Answer Distributions in Language Models: Enabling Transfer of Factual Preferences",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "552c9674e56b8bee41872480946f021063e1b21c",
+  "authors": [
+   "Lukas Ellinger",
+   "Alexander Manev",
+   "G. Groh"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Exploring cultural commonsense in multilingual large language models: A survey",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "872199ec03af99612108572a57e7a0392780ea1f",
+  "authors": [
+   "Geleta Negasa Binegde",
+   "Huaping Zhang"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Beyond Monolithic Culture: Evaluating Understandability of Online Text Across Cultural Dimensions",
+  "year": 2026,
+  "arxiv": null,
+  "s2": "7dc5c08d2c4d1b1511862d02426987d851160a89",
+  "authors": [
+   "S. K. Pandey",
+   "Harshit Gupta",
+   "Sougata Saha",
+   "Monojit Choudhury"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "Cultural Evaluation of LLMs in Russian: Catchphrases and Cultural Types",
+  "year": 2025,
+  "arxiv": null,
+  "s2": "a6653a7201742d979b37db3bb54391e7a94f5c32",
+  "authors": [
+   "Elizaveta Gromenko",
+   "D. Kalacheva",
+   "Ksenia Klokova",
+   "Maxim Krongauz",
+   "O. Moroz",
+   "Valery Shulginov"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "in the Digital Society Content and Consequences of Gender and Age Stereotypes in Job Advertisements",
+  "year": null,
+  "arxiv": null,
+  "s2": "0bed3107b3f9ce18648714a55c16ec259e10631b",
+  "authors": [
+   "Noon M. F. Abdulqadir"
+  ],
+  "emails": [],
+  "affils": []
+ },
+ {
+  "title": "CulturalProbe: Probing Multilingual LLM Capabilities and Limitations for Cultural Understanding in Low-Resource Languages",
+  "year": null,
+  "arxiv": null,
+  "s2": "ea69242c2c4873951579878fe3b4cf4d8375b916",
+  "authors": [
+   "Geleta Negasa Binegde",
+   "Huaping Zhang",
+   "Qiuchi Li",
+   "Bao-Hua Zhang",
+   "Chun-Xiao Gao",
+   "Hagos Gebremedhin Gebremeskel"
+  ],
+  "emails": [],
+  "affils": []
+ }
+]

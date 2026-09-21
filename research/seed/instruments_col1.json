@@ -1,0 +1,22 @@
+[
+ "Instrument",
+ "CDEval (Wang et al., C3NLP workshop @ ACL 2024)",
+ "CulturalBench (Chiu et al., ACL 2025)",
+ "CCD-Bench (Rahman & Salam, AAAI 2026)",
+ "Dang, Kieu & Masud",
+ "STONIC",
+ "Trhlik et al.",
+ "Nguyen & Ahmad",
+ "Tao, Viberg, Baker & Kizilcec ( PNAS Nexus )",
+ "Kovač et al. ( PLOS ONE )",
+ "Rozado ( PLOS ONE )",
+ "Dokić, Pisker & Radišić ( Societies )",
+ "Zhang & Han (IEEE CAI 2026)",
+ "Buyl et al. ( npj Artificial Intelligence )",
+ "Rozen et al. (ICLR 2025)",
+ "ValuePortrait (Han et al., ACL 2025)",
+ "AIRiskDilemmas / LitmusValues (Chiu et al., ICLR 2026)",
+ "DailyDilemmas (Chiu, Jiang & Choi, ICLR 2025)",
+ "MoralChoice (Scherrer, Shi, Feder & Blei, NeurIPS 2023)",
+ "This benchmark"
+]
