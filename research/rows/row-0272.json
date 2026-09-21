@@ -1,0 +1,12 @@
+{
+ "row": 272,
+ "name": "Shamsuddeen Hassan Muhammad",
+ "linkedin_url": "https://pt.linkedin.com/in/shmuhammad",
+ "linkedin_status": "confirmed",
+ "email_verified": "s.muhammad@imperial.ac.uk",
+ "email_status": "verified",
+ "email_source": "printed as 'correspondence: s.muhammad@imperial.ac.uk' in arXiv HTML 2505.14311 (HausaNLP position paper), where he is first author affiliated with Imperial College London / HausaNLP / Bayero University Kano",
+ "researchgate_url": "https://www.researchgate.net/profile/Shamsuddeen-Hassan-Muhammad",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn result 'Shamsuddeen Hassan Muhammad, PhD' at pt.linkedin.com/in/shmuhammad - the Portuguese domain matches his PhD at University of Porto (his affiliation printed in arXiv 2302.08956 AfriSenti), and the vanity slug 'shmuhammad' matches the local part of his printed Bayero address shmuhammad.csc@buk.edu.ng, giving an independent anchor beyond the name. ResearchGate snippet 'Shamsuddeen HASSAN MUHAMMAD | Lecturer | PhD candidate | Bayero University Kano | Department of Computer Science' with ASR for African low-resource languages, hate speech in African languages and multilingual emotion detection - matches his Hausa NLP / AfriSenti profile and the row's 'previously Bayero University Kano' note. A different 'Shamsuddeen MUHAMMAD' at Bayero University Department of SURGERY was rejected as a namesake. Correspondence email is printed, and the Imperial College domain matches his current Org."
+}

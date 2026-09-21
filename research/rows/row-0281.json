@@ -1,0 +1,12 @@
+{
+ "row": 281,
+ "name": "Jea Kwon",
+ "linkedin_url": "https://www.linkedin.com/in/jeakwon/",
+ "linkedin_status": "confirmed",
+ "email_verified": "jea.kwon@mpi-sp.org",
+ "email_status": "verified",
+ "email_source": "pre-existing",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn /in/jeakwon (also served as de.linkedin.com/in/jeakwon) titled 'Jea Kwon - Max Planck Institute for Security and Privacy (MPI-SP)' -- exact match to the row's organization; snippet adds AI + neuroscience + animal behavior analysis interests and an ICML behavioral-interpretability talk, consistent with the persona-alignment paper (arXiv 2504.10886). Corroborated across two independent searches. A second Korean profile (kr.linkedin.com/in/jea-kwon-017573160, 'Postdoctoral Researcher - Institute for Basic Science') is the same person's earlier IBS-era profile, but the MPI-SP-anchored /in/jeakwon is the current one. ResearchGate: no claimed /profile/ page. The only RG artifact is an auto-generated, unclaimed contributions stub at https://www.researchgate.net/scientific-contributions/Jea-Kwon-2119512968 ('Jea Kwon's research works | Max Planck Institute for Security and Privacy and other places') -- correctly anchored to MPI-SP but not a ResearchGate profile, so recorded as not_found."
+}

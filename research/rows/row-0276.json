@@ -1,0 +1,12 @@
+{
+ "row": 276,
+ "name": "Tanya Roosta",
+ "linkedin_url": "https://www.linkedin.com/in/tanyaroosta/",
+ "linkedin_status": "confirmed",
+ "email_verified": "tanya.roosta@gmail.com",
+ "email_status": "verified",
+ "email_source": "pre-existing",
+ "researchgate_url": "https://www.researchgate.net/profile/Tanya-Roosta",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn /in/tanyaroosta ('Tanya Roosta, Ph.D., MFE - Machine Learning & ...') snippet anchors on BOTH orgs in the row: Applied Science Manager at Amazon, and UC Berkeley (taught Statistics for Data Science in Berkeley MIDS, keynote at UC Berkeley School of Information). ResearchGate profile Tanya-Roosta anchors 'University of California, Berkeley | UCB | Computer Science Division' (23 pubs, 1478 citations), matching the row's UC Berkeley affiliation; a second RG profile Tanya-Roosta-2 (Lab126/Alexa, Cupertino) is the same person's Amazon-era stub -- chose the Berkeley one as the primary anchored match. Email kept verbatim from pre-existing value."
+}

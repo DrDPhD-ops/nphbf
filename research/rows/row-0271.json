@@ -1,0 +1,12 @@
+{
+ "row": 271,
+ "name": "Seid Muhie Yimam",
+ "linkedin_url": "https://www.linkedin.com/in/seyaw/",
+ "linkedin_status": "confirmed",
+ "email_verified": "seid.muhie.yimam@uni-hamburg.de",
+ "email_status": "verified",
+ "email_source": "printed author-block email in arXiv HTML 2503.18253, mapped to 'Seid Muhie Yimam 5 - University of Hamburg, Hamburg, Germany'",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn result title 'Seid Muhie YIMAM - Technical Lead, Hub of Computing and Data Science (HCDS), Universitaet Hamburg' - exact organization anchor (Org = Universitaet Hamburg); snippet lists ML/AI/NLP for developing nations, consistent with his Amharic/Ethiopian NLP and WebAnno work. Email printed verbatim in the 2503.18253 author block under the University of Hamburg affiliation. ResearchGate: searched site:researchgate.net/profile \"Seid Muhie Yimam\" and then researchgate.net \"Seid Muhie YIMAM\" University of Hamburg research profile - both returned only other researchers' profiles citing his work (Ye Kyaw Thu, Gelbukh, Idris Abdulmumin, etc.) plus non-ResearchGate pages (HCDS team page, uni-hamburg LT group page, Google Scholar, scispace, seyyaw.github.io). No ResearchGate profile of his own was indexed, so not_found rather than guessing a slug."
+}

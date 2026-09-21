@@ -1,0 +1,12 @@
+{
+ "row": 274,
+ "name": "Jiwoo Song",
+ "linkedin_url": "https://kr.linkedin.com/in/sjiwoo",
+ "linkedin_status": "confirmed",
+ "email_verified": "jiwoooo.song@samsung.com",
+ "email_status": "verified",
+ "email_source": "arXiv 2604.25676 (CORAL) PDF author block, printed verbatim as {jiwoooo.song,bc1.kang}@samsung.com",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Org correction: CORAL PDF author block prints affiliations Naver (Nayeon Lee) and Samsung Research for Jiwoo Song + Byeongcheol Kang -- NOT KAIST. Printed email line: 'nayeonly.lee@navercorp.com, {jiwoooo.song,bc1.kang}@samsung.com'. LinkedIn anchor: kr.linkedin.com/in/sjiwoo headline 'AI Research Engineer @ Samsung' matches Samsung + AI research role (reproduced across two independent searches). Rejected LI namesakes: jiwoo-song-42699921 (JIWOO COMPANY), jiwoosong (Apple engineer), jiwsong (Docusign/data analytics), jiwoo-song-874518173 (no org). ResearchGate: only Jiwoo-Song-4 (Duke, Mechanical Eng & Materials Science) and Jiwoo-Song-5 (Penn State, Aerospace Eng) -- both different fields and different people; no Samsung/NLP profile exists."
+}

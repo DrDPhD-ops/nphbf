@@ -1,0 +1,12 @@
+{
+ "row": 279,
+ "name": "Peerat Limkonchotiwat",
+ "linkedin_url": "https://sg.linkedin.com/in/peerat-limkonchotiwat",
+ "linkedin_status": "confirmed",
+ "email_verified": "peerat@aisingapore.org",
+ "email_status": "verified",
+ "email_source": "arXiv 2508.12243 (SEA-BED) PDF author block: '{peerat,raymond,railey,jiangangngui,yosephine,wtjhi}@aisingapore.org' -- 6 handles matching the 6 AI Singapore authors in order, Peerat listed first",
+ "researchgate_url": "https://www.researchgate.net/profile/Peerat-Limkonchotiwat",
+ "researchgate_status": "found",
+ "evidence": "Name is distinctive; anchors nonetheless verified. LinkedIn sg/in/peerat-limkonchotiwat: 'Research Fellow at AI Singapore', snippet names PhD at VISTEC, SEA-LION and SEACrowd -- matches both the row's past (VISTEC) and present (AI Singapore) orgs. ResearchGate Peerat-Limkonchotiwat: 'PhD Student, Ph.D. in Information Science and Technology, Vidyasirimedhi Institute of Science and Technology, Rayong', snippet cites his SEA-VL and SEA-BED work -- SEA-VL is the row's Discovered_Via paper. Email: real printed address from the SEA-BED author block; email-group order maps 1:1 onto the AI Singapore (affiliation 2) author order (Peerat Limkonchotiwat, Raymond Ng, Jann Railey Montalan, Jian Gang Ngui, Yosephine Susanto, William Chandra Tjhi -> peerat, raymond, railey, jiangangngui, yosephine, wtjhi). Not guessed. Also confirmed SEA-VL (arXiv 2503.07920) lists him with affiliations 58=AI Singapore, 59=Chulalongkorn University, 2=SEACrowd; that paper prints no individual emails (only seacrowd.research@gmail.com)."
+}

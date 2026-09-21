@@ -1,0 +1,12 @@
+{
+ "row": 265,
+ "name": "Nina White",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "not found",
+ "email_status": "not_found",
+ "email_source": "",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Confirmed as a Cardiff University (affiliation 2) co-author in arXiv 2406.09948 (BLEnD) author block, but BLEnD prints only 3 emails (junho00211@kaist.ac.kr, nlee0212@kaist.ac.kr, zhouy131@cardiff.ac.UK) - none hers. arXiv API shows BLEnD is her only paper, so no other paper to mine. Searched site:linkedin.com/in \"Nina White\" Cardiff University natural language processing -> only unrelated Nina Whites (Bruntwood SciTech, Wellcome Sanger genomics, MyTutor, Edinburgh nursing, NHS physiotherapy, Griffith art) - no NLP/CompSci anchor, rejected as namesakes. Searched site:researchgate.net/profile \"Nina White\" Cardiff -> Nina-White-4 is Cardiff University SCHOOL OF BIOSCIENCES (5 pubs, cited 4, molecular ecology) - wrong department, rejected. Searched \"Nina White\" Cardiff NLP BLEnD email and \"Nina White\" \"Cardiff NLP\" -> the only Cardiff staff profile is profiles.cardiff.ac.uk/research-staff/whiten8 = Dr Nina White, Biosciences, PhD 2022 on Madagascar big-headed turtle population genetics, email WhiteN8@cardiff.ac.uk - a DIFFERENT person (conservation biology, not NLP), so that address was deliberately NOT used. Cardiff NLP people pages (sites.google.com, cardiffnlp.github.io, profiles.cardiff.ac.uk) are egress-blocked. Extremely common English name with no independent NLP anchor found -> all not_found."
+}

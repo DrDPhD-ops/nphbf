@@ -1,0 +1,12 @@
+{
+ "row": 275,
+ "name": "Byeongcheol Kang",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "bc1.kang@samsung.com",
+ "email_status": "verified",
+ "email_source": "arXiv 2604.25676 (CORAL) PDF author block, printed verbatim as {jiwoooo.song,bc1.kang}@samsung.com",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Org correction: CORAL PDF author block shows Samsung Research (not KAIST); email line printed verbatim as '{jiwoooo.song,bc1.kang}@samsung.com' -> bc1.kang@samsung.com. LinkedIn: two searches ('Byeongcheol Kang' + Samsung / Samsung Research) returned no matching profile, only a pub/dir listing page (not a profile URL). Rejected namesakes with different actual names: ByeongKeun Kang, ByungKyu Kang (Samsung Electronics America), Byung Chan Kang PMP (Samsung Research America), Byungcheol Shin, Sangyeol Kang, Cheol Kang. ResearchGate: Byeong-Cheol-Kang-2 (Kwangwoon Univ, Electronic Material Engineering) and Byeong-Cheol-Kang (Kyungpook National Univ) -- materials/petroleum-engineering topics, not NLP; different people. No anchored profile."
+}
