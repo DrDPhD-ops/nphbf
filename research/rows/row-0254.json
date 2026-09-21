@@ -1,0 +1,12 @@
+{
+ "row": 254,
+ "name": "Haneul Yoo",
+ "linkedin_url": "https://kr.linkedin.com/in/haneulyoo",
+ "linkedin_status": "confirmed",
+ "email_verified": "haneul.yoo@kaist.ac.kr",
+ "email_status": "verified",
+ "email_source": "printed in the author block of arXiv 2406.15481v3 (Code-Switching Red-Teaming), listed as 'Haneul Yoo / Affiliation: KAIST / Email: haneul.yoo@kaist.ac.kr' -- https://arxiv.org/html/2406.15481",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn: 'Haneul Yoo - Korea Advanced Institute of Science and Technology' (kr.linkedin.com/in/haneulyoo); snippet describes a final-year PhD candidate at KAIST advised by Prof. Alice Oh -- two independent anchors (KAIST + advisor Alice Oh, row 249, her KoBBQ co-author). Namesakes rejected: Haneul Yoo at Celonis (Staff UX for AI), one in Freiburg Germany, and 'Leah Haneul Yoo' health project manager in Austria. Email NEWLY FOUND, real printed address from the arXiv author block. ResearchGate: the profile at researchgate.net/profile/Haneul-Yoo is a DIFFERENT PERSON -- 'PhD Student | B.S. in Biochemistry | University of Chicago | Department of Biochemistry & Molecular Biology' (co-located with D. Allan Drummond, UChicago biochemistry); no KAIST/NLP anchor, so rejected under the namesake rule and recorded as not_found."
+}
