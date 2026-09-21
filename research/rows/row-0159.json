@@ -1,0 +1,12 @@
+{
+ "row": 159,
+ "name": "Yuhan Liu",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "not found",
+ "email_status": "not_found",
+ "email_source": "",
+ "researchgate_url": "https://www.researchgate.net/profile/Yuhan-Liu-49",
+ "researchgate_status": "found",
+ "evidence": "Shared anchor established first: the paper 'Can AI See the Unseen? Measuring the Perception Gap for Tibetan Cultural Symbols in AI-Generated Art' is Electronics 2026, 15(1), 15 (doi 10.3390/electronics15010015), authors from the School of Computer Science and Artificial Intelligence, Wuhan University of Technology (WHUT), Wuhan. ResearchGate snippet 'Yuhan LIU | PhD Student | Doctor of Engineering | Wuhan University of Technology, Wuhan | WHUT' matches that org anchor exactly. LinkedIn: searched site:linkedin.com/in \"Yuhan Liu\" \"Wuhan University of Technology\" - only namesakes at Google, Meta, NYU, Northeastern, Tsinghua; none at WHUT, rejected. Email: MDPI page (mdpi.com, mdpi-res.com), doi.org, Crossref, DOAJ and scholar.archive.org are all blocked by the egress proxy, so the printed correspondence address could not be read; no address found elsewhere and none guessed."
+}

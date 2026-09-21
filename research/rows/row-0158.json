@@ -1,0 +1,12 @@
+{
+ "row": 158,
+ "name": "Sophia Ananiadou",
+ "linkedin_url": "https://www.linkedin.com/in/sophia-ananiadou-ba98b63/",
+ "linkedin_status": "confirmed",
+ "email_verified": "sophia.ananiadou@manchester.ac.uk",
+ "email_status": "verified",
+ "email_source": "arXiv:2601.14063 (XCR-Bench) printed as {mdmohsinul.kabir, sophia.ananiadou}@manchester.ac.uk (pre-verified in anchors.md)",
+ "researchgate_url": "https://www.researchgate.net/profile/Sophia-Ananiadou-2",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn snippet describes her as Professor in the Department of Computer Science, University of Manchester and Director of NaCTeM, working in NLP/biomedical text mining - exact match to anchor (the result title shows a secondary Wuhan University honorary role, body text confirms Manchester/NaCTeM). ResearchGate snippet: 'Sophia ANANIADOU | The University of Manchester, Manchester | School of Computer Science' - org anchor matched. Email copied from anchors.md, not re-searched."
+}

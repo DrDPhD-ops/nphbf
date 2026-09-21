@@ -1,0 +1,12 @@
+{
+ "row": 164,
+ "name": "Nikolay V. Nazarov",
+ "linkedin_url": "not found",
+ "linkedin_status": "not_found",
+ "email_verified": "not found",
+ "email_status": "not_found",
+ "email_source": "",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "Paper 'First pancake is always lumpy...' is not on arXiv (checked the arXiv API for au:Shulginov, au:Nazarov+LLM and all:lumpy+idioms - no hits) and no landing page for it surfaced. Best anchor obtained indirectly: co-author V. A. Shulginov = Valeriy Aleksandrovich Shulginov, leading researcher at the HSE University Laboratory of Linguistic Conflictology and Modern Communication Practices (he appears on a Dialogue-2025 paper 'Evaluating the Pragmatic Competence of Large Language Models'). Searched site:linkedin.com/in \"Nikolay Nazarov\" HSE/Higher School of Economics linguistics NLP and site:researchgate.net/profile \"Nikolay Nazarov\" (+ HSE, + linguistics Russian): no profile for this person on either site. Rejected candidates: Nazarii Nazarov (CNRS), Mykola Nazarov (Sumy State, political science), Vasiliy/Vadim/Alexey Nazarov (HSE but urban planning, computational immunology, IT engineering) - wrong person or wrong field; an independent.academia.edu/NikolayNazarov profile exists but lists no institution and is neither LinkedIn nor ResearchGate. Email: no address printed anywhere reachable; none guessed."
+}
