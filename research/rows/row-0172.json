@@ -1,12 +1,12 @@
 {
  "row": 172,
  "name": "Mona T. Diab",
- "linkedin_url": "not found",
- "linkedin_status": "not_found",
+ "linkedin_url": "https://www.linkedin.com/in/mona-diab-55946614/",
+ "linkedin_status": "confirmed",
  "email_verified": "mdiab@andrew.cmu.edu",
  "email_status": "verified",
  "email_source": "arXiv HTML 2510.05931 author block",
- "researchgate_url": "not found",
- "researchgate_status": "not_found",
- "evidence": "Affiliation anchor: Carnegie Mellon University, Language Technologies Institute; senior author of arXiv 2510.05931 'Hire Your Anthropologist'. Email copied from the pre-verified anchors file using the corrected offset mapping (mdiab -> Mona T. Diab). LinkedIn and ResearchGate: not searched - the 20-call WebSearch budget was exhausted on rows 165-168, so both are reported not_found rather than guessed. She is a well-known NLP professor and both profiles are very likely findable with fresh budget."
+ "researchgate_url": "https://www.researchgate.net/profile/Mona-Diab",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn: linkedin.com/in/mona-diab-55946614/ with snippet title 'Mona Diab - Director of LTI (CMU), ACL Fellow, Elected ...' - direct CMU Language Technologies Institute directorship anchor matching the senior author of arXiv 2510.05931. The profile surfaced repeatedly as a high-rank hit across the CMU-scoped searches in this batch, so no dedicated LinkedIn query was needed. ResearchGate: researchgate.net/profile/Mona-Diab, 'Mona DIAB | Professor (Full) | PhD | George Washington University | Department of Computer Science' - GWU CS is her documented prior affiliation before Meta AI and CMU, and the profile is the NLP Mona T. Diab (~8,668 citations, 120 publications). Namesakes explicitly excluded: Mona Youssry Diab (Alexandria Univ., Plant Pathology), Mona Diab Assaf and Mona Diab (Lebanese University, cancer biology/pharmacology), and a secondary duplicate stub profile Mona-Diab-3 (also GWU CS, 71 publications) which was not selected in favour of the primary profile."
 }

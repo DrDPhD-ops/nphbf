@@ -1,12 +1,12 @@
 {
  "row": 170,
  "name": "Yunze Xiao",
- "linkedin_url": "not found",
- "linkedin_status": "not_found",
+ "linkedin_url": "https://www.linkedin.com/in/yunzexiao/",
+ "linkedin_status": "confirmed",
  "email_verified": "yunzex@andrew.cmu.edu",
  "email_status": "verified",
  "email_source": "arXiv HTML 2510.05931 author block",
- "researchgate_url": "not found",
- "researchgate_status": "not_found",
- "evidence": "Affiliation anchor: Carnegie Mellon University (CMU-Qatar), co-author of arXiv 2510.05931 'Hire Your Anthropologist'. Email copied from the pre-verified anchors file (yunzex -> Yunze Xiao). LinkedIn and ResearchGate: not searched - the 20-call WebSearch budget was exhausted on rows 165-168, so both are reported not_found rather than guessed. Worth a follow-up pass with fresh budget."
+ "researchgate_url": "https://www.researchgate.net/profile/Yunze-Xiao",
+ "researchgate_status": "found",
+ "evidence": "LinkedIn: top hit of site:linkedin.com/in \"Yunze Xiao\" Carnegie Mellon Qatar was linkedin.com/in/yunzexiao/ (headline org: 2077AI Open Source Foundation). Anchor: profile content references his co-authorship of the EACL2026 culture-benchmark-for-LLMs paper (= arXiv 2510.05931) and CS at Carnegie Mellon University Qatar; headline org is an AI/LLM open-source foundation, consistent with his work, not a different field. ResearchGate: researchgate.net/profile/Yunze-Xiao. Caveat - the RG affiliation string is stale/mis-assigned ('University of Leeds, Centre for Business Law and Practice'), but the profile's publication list is the topical anchor: LLM preprints 'Can LLMs Estimate Student Struggles? Human-AI Difficulty Alignment...' (2025) and 'The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models' (2026), which match the CMU Yunze Xiao's LLM-evaluation/persona/culture line of work. Marked found on the publication anchor; affiliation field on RG should not be trusted."
 }
