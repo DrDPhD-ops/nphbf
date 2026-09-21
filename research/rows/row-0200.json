@@ -1,0 +1,12 @@
+{
+ "row": 200,
+ "name": "Dylan Hadfield-Menell",
+ "linkedin_url": "https://www.linkedin.com/in/dylan-hadfield-menell-a5055019/",
+ "linkedin_status": "confirmed",
+ "email_verified": "dhm@mit.edu",
+ "email_status": "verified",
+ "email_source": "https://arxiv.org/html/2501.08618v1 (author block: 'Dylan Hadfield-Menell / Affiliation: CSAIL, MIT / Email: dhm@mit.edu')",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "LinkedIn snippet names Massachusetts Institute of Technology and the Algorithmic Alignment Group at MIT CSAIL, matching the MIT co-author of 2503.08688; name is distinctive, no homonyms surfaced. Email is literally printed in the arXiv HTML author block of 2501.08618v1 (also dylanhm@mit.edu printed in 2606.07653v1); 2503.08688 itself prints only the two student emails, and people.csail.mit.edu / eecs.mit.edu are blocked by the egress proxy. ResearchGate: site: search returned no profile page for him, only collaborators' profiles (Andreea Bobu, Dorsa Sadigh etc.) citing his papers."
+}

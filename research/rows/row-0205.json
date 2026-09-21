@@ -1,0 +1,12 @@
+{
+ "row": 205,
+ "name": "Jingren Wang",
+ "linkedin_url": "https://www.linkedin.com/in/wangjingren/",
+ "linkedin_status": "confirmed",
+ "email_verified": "not found",
+ "email_status": "not_found",
+ "email_source": "",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "CSV 'Jing-Ren Wang' is wrong; arXiv HTML 2411.06032v1 prints 'Jingren Wang *', Schwarzman College, Tsinghua University, Beijing. LinkedIn profile wangjingren is described in snippets as Schwarzman Scholar '24 working on AI Governance & Alignment, Minerva class of 2021, now at Microsoft on 'Capstone Research - LLM Alignment' - three anchors matching the paper (Schwarzman 2024 cohort, LLM alignment capstone, Microsoft link via co-author Jindong Wang of Microsoft Research Asia). The other same-name profiles (Western Digital, Medtronic) and the unrelated EDA/logic-synthesis author Jingren Wang on arXiv 2605.08743 / 2512.12554 were rejected. ResearchGate: only homonyms at TU Munich and Rutgers mechanical engineering - rejected. No email printed in the LLM-GLOBE HTML; no other arXiv paper by this person."
+}

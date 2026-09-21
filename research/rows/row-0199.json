@@ -1,0 +1,12 @@
+{
+ "row": 199,
+ "name": "Stephen Casper",
+ "linkedin_url": "https://www.linkedin.com/in/stephen-casper-858829b2/",
+ "linkedin_status": "confirmed",
+ "email_verified": "scasper@mit.edu",
+ "email_status": "verified",
+ "email_source": "https://arxiv.org/html/2503.08688",
+ "researchgate_url": "https://www.researchgate.net/profile/Stephen-Casper-6",
+ "researchgate_status": "found",
+ "evidence": "Email scasper@mit.edu literally printed in arXiv HTML of 2503.08688 and repeatedly in his other papers (2502.09618, 2404.02949, 2403.05030). LinkedIn anchor: PhD at MIT + AI safety (UK AI Security Institute residency, International AI Safety Report, BlueDot Impact) matches the AI-alignment researcher; same-name profiles at Clarkson University (history of science professor), MarketAxess and Vastardis Capital rejected as homonyms. ResearchGate: 'Stephen CASPER | PhD Student | MIT | Department of Electrical Engineering and Computer Science' chosen over Stephen Casper of Harvard Bioengineering and of Clarkson University."
+}

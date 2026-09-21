@@ -1,0 +1,12 @@
+{
+ "row": 204,
+ "name": "Vishwanatha Rao",
+ "linkedin_url": "https://www.linkedin.com/in/vish-rao-380b7a196/",
+ "linkedin_status": "confirmed",
+ "email_verified": "vishwanatha.rao@pennmedicine.upenn.edu",
+ "email_status": "verified",
+ "email_source": "https://arxiv.org/html/2409.10829v1 (author block of 'ReXErr', prints vishwanatha.rao@pennmedicine.upenn.edu for Vishwanatha M. Rao)",
+ "researchgate_url": "not found",
+ "researchgate_status": "not_found",
+ "evidence": "CSV 'V. Rao' resolved from arXiv HTML 2411.06032v1: 'Vishwanatha Rao *', Schwarzman College, Tsinghua University, Beijing. LinkedIn headline 'Vish Rao - MD-PhD @ UPenn | Schwarzman Scholars '24' supplies two independent anchors at once: the Schwarzman-Tsinghua year matching the LLM-GLOBE affiliation (profile text describes the Tsinghua master's and a Beijing thesis) and the UPenn medical affiliation matching the printed address vishwanatha.rao@pennmedicine.upenn.edu in his medical-AI paper 2409.10829v1; same person also appears as Vishwanatha Rao on the Penn/Susztak-lab paper 2509.26223. Indian namesakes (Pratt & Whitney, Rizing, State Bank of India) rejected. ResearchGate: only a mechanical-engineering homonym at Genba Sopanrao Moze College of Engineering - rejected."
+}

@@ -1,0 +1,12 @@
+{
+ "row": 198,
+ "name": "Ariba Khan",
+ "linkedin_url": "https://www.linkedin.com/in/aribakhan05/",
+ "linkedin_status": "confirmed",
+ "email_verified": "akhan02@mit.edu",
+ "email_status": "verified",
+ "email_source": "https://arxiv.org/html/2503.08688",
+ "researchgate_url": "https://www.researchgate.net/profile/Ariba-Khan-8",
+ "researchgate_status": "found",
+ "evidence": "Email akhan02@mit.edu literally printed in arXiv HTML of 2503.08688 (Discovered_Via paper). ResearchGate snippet anchors 'Ariba KHAN | Massachusetts Institute of Technology, Cambridge | MIT | MIT Computer Science and Artificial Intelligence Laboratory' = same MIT CSAIL affiliation as the paper. LinkedIn: only one of ~10 same-name profiles carries an MIT anchor ('building crosby.ai', education Massachusetts Institute of Technology, US-based, AI work); all other Ariba Khan profiles are India/Pakistan-based in unrelated fields (building physics, Firstsource, IBM India) and were rejected."
+}
