@@ -83,3 +83,96 @@ These are **not** in the data as addresses — they are leads recorded in
 
 `shaikhshaibaj100-sys/shakihshaibajcode` has a Groq API key committed in
 plaintext (`gsk_kxm5…`). Unrelated to this task, noted because it was seen.
+
+---
+
+# Passes 2 and 3 (after the table was merged to 288 rows)
+
+The table changed under this work: nine duplicate rows were merged upstream and
+the `Organization` column was repaired, so the first pass's `row` numbers no
+longer address the same people. **Every pass-1 file now also carries
+`row_new_288`**, its row in the current table. Pass-2 and pass-3 files are keyed
+to the 288-row table directly.
+
+- `row-NNNN.json`    — pass 1, GitHub-first. Key by `row_new_288`.
+- `p2-row-NNNN.json` — pass 2, WebSearch by surname + affiliation. 71 rows.
+- `p3-row-NNNN.json` — pass 3, arXiv title pages via alphaXiv. 24 rows.
+
+**Result: 22 rows of the current table carry an address; 69 remain open.**
+
+## Pass 3 found a channel that was assumed dead
+
+`arxiv.org` is egress-blocked, but the **alphaXiv MCP tools read arXiv PDFs
+anyway**, and cost nothing against the WebSearch budget. That restores the
+task's priority-5 source (arXiv full text). Any future pass with an arXiv id
+should start there: `mcp__alphaXiv__answer_pdf_queries` returns the literal
+title page, including correspondence footnotes.
+
+What it showed is that the ceiling here is the papers, not the tooling. Of the
+distinct papers read, most print **no address at all**, and the rest print only
+the corresponding author's. Addresses that belong to a *co-author* and must
+never be attached to these rows: `xcfeng@ir.hit.edu.cn`, `yfye@ir.hit.edu.cn`
+(CultureForest), `mwkim@selectstar.ai`, `minjae.jung@selectstar.ai` (DATUMO),
+`zhouy131@cardiff.ac.uk` (BLEnD — Yi Zhou, not Nina White),
+`yanghaiqin@sztu.edu.cn` (CultSportQA/NRITYAM), `jiseon_kim@kaist.ac.kr`,
+`xiaoyuanyi@microsoft.com`, `jy.bak@skku.edu`.
+
+## A trap that produced two wrong answers, both caught and reverted
+
+Pass 3's row selection harvested arXiv ids with a regex over the row's text
+columns. For nine rows the id came only from the `Evidence` column — where the
+parent session had recorded it **while rejecting that author as a namesake**.
+Two of those produced a confidently-wrong address before the provenance was
+audited:
+
+- row 53 (Vaibhav Mehta) → `vm353@cornell.edu` — the Cornell author the parent
+  session had explicitly rejected.
+- row 107 (Meng-Xi Guo) → `guomengxi.qoelab@bytedance.com` — the ByteDance
+  video-compression namesake the parent session had explicitly rejected.
+
+Both are reverted to `not found`, with the full reasoning in their `evidence`.
+**Lesson for any future pass: an identifier taken from an `Evidence` column may
+be there as a rejection, not as provenance. Check which column it came from.**
+
+## One address rests on a weaker footing than the rest
+
+Row 58, Cassady Shoaff, `shoaffc@montclair.edu`. Pass 1 dropped it because
+`surname+initial@institution` is a derivable convention and montclair.edu cannot
+be opened here. Pass 2 found it independently, and a second query on the literal
+address string returned the specific faculty page that carries it — evidence the
+string is indexed on that page rather than merely plausible. It is kept on that
+basis, but it is the one entry that would fall first under a stricter bar.
+
+Rejected on the same derivability test, recorded as candidates in `evidence`:
+`matteo.fabbri@imtlucca.it` (row 79), `christoph.kenntemich@uni-giessen.de` and
+`daan.brueckner-collet@uni-mannheim.de` (rows 160/161 — the Giessen domain also
+contradicts his confirmed RPTU affiliation), `ekarinshak@gmail.com` (row 195),
+`kklokova@hse.ru` (row 208), `ryan.kapma@neso.energy` (row 42, from a LeadIQ
+org-wide pattern).
+
+## Where the remaining 69 rows actually stand
+
+They split into two populations, and neither is short of effort:
+
+1. **LinkedIn-only practitioners** (freelancers, students, corporate staff).
+   They have no author block and no directory entry, so the technique has
+   nothing to bite on. Several are confirmed identities with a *masked*
+   aggregator address — the address exists and is simply unreadable:
+   `b******@aifourall.org` (row 48), `m******@internews.org` (row 74),
+   `j******@hyundaielevator.com` (row 90), `****@ibu.edu.mk` (row 113),
+   `e******@minohealth.org` (row 201), plus rows 24, 66, 76.
+2. **Paper co-authors whose paper prints only the corresponding author.**
+   Nothing short of a personal page or a mailing-list archive will close these.
+
+Single highest-value fetches if egress ever opens: the MDPI article
+`10.3390/bdcc10090290` (would likely resolve rows 107, 109, 115, 116 at once)
+and the Dialogue-2025 PDF `GromenkoEetal.029.pdf` (rows 210, 211).
+
+## Untried channel
+
+`mcp__github__search_commits` works globally but needs a `repo:`/`org:`/`user:`
+scope. The DATUMO repos (`selectstar-ai/CAGE-paper`,
+`selectstar-ai/STAR-Teaming-paper`) and `YYF-Tommy/CultureForest` are public and
+were never mined for committer addresses. `api.github.com/users/...`,
+`list_commits` and GitHub profile HTML are all blocked — the session's GitHub
+API is scoped to `drdphd-ops/nphbf`.
